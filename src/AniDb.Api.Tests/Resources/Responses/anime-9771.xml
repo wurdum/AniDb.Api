@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anime id="9771" restricted="false">
+    <type>TV Series</type>
+    <episodecount>12</episodecount>
+    <startdate>2013-09-23</startdate>
+    <titles>
+        <title type="main" xml:lang="x-jat">Golden Time</title>
+        <title type="official" xml:lang="ja">ゴールデンタイム</title>
+        <title type="official" xml:lang="en">Golden Time</title>
+        <title type="official" xml:lang="ko">골든 타임</title>
+        <title type="official" xml:lang="zh-Hans">金色时光</title>
+    </titles>
+    <similaranime>
+        <anime approval="5" id="5909" total="10">Toradora!</anime>
+    </similaranime>
+    <recommendations total="2">
+        <recommendation type="For Fans" uid="279344">In the 1/4 of the story. Good romance, interesting relationships and amnesia as a wild card... or the heroine? Your choice. With the story progress, I thought it will be 12-13 episodes series at first. Looking forward to slightly unknown in the next 18 episodes.</recommendation>
+        <recommendation type="Recommended" uid="577587">Recommended for all fans of romance. I only watched till episode 6 and it`s going good. The main guy is interesting since he has memories loss and he tries to find is older self (Spoiler , my bad :&amp;gt; ). Not a waste of time. Btw my first review. (sry if it`s bad)</recommendation>
+    </recommendations>
+    <url>http://golden-time.jp/</url>
+    <creators>
+        <name id="8966" type="Original Work">Takemiya Yuyuko</name>
+        <name id="3073" type="Music">Hashimoto Yukari</name>
+        <name id="535" type="Series Composition">Shimo Fumihiko</name>
+        <name id="3391" type="Character Design">Hasegawa Shin`ya</name>
+        <name id="1482" type="Direction">Kon Chiaki</name>
+        <name id="720" type="Animation Work">J.C.Staff</name>
+    </creators>
+    <description>http://anidb.net/ch58576 [Tada Banri] is a newly admitted student at a private law school in Tokyo. Due to the after-effects of an accidental fall from a bridge shortly after high school graduation, he lost all his memories from before then. At the time of the accident, Banri`s soul had escaped from his body, and the Spirit of Tada Banri came into being, carrying his memories from before graduation.Banri finds himself completely lost after the opening ceremony, trying to find his way to the freshman orientation. At that moment, he runs into another lost freshman from the same school, http://anidb.net/ch58574 [Yanagisawa Mitsuo], and they hit it off at once. Somehow arriving at their intended goal just on time, there appears in front of them a beautiful girl holding a bouquet of roses, who hits Mitsuo across the face with them and hands the flowers over to him. This stylish, well dressed, and perfect woman is his childhood friend http://anidb.net/ch58577 [Kaga Kouko]. As children, they had promised to marry each other one day, fulfilling their dreams. In order to escape from her, Mitsuo had gone out secretly and taken the examination for this well-known private college, but she also took the law school entrance examination, catching up with him there.Source: WikipediaNote: The first episode was pre-aired at a special event on 23.09.2013, regular TV broadcast started on 04.10.2013.</description>
+    <ratings>
+        <permanent count="164">5.66</permanent>
+        <temporary count="169">7.36</temporary>
+    </ratings>
+    <picture>138270.jpg</picture>
+    <categories>
+        <category hentai="false" id="17" parentid="313" weight="400">
+            <name>Comedy</name>
+            <description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+        </category>
+        <category hentai="false" id="230" parentid="198" weight="500">
+            <name>Love Polygon</name>
+            <description>A love polygon refers to a romantic relationship involving n people. Although a love triangle is not limited to just heterosexual relationships, in anime, it usually deals with two females liking one male and vice versa.</description>
+        </category>
+        <category hentai="false" id="198" parentid="313" weight="600">
+            <name>Romance</name>
+            <description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+        </category>
+        <category hentai="false" id="240" parentid="21" weight="600">
+            <name>College</name>
+            <description>Since college/university students are typically at least eighteen years old, with stories covering mature everyday life topics, you will find the college setting quite often in seinen and josei anime.
+
+Topics that can now be covered - as compared to High School settings - are higher education (i.e. coping with higher intellectual stress), the more adult party life (i.e. alcohol, smoking, sex), the issues of daily life vs. studying - especially when having to work to pay for bills, and finally the possible friction between those in and out of college. </description>
+        </category>
+        <category hentai="false" id="11" parentid="6" weight="300">
+            <name>Present</name>
+            <description>Somewhere between past and future</description>
+        </category>
+        <category hentai="false" id="514" parentid="23" weight="600">
+            <name>Tokyo</name>
+            <description>Tokyo, as real-world location is the backdrop of this anime.Tokyo (東京 Tōkyō, &quot;Eastern Capital&quot;) is one of the 47 prefectures of Japan. Tokyo is the capital of Japan, the centre of the Greater Tokyo Area, and the largest metropolitan area of the world. It is the seat of the Japanese government and the Imperial Palace, and the home of the Japanese Imperial Family. Tokyo is in the Kantou region on the south-eastern side of the main island Honshu and includes the Izu Islands and Ogasawara Islands. Tokyo Metropolis was formed in 1943 from the merger of the former Tokyo Prefecture (東京府 Tōkyō-fu) and the city of Tokyo (東京市 Tōkyō-shi).(Source: Wikipedia)</description>
+        </category>
+        <category hentai="false" id="274" parentid="268" weight="600">
+            <name>Novel</name>
+            <description>Note that novel means book with words in paper, so no comics and no &quot;visual novels&quot;, which should go under manga and dating-sim - visual Novel/erotic game respectively.Note that it can be applied to novels as we know them but also the typical light novels for teens and young adults, which are common in Japan and aside from being short include a number of illustrations.</description>
+        </category>
+    </categories>
+    <resources>
+        <resource type="1">
+            <externalentity>
+                <identifier>15548</identifier>
+            </externalentity>
+        </resource>
+        <resource type="2">
+            <externalentity>
+                <identifier>17895</identifier>
+            </externalentity>
+        </resource>
+        <resource type="4">
+            <externalentity>
+                <url>http://golden-time.jp/</url>
+            </externalentity>
+        </resource>
+        <resource type="6">
+            <externalentity>
+                <identifier>Golden_Time_(novel_series)</identifier>
+            </externalentity>
+        </resource>
+        <resource type="7">
+            <externalentity>
+                <identifier>ゴールデンタイム_(小説)</identifier>
+            </externalentity>
+        </resource>
+        <resource type="8">
+            <externalentity>
+                <identifier>3165</identifier>
+            </externalentity>
+        </resource>
+        <resource type="9">
+            <externalentity>
+                <identifier>346987</identifier>
+            </externalentity>
+        </resource>
+        <resource type="10">
+            <externalentity>
+                <identifier>16517</identifier>
+            </externalentity>
+        </resource>
+    </resources>
+    <tags>
+        <tag approval="4" globalspoiler="false" id="1426" localspoiler="false" spoiler="false" update="2012-01-30">
+            <name>ojou</name>
+            <count>55</count>
+            <description>The ojou (&quot;princess&quot;, called &quot;ojou-sama&quot; in the anime) may be many things (perhaps even a real princess), but she is undoubtedly rich, either in her own right or by being part of an absurdly powerful family. The ojou is noticeable by her shrill and obnoxious laugh often (if not always) while putting the backside of her hand in front of her mouth.</description>
+        </tag>
+        <tag approval="6" globalspoiler="false" id="655" localspoiler="false" spoiler="false" update="2010-01-20">
+            <name>amnesia</name>
+            <count>163</count>
+            <description>Loss of memory.Used as story element, gradually revealing a protagonist`s past that had been forgotten. Usually revealing a terribly gruesome happening.</description>
+        </tag>
+        <tag approval="6" globalspoiler="false" id="3809" localspoiler="false" spoiler="false" update="2009-01-04">
+            <name>university</name>
+            <count>14</count>
+        </tag>
+        <tag approval="2" globalspoiler="false" id="6458" localspoiler="false" spoiler="false" update="2013-08-30">
+            <name>post-credits scene</name>
+            <count>110</count>
+            <description>A little bit of the story is found after the credit titles. A little bonus for those patient enough!</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="1242" localspoiler="false" spoiler="false" update="2009-06-08">
+            <name>facial distortion</name>
+            <count>90</count>
+            <description>The characters face are exaggerated into a misshape, deformed, and almost warped. Used as comedy element to express extreme mood swings.Differing from &quot;Super Deformed&quot;, here only the face changes to an extreme degree, not the whole body of the protagonist.</description>
+        </tag>
+    </tags>
+    <characters>
+        <character id="58571" type="secondary cast in" update="2013-09-23">
+            <rating votes="1">6.09</rating>
+            <name>Nana-senpai</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Nana is a third-year female student. She dresses and acts similarly to the character of the same name in the manga http://en.wikipedia.org/wiki/Nana_%28manga%29 [Nana].Source: Wiki</description>
+            <picture>143484.jpg</picture>
+            <seiyuu id="162" picture="23208.jpg">Satou Satomi</seiyuu>
+        </character>
+        <character id="58572" type="secondary cast in" update="2013-09-23">
+            <rating votes="1">6.52</rating>
+            <name>Satou Takaya</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Takaya is a freshman and Banri`s friend. He gains his nickname Nijigen (lit. 2D) at the tea ceremony club`s welcoming party after declaring his despair of the three-dimensional world and that he would live for the two-dimensional world from then on.Source: Wiki</description>
+            <picture>143486.jpg</picture>
+            <seiyuu id="24093" picture="124751.jpg">Hikami Takahiro</seiyuu>
+        </character>
+        <character id="58573" type="secondary cast in" update="2013-09-23">
+            <rating votes="5">8.22</rating>
+            <name>Oka Chinami</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Chinami is a short female student, and member of the Film Research Society. She is a voice actress, voicing very young girls.Source: Wiki</description>
+            <picture>143485.jpg</picture>
+            <seiyuu id="32738" picture="88323.jpg">Kido Ibuki</seiyuu>
+        </character>
+        <character id="58574" type="main character in" update="2013-09-23">
+            <rating votes="5">4.37</rating>
+            <name>Yanagisawa Mitsuo</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Mitsuo is a freshman studying law in the same university as Banri. After the entrance ceremony, heading for freshman orientation, he gets lost on the campus, and meets and befriends Banri. Banri calls him Yanassan (ヤナっさん). He has been the target of Kouko`s obsessive, one-sided affection since their elementary school years. He secretly took the exam to this university in an attempt to escape from her. He lives alone in an apartment three train stops away from Banri`s.Source: Wiki</description>
+            <picture>143482.jpg</picture>
+            <seiyuu id="34296" picture="131974.jpg">Ishikawa Kaito</seiyuu>
+        </character>
+        <character id="58575" type="secondary cast in" update="2013-09-23">
+            <rating votes="6">7.57</rating>
+            <name>Hayashida Nana</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Nana is a second-year student and member of the Japanese Culture Festival Research Society. Leaving out the details, she invites Banri and Kouko to join. She went to high school with Banri and was his very close friend before his accident.Source: Wiki</description>
+            <picture>143483.jpg</picture>
+            <seiyuu id="20497" picture="62433.jpg">Kayano Ai</seiyuu>
+        </character>
+        <character id="58576" type="main character in" update="2013-09-23">
+            <rating votes="5">5.63</rating>
+            <name>Tada Banri</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Banri is a freshman studying law in a private university in Tokyo. His hometown is in Shizuoka Prefecture, and he now lives alone in a small apartment. A little after his third-year high school graduation ceremony, he fell from a bridge and now suffers from severe retrograde amnesia, unable to remember anything from before. He missed the college entrance exam and one year of school because of his hospitalization.Source: Wiki</description>
+            <picture>143481.jpg</picture>
+            <seiyuu id="34070" picture="130103.jpg">Furukawa Makoto</seiyuu>
+        </character>
+        <character id="58577" type="main character in" update="2013-09-23">
+            <rating votes="13">7.98</rating>
+            <name>Kaga Kouko</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Kouko is a freshman law student at Banri`s university. Careful of how she looks, to all appearances she is the perfect lady. In their first year of elementary school, she was friends with Mitsuo. In that time, she made a promise to marry Mitsuo, and ever since had been making her plans so that everything would come out perfect, and showing them off to Mitsuo. Since they now both attend the same university, she asks Banri about Mitsuo`s schedule, relentlessly following after him.Source: Wiki</description>
+            <picture>143480.jpg</picture>
+            <seiyuu id="61" picture="58663.jpg">Horie Yui</seiyuu>
+        </character>
+        <character id="58737" type="cameo appearance in" update="2013-11-06">
+            <rating votes="4">2.11</rating>
+            <name>Miss Monochrome</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <picture>145405.jpg</picture>
+        </character>
+        <character id="60209" type="appears in" update="2013-10-04">
+            <rating votes="1">6.09</rating>
+            <name>Sao-chan</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Sao-chan is a member of Tea Club.</description>
+            <picture>143871.jpg</picture>
+            <seiyuu id="355" picture="71573.jpg">Gotou Saori</seiyuu>
+        </character>
+        <character id="60210" type="appears in" update="2013-10-04">
+            <rating votes="1">6.09</rating>
+            <name>Shii-chan</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Shii-chan is a member of Tea Club.</description>
+            <picture>143869.jpg</picture>
+            <seiyuu id="182" picture="28111.jpg">Itou Shizuka</seiyuu>
+        </character>
+        <character id="60211" type="appears in" update="2013-10-04">
+            <name>Kyoushokuin</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <picture>143872.jpg</picture>
+            <seiyuu id="30309" picture="80361.jpg">Saitou Hironori</seiyuu>
+        </character>
+        <character id="60524" type="appears in" update="2013-10-18">
+            <name>Kan`yuuin</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <picture>144412.jpg</picture>
+            <seiyuu id="32750" picture="131377.jpg">Taneda Risa</seiyuu>
+        </character>
+        <character id="60750" type="appears in" update="2013-10-25">
+            <name>Kosshii-senpai</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Koshino, called Kosshii-senpai, is the president of Festival Club.</description>
+            <picture>144774.jpg</picture>
+            <seiyuu id="465" picture="56019.jpg">Kondou Takayuki</seiyuu>
+        </character>
+        <character id="60751" type="appears in" update="2013-10-25">
+            <name>Banri no Haha</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Banri`s mother.</description>
+            <picture>144777.jpg</picture>
+            <seiyuu id="442" picture="17326.jpg">Honda Takako</seiyuu>
+        </character>
+        <character id="61405" type="appears in" update="2013-11-09">
+            <name>Mae Kaichou</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Former president of Festival Club.</description>
+            <picture>145708.jpg</picture>
+            <seiyuu id="10906" picture="39133.jpg">Yanagita Jun`ichi</seiyuu>
+        </character>
+        <character id="61485" type="appears in" update="2013-11-14">
+            <name>Kouko no Chichi</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Kouko`s father.</description>
+            <picture>145864.jpg</picture>
+            <seiyuu id="3094" picture="50367.jpg">Kanao Tetsuo</seiyuu>
+        </character>
+    </characters>
+    <episodes>
+        <episode id="154590" update="2013-10-03">
+            <epno type="1">4</epno>
+            <length>25</length>
+            <airdate>2013-10-25</airdate>
+            <rating votes="8">7.54</rating>
+            <title xml:lang="ja">ブラックアウト</title>
+            <title xml:lang="en">Blackout</title>
+            <title xml:lang="fr">Black-out</title>
+            <title xml:lang="x-jat">Blackout</title>
+        </episode>
+        <episode id="154591" update="2013-10-03">
+            <epno type="1">3</epno>
+            <length>25</length>
+            <airdate>2013-10-18</airdate>
+            <rating votes="8">6.10</rating>
+            <title xml:lang="ja">ナイトエスケープ</title>
+            <title xml:lang="en">Night Escape</title>
+            <title xml:lang="fr">Échappée nocturne</title>
+            <title xml:lang="x-jat">Night Escape</title>
+        </episode>
+        <episode id="154592" update="2013-10-03">
+            <epno type="1">2</epno>
+            <length>25</length>
+            <airdate>2013-10-11</airdate>
+            <rating votes="9">5.50</rating>
+            <title xml:lang="ja">ロンリーガール</title>
+            <title xml:lang="en">Lonely Girl</title>
+            <title xml:lang="fr">La fille solitaire</title>
+            <title xml:lang="x-jat">Lonely Girl</title>
+        </episode>
+        <episode id="154593" update="2013-10-19">
+            <epno type="1">1</epno>
+            <length>25</length>
+            <airdate>2013-09-23</airdate>
+            <rating votes="9">5.25</rating>
+            <title xml:lang="ja">スプリングタイム</title>
+            <title xml:lang="en">Springtime</title>
+            <title xml:lang="fr">Le printemps</title>
+            <title xml:lang="x-jat">Spring Time</title>
+        </episode>
+        <episode id="154717" update="2013-10-04">
+            <epno type="3">C2</epno>
+            <length>2</length>
+            <airdate>2013-10-04</airdate>
+            <title xml:lang="en">Ending</title>
+        </episode>
+        <episode id="154718" update="2013-10-04">
+            <epno type="3">C1</epno>
+            <length>2</length>
+            <airdate>2013-10-04</airdate>
+            <title xml:lang="en">Opening</title>
+        </episode>
+        <episode id="155125" update="2013-10-18">
+            <epno type="1">8</epno>
+            <length>25</length>
+            <airdate>2013-11-22</airdate>
+            <title xml:lang="ja">リセット</title>
+            <title xml:lang="en">Reset</title>
+            <title xml:lang="x-jat">Reset</title>
+        </episode>
+        <episode id="155126" update="2013-10-18">
+            <epno type="1">7</epno>
+            <length>25</length>
+            <airdate>2013-11-15</airdate>
+            <rating votes="1">9.11</rating>
+            <title xml:lang="ja">マスカレード</title>
+            <title xml:lang="en">Masquerade</title>
+            <title xml:lang="x-jat">Masquerade</title>
+        </episode>
+        <episode id="155127" update="2013-10-18">
+            <epno type="1">6</epno>
+            <length>25</length>
+            <airdate>2013-11-08</airdate>
+            <rating votes="7">7.95</rating>
+            <title xml:lang="ja">イエス・ノー</title>
+            <title xml:lang="en">Yes No</title>
+            <title xml:lang="fr">Oui/Non</title>
+            <title xml:lang="x-jat">Yes No</title>
+        </episode>
+        <episode id="155128" update="2013-10-18">
+            <epno type="1">5</epno>
+            <length>25</length>
+            <airdate>2013-11-01</airdate>
+            <rating votes="7">6.58</rating>
+            <title xml:lang="ja">ボディ・アンド・ソウル</title>
+            <title xml:lang="en">Body and Soul</title>
+            <title xml:lang="fr">Corps et âme</title>
+            <title xml:lang="x-jat">Body and Soul</title>
+        </episode>
+        <episode id="155988" update="2013-11-14">
+            <epno type="1">12</epno>
+            <length>25</length>
+            <airdate>2013-12-20</airdate>
+            <title xml:lang="en">Episode 12</title>
+        </episode>
+        <episode id="155989" update="2013-11-14">
+            <epno type="1">11</epno>
+            <length>25</length>
+            <airdate>2013-12-13</airdate>
+            <title xml:lang="en">Episode 11</title>
+        </episode>
+        <episode id="155990" update="2013-11-14">
+            <epno type="1">10</epno>
+            <length>25</length>
+            <airdate>2013-12-06</airdate>
+            <title xml:lang="en">Episode 10</title>
+        </episode>
+        <episode id="155991" update="2013-11-14">
+            <epno type="1">9</epno>
+            <length>25</length>
+            <airdate>2013-11-29</airdate>
+            <title xml:lang="en">Episode 9</title>
+        </episode>
+    </episodes>
+</anime>

@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anime id="4555" restricted="false">
+    <type>TV Series</type>
+    <episodecount>11</episodecount>
+    <startdate>2006-10-13</startdate>
+    <enddate>2006-12-22</enddate>
+    <titles>
+        <title type="main" xml:lang="x-jat">Hataraki Man</title>
+        <title type="synonym" xml:lang="en">Working Man</title>
+        <title type="synonym" xml:lang="ru">Работяга</title>
+        <title type="synonym" xml:lang="x-jat">Hataraki-Man</title>
+        <title type="synonym" xml:lang="zh-Hans">工作狂</title>
+        <title type="short" xml:lang="x-jat">hataraki</title>
+        <title type="short" xml:lang="x-jat">hatarakiman</title>
+        <title type="official" xml:lang="ja">働きマン</title>
+    </titles>
+    <recommendations total="6">
+        <recommendation type="Recommended" uid="23">A nice comedy, not so long so not boring. Each episode plot is good and the character are interesting and well developed. Average ending</recommendation>
+        <recommendation type="Recommended" uid="292889">Nice Characters, easy to get into.</recommendation>
+    </recommendations>
+    <url>http://www.hataraki-anime.com/</url>
+    <creators>
+        <name id="7414" type="Original Work">Anno Moyoko</name>
+        <name id="2803" type="Character Design">Kagawa Hisashi</name>
+        <name id="6306" type="Music">Kanno Yuugo</name>
+        <name id="7668" type="Direction">Ono Katsumi</name>
+        <name id="753" type="Animation Work">Studio Gallop</name>
+        <name id="2803" type="Chief Animation Direction">Kagawa Hisashi</name>
+        <name id="7484" type="Chief Animation Direction">Watabe Yuuko</name>
+    </creators>
+    <description>* Based on the manga of the same name by http://anidb.net/cr7414 [Anno Moyoko], serialised from 2004 in Morning.http://anidb.net/ch3778 [Matsukata Hiroko] is a 28-year-old editor, who puts all she has into her work, and is known as a strong, straightforward working girl.She smokes too much, works too much, and never has time to eat anything other than junk food. However, when it is time to get a story done, she switches into Working Man mode where she works three times her normal speed, and all thoughts of life`s necessities disappear.Despite Hiroko`s success at work, her life lacks romance. Too bad her boyfriend is an even bigger workaholic than herself.Source: AnimeNfo, ANN</description>
+    <ratings>
+        <permanent count="816">5.96</permanent>
+        <temporary count="821">7.26</temporary>
+        <review count="2">6.41</review>
+    </ratings>
+    <picture>11679.jpg</picture>
+    <categories>
+        <category hentai="false" id="273" parentid="268" weight="600">
+            <name>Manga</name>
+            <description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.</description>
+        </category>
+        <category hentai="false" id="79" parentid="3" weight="600">
+            <name>Seinen</name>
+            <description>In the context of manga and associated media, the word seinen refers to a male audience roughly between the ages of 15 and 44. In Japanese, the word means simply &quot;young man&quot;, and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+        </category>
+        <category hentai="false" id="22" parentid="289" weight="600">
+            <name>Asia</name>
+            <description>Asia is the world`s largest and most populous continent.</description>
+        </category>
+        <category hentai="false" id="289" parentid="7" weight="600">
+            <name>Earth</name>
+            <description>The Earth is the third planet from the Sun. It is a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). To its inhabitants, our planet is their home, so, as a species, we cherish it to the point many cultures even to this day deify it. The Earth is the main setting of most fiction, but many titles are set in other places, such as unrelated fantasy worlds, and in a considerable number of fictional titles the Earth is actually destroyed by invaders.</description>
+        </category>
+        <category hentai="false" id="233" parentid="216" weight="200">
+            <name>Plot Continuity</name>
+            <description>Consistency of the characteristics of persons, plot, objects, places and events seen by the viewer.
+
+A single linear focused plot is highly continuous.
+
+A truly random plot is highly discontinuous.</description>
+        </category>
+        <category hentai="false" id="11" parentid="6" weight="600">
+            <name>Present</name>
+            <description>Somewhere between past and future</description>
+        </category>
+        <category hentai="false" id="23" parentid="22" weight="600">
+            <name>Japan</name>
+            <description>Last stronghold for humanity, if Tokyo falls, it`s all over. Tokyo Tower will undoubtedly fall anyway.</description>
+        </category>
+        <category hentai="false" id="236" parentid="317" weight="400">
+            <name>Daily Life</name>
+            <description>The antics of the protagonists do not take place in some exotic setting or time, but in everyday life. When not &quot;at the job&quot; this means getting up in the morning, making meals, house cleaning, going shopping or out to eat, visiting the bath house or spa, leisure activities in the spare time, etc. The time &quot;on the job&quot; for students is School Life, for others working in their profession. Daily Life is basically a synonym for everything normal, repetitive, and trivial happening to your average person.</description>
+        </category>
+        <category hentai="false" id="252" parentid="313" weight="200">
+            <name>Angst</name>
+            <description>A feeling of general discomfort and uneasiness is present due to either trivial or more serious reasons, often accompanied by depression.
+
+Warning: may contain copious amounts of brooding and sighing.</description>
+        </category>
+        <category hentai="false" id="198" parentid="313" weight="200">
+            <name>Romance</name>
+            <description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+        </category>
+        <category hentai="false" id="256" parentid="317" weight="100">
+            <name>Art</name>
+            <description>Art plays an important part in the story and has central meaning to the characters (e.g. valuable paintings, or sculptures). Alternately the protagonists show a degree of artistic skill, e.g. as painters, sculptors, dress-makers, potters, musicians, composers, designers, etc.
+
+The anime will then centre on the development of those skills, from the unrecognized dilettante stages, right up to the moment of (commercial) breakthrough.</description>
+        </category>
+    </categories>
+    <resources>
+        <resource type="1">
+            <externalentity>
+                <identifier>6688</identifier>
+            </externalentity>
+        </resource>
+        <resource type="2">
+            <externalentity>
+                <identifier>1592</identifier>
+            </externalentity>
+        </resource>
+        <resource type="3">
+            <externalentity>
+                <identifier>3785</identifier>
+                <identifier>sgfzpn</identifier>
+            </externalentity>
+        </resource>
+        <resource type="4">
+            <externalentity>
+                <url>http://www.hataraki-anime.com/</url>
+            </externalentity>
+        </resource>
+        <resource type="6">
+            <externalentity>
+                <identifier>Hataraki_Man</identifier>
+            </externalentity>
+        </resource>
+        <resource type="7">
+            <externalentity>
+                <identifier>働きマン</identifier>
+            </externalentity>
+        </resource>
+        <resource type="8">
+            <externalentity>
+                <identifier>993</identifier>
+            </externalentity>
+        </resource>
+        <resource type="9">
+            <externalentity>
+                <identifier>326160</identifier>
+            </externalentity>
+        </resource>
+        <resource type="10">
+            <externalentity>
+                <identifier>8408</identifier>
+            </externalentity>
+        </resource>
+        <resource type="15">
+            <externalentity>
+                <identifier>2006/hatarakiman</identifier>
+            </externalentity>
+        </resource>
+        <resource type="19">
+            <externalentity>
+                <identifier>워킹맨_(드라마)</identifier>
+            </externalentity>
+        </resource>
+    </resources>
+    <tags>
+        <tag approval="17" globalspoiler="false" id="189" localspoiler="false" spoiler="false" update="2008-03-28">
+            <name>working life</name>
+            <count>41</count>
+        </tag>
+        <tag approval="8" globalspoiler="false" id="561" localspoiler="false" spoiler="false" update="2010-11-29">
+            <name>strong female lead</name>
+            <count>402</count>
+            <description>The lead female character has a strong personality and plays a part that is not the typical damsel-in-distress role. This is the exact opposite of the “damsel in distress” tag.</description>
+        </tag>
+        <tag approval="6" globalspoiler="false" id="287" localspoiler="false" spoiler="false" update="2012-08-31">
+            <name>jdrama adaptation</name>
+            <count>35</count>
+            <description>A jdrama (Japanese drama), also called &quot;terebi dorama&quot; (&quot;television drama&quot;) or &quot;dorama&quot; for short, is a Japanese live action television series. Japan produces many drama series every year, from a huge variety of genres. Like anime, they generally air in three-month seasons or multiples thereof, with new shows airing every season. Some kinds of drama, specially the morning or afternoon ones, tend to be broadcast daily, while evening ones tend to be broadcast weekly, also like anime. Many written works (manga, light novel, ...) that get anime adaptations also get jdrama adaptations; that is the case for the works that inspired the anime tagged here.</description>
+        </tag>
+        <tag approval="6" globalspoiler="false" id="3074" localspoiler="false" spoiler="false" update="2008-11-07">
+            <name>noitaminA</name>
+            <count>44</count>
+            <description>noitaminA is a Fuji Television programming block devoted to anime, with the intention of expanding the target audience beyond the typical young male demographic.</description>
+        </tag>
+        <tag approval="6" globalspoiler="false" id="325" localspoiler="false" spoiler="false">
+            <name>journalism</name>
+            <count>18</count>
+        </tag>
+        <tag approval="4" globalspoiler="false" id="6102" localspoiler="false" spoiler="false" update="2012-01-08">
+            <name>bit of romance</name>
+            <count>2</count>
+            <description>There is some romance in the series, although it is secondary at best, to the main plot.</description>
+        </tag>
+        <tag approval="3" globalspoiler="false" id="2497" localspoiler="false" spoiler="false" update="2010-01-10">
+            <name>career anime</name>
+            <count>29</count>
+            <description>The kind of anime which shows the career of a character, usually from the beginning.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="6717" localspoiler="false" spoiler="false" update="2011-11-27">
+            <name>predominantly adult cast</name>
+            <count>73</count>
+            <description>This show features mostly adults. That means children and teenagers are relatively rare and unlikely to hold significance to the plot.That is a rare trait in anime, as most shows spin around children or teenagers.</description>
+        </tag>
+    </tags>
+    <characters>
+        <character id="3778" type="main character in" update="2009-02-23">
+            <rating votes="2">7.22</rating>
+            <name>Matsukata Hiroko</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Hiroko is a woman dedicated to her job. She will put her entire life on hold (becoming the &quot;Hataraki Man&quot;) in order to get her story written to a self-imposed, very high standard of perfection. Her ultimate goal is to own and publish her own magazine.</description>
+            <picture>19650.jpg</picture>
+            <seiyuu id="135" picture="16884.jpg">Tanaka Rie</seiyuu>
+        </character>
+        <character id="3779" type="secondary cast in" update="2009-02-23">
+            <rating votes="2">8.76</rating>
+            <name>Kaji Maiko</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Maiko is an elegant woman who is revered (and very nearly worshipped) by the men at JIDAI. She is typically very silent and somewhat aloof, but she does get her job done (even if she ignores more of the rules of etiquette of such things.)</description>
+            <picture>19651.jpg</picture>
+            <seiyuu id="222" picture="19786.jpg">Tanaka Atsuko</seiyuu>
+        </character>
+        <character id="3780" type="secondary cast in" update="2009-02-23">
+            <rating votes="1">1.58</rating>
+            <name>Kobayashi Akihisa</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Akihisa is a mild-mannered reporter in charge of the &quot;food and porn&quot; section of JIDAI. He and Hiroko started working at the magazine around the same time. There is a connection between, though whether this is from similar work ethic, starting their jobs at the same time, or the fact that they`re drinking buddies (always initiated by Hiroko) is up for debate.</description>
+            <picture>19652.jpg</picture>
+            <seiyuu id="316" picture="25472.jpg">Ueda Yuuji</seiyuu>
+        </character>
+        <character id="3781" type="secondary cast in" update="2009-02-23">
+            <rating votes="1">7.13</rating>
+            <name>Nagisa Mayu</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Mayu`s main goal in life is to write a work of fiction with her favourite author. She`s a bit of a flake within the world of JIDAI and is often reprimanded for that fact. She is one of Hiroko`s closest office friends.</description>
+            <picture>19653.jpg</picture>
+            <seiyuu id="304" picture="17139.jpg">Fukuen Misato</seiyuu>
+        </character>
+        <character id="3782" type="secondary cast in" update="2009-02-23">
+            <rating votes="1">1.58</rating>
+            <name>Narita Kimio</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Narita is the more active boss in the editing department, much to the dismay of the chief editor, Tatsuhiko (though he doesn`t act offended but on occasion.) Narita is a man who knows when to be the boss and when to be the encouraging friend. While he is usually shown as being an amiable man who wants to help the other employees, he isn`t above yelling at the others to make sure they get their best work done and before deadline. It is never said explicitly one way or another where his sexual preference ultimately lies; but it is mentioned that Narita &quot;doesn`t like women.&quot;</description>
+            <picture>19654.jpg</picture>
+            <seiyuu id="2037" picture="21371.jpg">Horiuchi Ken`yuu</seiyuu>
+        </character>
+        <character id="3783" type="secondary cast in" update="2009-02-23">
+            <rating votes="1">8.25</rating>
+            <name>Nogawa Yumi</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Yumi, one of the four women we actually see working within JIDAI, is almost the complete opposite of Hiroko, if only in their approach to working within a &quot;man`s world.&quot; Yumi chose to embrace her &quot;womanly&quot; side instead of trying to run with the men. She is engaged to an unnamed man, though there are hints that her fiancé was the former boyfriend of coworker Maiko Kaji.</description>
+            <picture>19655.jpg</picture>
+            <seiyuu id="2038" picture="49098.jpg">Shishido Rumi</seiyuu>
+        </character>
+        <character id="3784" type="secondary cast in" update="2009-02-23">
+            <rating votes="1">7.13</rating>
+            <name>Sugawara Fumiya</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Sugawara is more a paparazzo than a traditional reporter. He hunts down high scandal stories and then stakes them out to get the perfect picture. Unexpectedly, he has an inner calm that is expressed through his pleasure of sky photography; however, to the outside world he is a gruff man with a bit of a mean streak.</description>
+            <picture>19657.jpg</picture>
+            <seiyuu id="259" picture="17082.jpg">Nakai Kazuya</seiyuu>
+        </character>
+        <character id="3785" type="secondary cast in" update="2009-02-23">
+            <rating votes="1">1.58</rating>
+            <name>Tanaka Kunio</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Kunio is a man who feels that one`s life shouldn`t be wasted completely on working. He gets his job done but, unlike Hiroko, he doesn`t feel that one should devote their whole life to just work. While there are several people who clash with Hiroko throughout the series, Kunio is probably one of those that repeats the most, if only for their complete difference in work ethic.</description>
+            <picture>19656.jpg</picture>
+            <seiyuu id="68" picture="16675.jpg">Yasumura Makoto</seiyuu>
+        </character>
+        <character id="3786" type="secondary cast in" update="2009-02-23">
+            <rating votes="1">1.58</rating>
+            <name>Umemiya Tatsuhiko</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>As the senior editor within the department, Tatsuhiko doesn`t seem to do a whole lot. He`s a rather laid back man and is often accused of being sexist towards the female characters (though whether that is true, especially compared to other male characters in the series, is debatable.) While he is very susceptible to flattery, Tatsuhiko also has his serious moments. There is a reason why he is the boss and when the stakes are raised, he is willing to step up and take responsibility.</description>
+            <picture>19659.jpg</picture>
+            <seiyuu id="289" picture="25759.jpg">Nishimura Tomomichi</seiyuu>
+        </character>
+        <character id="3787" type="secondary cast in" update="2009-02-23">
+            <rating votes="1">1.58</rating>
+            <name>Yamashiro Shinji</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Like Hiroko, Shinji works long hours. He also frequently travels on business, making it difficult for the two of them to spend time together. Shinji isn`t as successful in his business endeavours as Hiroko, however, and this leads to more problems in their relationship.</description>
+            <picture>19658.jpg</picture>
+            <seiyuu id="277" picture="19680.jpg">Hanawa Eiji</seiyuu>
+        </character>
+    </characters>
+    <episodes>
+        <episode id="63639" update="2006-09-26">
+            <epno type="4">T1</epno>
+            <length>1</length>
+            <title xml:lang="en">Promo</title>
+        </episode>
+        <episode id="64194" update="2011-10-20">
+            <epno type="1">1</epno>
+            <length>25</length>
+            <airdate>2006-10-13</airdate>
+            <rating votes="5">5.68</rating>
+            <title xml:lang="ja">女の働きマン</title>
+            <title xml:lang="en">The Female Hataraki Man</title>
+            <title xml:lang="it">L`hataraki-man donna</title>
+            <title xml:lang="x-jat">Onna no Hataraki-man</title>
+        </episode>
+        <episode id="64195" update="2011-10-20">
+            <epno type="1">2</epno>
+            <length>25</length>
+            <airdate>2006-10-20</airdate>
+            <rating votes="5">7.27</rating>
+            <title xml:lang="ja">張り込みマン</title>
+            <title xml:lang="en">Stakeout Man</title>
+            <title xml:lang="it">L`uomo che sorveglia</title>
+            <title xml:lang="x-jat">Harikomi-man</title>
+        </episode>
+        <episode id="64196" update="2011-10-20">
+            <epno type="1">3</epno>
+            <length>25</length>
+            <airdate>2006-10-27</airdate>
+            <rating votes="3">6.85</rating>
+            <title xml:lang="ja">ラーメンマン</title>
+            <title xml:lang="en">Ramen Man</title>
+            <title xml:lang="it">L`uomo del Ramen</title>
+            <title xml:lang="x-jat">Ramen-man</title>
+        </episode>
+        <episode id="64197" update="2011-10-20">
+            <epno type="1">4</epno>
+            <length>25</length>
+            <airdate>2006-11-03</airdate>
+            <rating votes="4">5.24</rating>
+            <title xml:lang="ja">あやまりマン</title>
+            <title xml:lang="en">Apology Man</title>
+            <title xml:lang="it">L`uomo delle scuse</title>
+            <title xml:lang="x-jat">Ayamari-man</title>
+        </episode>
+        <episode id="64198" update="2011-10-20">
+            <epno type="1">5</epno>
+            <length>25</length>
+            <airdate>2006-11-10</airdate>
+            <rating votes="4">4.07</rating>
+            <title xml:lang="ja">振り向きマン</title>
+            <title xml:lang="en">Turn-Around Man</title>
+            <title xml:lang="it">L`uomo dei rimpianti</title>
+            <title xml:lang="x-jat">Furimuki-man</title>
+        </episode>
+        <episode id="65955" update="2011-10-20">
+            <epno type="1">6</epno>
+            <length>25</length>
+            <airdate>2006-11-17</airdate>
+            <rating votes="4">5.32</rating>
+            <title xml:lang="ja">お姫さマン</title>
+            <title xml:lang="en">Princess Man</title>
+            <title xml:lang="it">L`uomo &quot;principessa&quot;</title>
+            <title xml:lang="x-jat">Ohimesa-man</title>
+        </episode>
+        <episode id="65956" update="2011-10-20">
+            <epno type="1">7</epno>
+            <length>25</length>
+            <airdate>2006-11-24</airdate>
+            <rating votes="3">6.00</rating>
+            <title xml:lang="ja">こだわりマン</title>
+            <title xml:lang="en">Fussy Man</title>
+            <title xml:lang="it">L`uomo dei dettagli</title>
+            <title xml:lang="x-jat">Kotawari-man</title>
+        </episode>
+        <episode id="65957" update="2011-10-20">
+            <epno type="1">8</epno>
+            <length>25</length>
+            <airdate>2006-12-01</airdate>
+            <rating votes="2">4.20</rating>
+            <title xml:lang="ja">報われマン</title>
+            <title xml:lang="en">Payoff Man</title>
+            <title xml:lang="it">L`uomo delle ricompense</title>
+            <title xml:lang="x-jat">Mukuware-man</title>
+        </episode>
+        <episode id="65958" update="2011-10-20">
+            <epno type="1">9</epno>
+            <length>25</length>
+            <airdate>2006-12-08</airdate>
+            <rating votes="2">3.24</rating>
+            <title xml:lang="ja">一人前の働きマン</title>
+            <title xml:lang="en">Full-Fledged Hataraki Man</title>
+            <title xml:lang="it">Hataraki-man d`esperienza</title>
+            <title xml:lang="x-jat">Ichininmae no Hataraki-man</title>
+        </episode>
+        <episode id="65959" update="2011-10-20">
+            <epno type="1">10</epno>
+            <length>25</length>
+            <airdate>2006-12-15</airdate>
+            <rating votes="2">8.48</rating>
+            <title xml:lang="ja">働かないマン</title>
+            <title xml:lang="en">Not-Working Man</title>
+            <title xml:lang="it">Il non hataraki-man</title>
+            <title xml:lang="x-jat">Hatarakanai-man</title>
+        </episode>
+        <episode id="65960" update="2011-10-20">
+            <epno type="1">11</epno>
+            <length>25</length>
+            <airdate>2006-12-22</airdate>
+            <rating votes="3">8.10</rating>
+            <title xml:lang="ja">それでも働きマン</title>
+            <title xml:lang="en">Even So, Hataraki Man</title>
+            <title xml:lang="it">Anche così hataraki-man</title>
+            <title xml:lang="x-jat">Soredemo Hataraki-man</title>
+        </episode>
+        <episode id="125407" update="2010-11-23">
+            <epno type="3">C2</epno>
+            <length>0</length>
+            <title xml:lang="en">Ending</title>
+        </episode>
+        <episode id="125408" update="2010-11-23">
+            <epno type="3">C1</epno>
+            <length>0</length>
+            <title xml:lang="en">Opening</title>
+        </episode>
+    </episodes>
+</anime>

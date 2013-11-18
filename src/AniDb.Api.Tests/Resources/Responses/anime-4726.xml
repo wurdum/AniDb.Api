@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<anime id="4726" restricted="false">
+  <type>Movie</type>
+  <episodecount>1</episodecount>
+  <startdate>1981-08-09</startdate>
+  <enddate>1981-08-09</enddate>
+  <titles>
+    <title type="main" xml:lang="x-jat">Yuki</title>
+    <title type="synonym" xml:lang="en">Snow</title>
+    <title type="synonym" xml:lang="en">Snow Fairy</title>
+    <title type="synonym" xml:lang="x-other">❄</title>
+    <title type="synonym" xml:lang="sr">Snežana</title>
+    <title type="official" xml:lang="ja">ゆき</title>
+    <title type="official" xml:lang="fr">Yuki - Le combat des Shoguns</title>
+    <title type="official" xml:lang="pl">Yuki - śniegowa wróżka</title>
+  </titles>
+  <recommendations total="1"/>
+  <url>http://www.mushi-pro.co.jp/2010/08/%E3%82%86%E3%81%8D/</url>
+  <creators>
+    <name id="833" type="Animation Production">Mushi Production</name>
+    <name id="1085" type="Animation Co-Production">Nikkatsu</name>
+    <name id="20321" type="Direction">Imai Tadashi</name>
+  </creators>
+  <description>* Classic movie from director http://anidb.net/cr20321 [Imai Tadashi], based on a book from Saito Ryusuke.Set in feudal Japan, the film focuses on Yuki, an adolescent goddess whose task is to clean up the Earth, both by ridding it of oppressive authorities and by covering it with a blanket of snow. She tames a wild stallion and stirs up a peasant revolt.Source: answers.com</description>
+  <ratings>
+    <permanent count="26">4.54</permanent>
+    <temporary count="31">6.27</temporary>
+  </ratings>
+  <picture>48264.jpg</picture>
+  <categories>
+    <category hentai="false" id="126" parentid="10" weight="600">
+      <name>Alternative History</name>
+      <description>An anime that takes place in an alternative past is an anime that clearly does not belong to the future or the present, and isn`t tied particularly closely to our history, or has ties to our history but only as a premise: there are too many things that don`t make sense for the time-period. In some cases there is futuristic technology present, but the overall setting still feels that of the past. However the setting must still take place on Earth, since we can not know if the history of a fantasy world is an alternate one or not. </description>
+    </category>
+    <category hentai="false" id="167" parentid="15" weight="600">
+      <name>Demons</name>
+      <description>Often described as minions from Hell. Generally known to attack humans and feast on their flesh or possess the bodies of those with weak souls.</description>
+    </category>
+    <category hentai="false" id="243" parentid="15" weight="600">
+      <name>Goddess</name>
+      <description>A goddess is a female deity.</description>
+    </category>
+    <category hentai="false" id="322" parentid="171" weight="600">
+      <name>Feudal Warfare</name>
+      <description>Feudal Warfare is the warfare of the Middle Ages and therefore the setting must take place in a time line similar to that of Middle Ages or its Asian/American counterparts, or in a fantasy world. Generally it can be described the same way as the Military category, just that the weapons used are swords, spears, bows, catapults, cannons and other weapons used in the Middle Ages.Note: Just because the anime contains a guy or a couple of guys with swords wondering about, doesn`t make it applicable for this category, unless there are larger military organizations/groups involved in armed conflict with each other, you might not want to add this genre. </description>
+    </category>
+    <category hentai="false" id="20" parentid="4" weight="200">
+      <name>Martial Arts</name>
+      <description>Characterized by extensive fighting scenes employing various types of martial arts, meaning systems of codified practices and traditions of training for combat.</description>
+    </category>
+    <category hentai="false" id="455" parentid="113" weight="200">
+      <name>Horse Riding</name>
+      <description>The characters here know or learn how to ride a horse.Mostly common with fantasy, medieval, historical anime.</description>
+    </category>
+  </categories>
+  <resources>
+    <resource type="1">
+      <externalentity>
+        <identifier>7388</identifier>
+      </externalentity>
+    </resource>
+    <resource type="2">
+      <externalentity>
+        <identifier>8598</identifier>
+      </externalentity>
+    </resource>
+    <resource type="3">
+      <externalentity>
+        <identifier>3087</identifier>
+        <identifier>fbwhjt</identifier>
+      </externalentity>
+    </resource>
+    <resource type="4">
+      <externalentity>
+        <url>http://www.mushi-pro.co.jp/2010/08/ゆき/</url>
+      </externalentity>
+    </resource>
+    <resource type="9">
+      <externalentity>
+        <identifier>147741</identifier>
+      </externalentity>
+    </resource>
+    <resource type="10">
+      <externalentity>
+        <identifier>2819</identifier>
+      </externalentity>
+    </resource>
+  </resources>
+  <episodes>
+    <episode id="64411" update="2011-10-20">
+      <epno type="1">1</epno>
+      <length>90</length>
+      <airdate>1981-08-09</airdate>
+      <title xml:lang="en">Complete Movie</title>
+    </episode>
+  </episodes>
+</anime>

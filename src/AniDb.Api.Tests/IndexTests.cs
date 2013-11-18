@@ -12,5 +12,12 @@ namespace AniDb.Api.Tests
             Assert.True(index.Count > 0);
             Assert.AreEqual(index.Find("❄").Value.Id, 4726);
         }
+
+        [Test]
+        public void IndexAllowsAccessByIndex() {
+            var index = new Index();
+
+            Assert.AreNotEqual(default(Index.Entry), index[0]);
+        }
     }
 }

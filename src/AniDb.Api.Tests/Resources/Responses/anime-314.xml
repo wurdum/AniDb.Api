@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anime id="314" restricted="true">
+    <type>OVA</type>
+    <episodecount>2</episodecount>
+    <startdate>1998-02-25</startdate>
+    <enddate>1998-10-25</enddate>
+    <titles>
+        <title type="main" xml:lang="x-jat">Kite</title>
+        <title type="synonym" xml:lang="en">A Kite</title>
+        <title type="synonym" xml:lang="de">Kite: Angel of Revenge</title>
+        <title type="synonym" xml:lang="uk">Кайт</title>
+        <title type="official" xml:lang="ja">A カイト</title>
+        <title type="official" xml:lang="en">Kite</title>
+        <title type="official" xml:lang="de">Kite - Ein gefährliches Mädchen</title>
+        <title type="official" xml:lang="fr">Domination Nakite</title>
+        <title type="official" xml:lang="es">Sexo letal</title>
+        <title type="official" xml:lang="ru">Кайт - девочка-убийца</title>
+        <title type="official" xml:lang="lt">Kite - Mergaitė žudikė</title>
+    </titles>
+    <relatedanime>
+        <anime id="5182" type="Same Setting">Kite Liberator</anime>
+        <anime id="214" type="Character">Mezzo Forte</anime>
+    </relatedanime>
+    <recommendations total="5">
+        <recommendation type="For Fans" uid="204944">A voir, malgrés l`âge qu`il a déjà ^^</recommendation>
+        <recommendation type="Recommended" uid="403447">For those who like horror+sicko+girl with gun....</recommendation>
+        <recommendation type="Recommended" uid="450083">Awesome from beginning to end. Only fault was it was only 2 episodes long.</recommendation>
+    </recommendations>
+    <creators>
+        <name id="1953" type="Character Design">Umetsu Yasuomi</name>
+        <name id="771" type="Work">Arms</name>
+        <name id="1953" type="Original Plan">Umetsu Yasuomi</name>
+        <name id="6149" type="Work">Kaneki Kaio</name>
+        <name id="5669" type="Work">Amachi Yuudai</name>
+        <name id="14595" type="Music">An Fuu</name>
+    </creators>
+    <description>Orphaned at a young age, her parents victims of a brutal double murder, http://anidb.net/ch31046 [Sawa] was taken in by the detective assigned to her case. Not content to just watch as the imperfect justice system lets more and more criminals go loose every day, he decides to train her to be his instrument of justice. After all, who`d suspect a pretty college student of being a deadly vigilante!Now she must decide between her allegiance to her guardian and her loyalty to her one and only friend, a fellow sword of justice.Note: This OVA originally consisted of 2 eps, which were cut together as one for the US-version.</description>
+    <ratings>
+        <permanent count="2142">4.76</permanent>
+        <temporary count="2176">6.88</temporary>
+        <review count="4">7.33</review>
+    </ratings>
+    <picture>2721.jpg</picture>
+    <categories>
+        <category hentai="true" id="80" parentid="3" weight="600">
+            <name>18 Restricted</name>
+            <description>This isn`t really an &quot;audience&quot;.
+
+While some anime might feature sexual content they still might not be considered pornography. This category is meant only for when the content is clearly *not* intended for minors. The distinction is made by whether the content is sold only to adults.</description>
+        </category>
+        <category hentai="false" id="263" parentid="4" weight="400">
+            <name>Gunfights</name>
+            <description>Fights where two or more parties are firing guns at one another.</description>
+        </category>
+        <category hentai="false" id="33" parentid="30" weight="200">
+            <name>Rape</name>
+            <description>The forcing of someone to engage in sexual interaction without their consent.</description>
+        </category>
+        <category hentai="false" id="4" parentid="313" weight="600">
+            <name>Action</name>
+            <description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting. </description>
+        </category>
+        <category hentai="false" id="84" parentid="83" weight="600">
+            <name>Violence</name>
+            <description>Physical force against self or other, compelling action against one`s will on pain of being hurt.</description>
+        </category>
+        <category hentai="false" id="86" parentid="83" weight="600">
+            <name>Sex</name>
+            <description>Known as intercourse, the ultimate bond of love and the &quot;Origin of the World&quot; (just think of Gustave Courbet`s painting).</description>
+        </category>
+        <category hentai="false" id="73" parentid="318" weight="100">
+            <name>Lolicon</name>
+            <description>Loli is a short form of the word Lolita, describing sexually precocious young girls. The related fetish for this is called Lolicon (Lolita Complex).</description>
+        </category>
+        <category hentai="false" id="275" parentid="268" weight="600">
+            <name>New</name>
+            <description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+        </category>
+        <category hentai="false" id="23" parentid="22" weight="600">
+            <name>Japan</name>
+            <description>Last stronghold for humanity, if Tokyo falls, it`s all over. Tokyo Tower will undoubtedly fall anyway.</description>
+        </category>
+        <category hentai="false" id="289" parentid="7" weight="600">
+            <name>Earth</name>
+            <description>The Earth is the third planet from the Sun. It is a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). To its inhabitants, our planet is their home, so, as a species, we cherish it to the point many cultures even to this day deify it. The Earth is the main setting of most fiction, but many titles are set in other places, such as unrelated fantasy worlds, and in a considerable number of fictional titles the Earth is actually destroyed by invaders.</description>
+        </category>
+        <category hentai="false" id="22" parentid="289" weight="600">
+            <name>Asia</name>
+            <description>Asia is the world`s largest and most populous continent.</description>
+        </category>
+        <category hentai="false" id="11" parentid="6" weight="600">
+            <name>Present</name>
+            <description>Somewhere between past and future</description>
+        </category>
+        <category hentai="false" id="177" parentid="323" weight="100">
+            <name>Cops</name>
+            <description>The police (civil servants) are the good guys in the battle against crime. Though they try hard, they are usually outclassed by super-criminals or criminal organizations in anime, requiring the help of special units or some lone hero. </description>
+        </category>
+        <category hentai="false" id="295" parentid="317" weight="400">
+            <name>Underworld</name>
+            <description>The underworld we talk about here is not to be confused with the place where people are believed to go after they die, but the general term for organized crime. It is a shady world, unknown to most people, where illegal things like murder, smuggling, drug dealing and similar are happening daily. Groups known to be acting in this world are for example the mafia or the yakuza.</description>
+        </category>
+        <category hentai="false" id="323" parentid="317" weight="200">
+            <name>Law and Order</name>
+            <description>Where there is &quot;wealth&quot;, there are criminals. It is up to the civil law enforcement, i.e. detectives, Police or Special Squads, to keep the lawless activities in the real world or in cyberspace under control.
+
+Note: Do not confuse this with Military presence. </description>
+        </category>
+        <category hentai="true" id="480" parentid="30" weight="600">
+            <name>Uncensored Version Available</name>
+            <description>There`s an uncensored version available of the hentai anime this category is added to, which in most cases means, that there was a region 1 DVD (R1 DVD = North America) release. This category should not be added to non-hentai anime.</description>
+        </category>
+        <category hentai="false" id="490" parentid="295" weight="600">
+            <name>Assassin</name>
+            <description>Any variety of highly trained and very stealthy killer with the ability to utilise any object within their surroundings as a deadly weapon. They are often hireable to take out hits (or targets) designated by a client (or temporary employer) for a predetermined fee. Not all assassins work solo and may have a partner or even a team of more than two members.</description>
+        </category>
+    </categories>
+    <resources>
+        <resource type="1">
+            <externalentity>
+                <identifier>163</identifier>
+            </externalentity>
+        </resource>
+        <resource type="2">
+            <externalentity>
+                <identifier>320</identifier>
+            </externalentity>
+        </resource>
+        <resource type="3">
+            <externalentity>
+                <identifier>235</identifier>
+                <identifier>eovedz</identifier>
+            </externalentity>
+        </resource>
+        <resource type="6">
+            <externalentity>
+                <identifier>A_Kite#Kite_Liberator</identifier>
+            </externalentity>
+        </resource>
+        <resource type="7">
+            <externalentity>
+                <identifier>A_KITE</identifier>
+            </externalentity>
+        </resource>
+        <resource type="9">
+            <externalentity>
+                <identifier>125568</identifier>
+            </externalentity>
+        </resource>
+        <resource type="10">
+            <externalentity>
+                <identifier>9047</identifier>
+            </externalentity>
+        </resource>
+    </resources>
+    <tags>
+        <tag approval="3" globalspoiler="false" id="3998" localspoiler="false" spoiler="false" update="2011-01-16">
+            <name>killing - murdering protagonist</name>
+            <count>52</count>
+            <description>The show features protagonists that have no problems at all with the usually dubious act of killing members of their own species.Heroic characters may decide to kill due to duty or necessity for the so-called greater good. Darker characters may do so for profit or personal gain.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="4679" localspoiler="false" spoiler="false" update="2010-11-17">
+            <name>cute but deadly</name>
+            <count>11</count>
+            <description>Don`t be fooled — the more you stare at those precious girls, the likelier you will end up six feet under.Just like watching a solar eclipse without a protective glass, it`s not a good idea to stay near of those cuties — it`s all smoke and mirrors.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="1383" localspoiler="false" spoiler="false" update="2009-04-20">
+            <name>betrayal</name>
+            <count>90</count>
+            <description>Friends become enemies.Strong bonds of trust receive violations of confidence while friendships are faithlessly given up or revealed to have been false from the start.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="1880" localspoiler="false" spoiler="false" update="2009-06-04">
+            <name>great animation</name>
+            <count>83</count>
+            <description>The anime sports exceptionally well made (smooth, detailed, beautiful) animation.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="1106" localspoiler="false" spoiler="false">
+            <name>hidden identities</name>
+            <count>26</count>
+        </tag>
+        <tag approval="1" globalspoiler="true" id="5167" localspoiler="false" spoiler="false" update="2009-06-27">
+            <name>killing real parents</name>
+            <count>24</count>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="3586" localspoiler="false" spoiler="false" update="2008-12-17">
+            <name>partners</name>
+            <count>21</count>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="2685" localspoiler="false" spoiler="false" update="2009-08-20">
+            <name>sexy female lead</name>
+            <count>82</count>
+            <description>The main female protagonist is way beyond attractive.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="561" localspoiler="false" spoiler="false" update="2010-11-29">
+            <name>strong female lead</name>
+            <count>402</count>
+            <description>The lead female character has a strong personality and plays a part that is not the typical damsel-in-distress role. This is the exact opposite of the “damsel in distress” tag.</description>
+        </tag>
+        <tag approval="2" globalspoiler="false" id="751" localspoiler="false" spoiler="false" update="2013-02-03">
+            <name>gore</name>
+            <count>224</count>
+            <description>Very violent scenes appear in the show. Do not be surprised to see people dying in a violent and painful way.Oh, and with lots and lots of blood splattering all over the place.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="6425" localspoiler="false" spoiler="false" update="2011-04-12">
+            <name>plot with porn</name>
+            <count>22</count>
+            <description>Any adult-rated work where porn is not the only point to it. As in, it has a plot that is not merely an excuse for having sex on screen. Even better if the sex is actually plausibly worked into said plot or used for characterization.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="7246" localspoiler="false" spoiler="false" update="2013-01-21">
+            <name>surprising good English</name>
+            <count>2</count>
+            <description>At least one character is able to speak &quot;proper&quot; English. This is rare in the anime world, since most seiyuu completely unable to pronounce the words properly.Contrasts with the Engrish tag, as this is almost the opposite of it and may be used with the Engrish tag if both kinds of characters exist.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="2477" localspoiler="false" spoiler="false" update="2009-05-24">
+            <name>serious cliffhanger</name>
+            <count>5</count>
+        </tag>
+    </tags>
+    <characters>
+        <character id="31046" type="main character in" update="2013-09-02">
+            <rating votes="11">6.79</rating>
+            <name>Sawa</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <picture>142304.jpg</picture>
+            <seiyuu id="4838" picture="28146.jpg">Yoshida Konami</seiyuu>
+        </character>
+        <character id="59390" type="secondary cast in" update="2013-09-02">
+            <name>Kanie</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <picture>142306.jpg</picture>
+        </character>
+        <character id="59391" type="secondary cast in" update="2013-09-02">
+            <name>Akai</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <picture>142305.jpg</picture>
+        </character>
+        <character id="59392" type="secondary cast in" update="2013-09-02">
+            <name>Oburi</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <picture>142307.jpg</picture>
+        </character>
+    </characters>
+    <episodes>
+        <episode id="8967" update="2008-01-22">
+            <epno type="1">1</epno>
+            <length>30</length>
+            <airdate>1998-02-25</airdate>
+            <rating votes="8">3.48</rating>
+            <title xml:lang="en">Volume 1</title>
+        </episode>
+        <episode id="8968" update="2008-01-22">
+            <epno type="1">2</epno>
+            <length>30</length>
+            <airdate>1998-10-25</airdate>
+            <rating votes="5">3.94</rating>
+            <title xml:lang="en">Volume 2</title>
+        </episode>
+        <episode id="146572" update="2013-01-06">
+            <epno type="2">S6</epno>
+            <length>1</length>
+            <title xml:lang="en">Storyboard 4</title>
+        </episode>
+        <episode id="146573" update="2013-01-06">
+            <epno type="2">S5</epno>
+            <length>1</length>
+            <title xml:lang="en">Storyboard 3</title>
+        </episode>
+        <episode id="146574" update="2013-01-06">
+            <epno type="2">S4</epno>
+            <length>2</length>
+            <title xml:lang="en">Storyboard 2</title>
+        </episode>
+        <episode id="146575" update="2013-01-06">
+            <epno type="2">S3</epno>
+            <length>2</length>
+            <title xml:lang="en">Storyboard 1</title>
+        </episode>
+        <episode id="146576" update="2013-01-06">
+            <epno type="2">S2</epno>
+            <length>10</length>
+            <title xml:lang="en">Interview with Yasuomi Umetsu</title>
+        </episode>
+        <episode id="146577" update="2013-01-06">
+            <epno type="2">S1</epno>
+            <length>10</length>
+            <title xml:lang="en">Interview with Osamu Koshinonaka</title>
+        </episode>
+    </episodes>
+</anime>

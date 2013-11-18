@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anime id="6022" restricted="false">
+    <type>TV Series</type>
+    <episodecount>130</episodecount>
+    <startdate>1980-02-04</startdate>
+    <enddate>1980-08-01</enddate>
+    <titles>
+        <title type="main" xml:lang="x-jat">Futago no Monchicchi</title>
+        <title type="official" xml:lang="ja">ふたごのモンチッチ</title>
+    </titles>
+    <url>http://www.pro-reed.com/works/tv_series/w005.html</url>
+    <creators>
+        <name id="4249" type="Series Composition">Sakai Akiyoshi</name>
+        <name id="7285" type="Direction">Jinsenji Hiroshi</name>
+    </creators>
+    <description>Monchichi-chan, the twin sister, loves her twin brother very much. She is a pretty crybaby and always follows her brother. Monchichi-kun, the twin brother, protects his sister. He is a brave adventurer and a fishing champion but sometimes becomes a hasty boy. They enjoy wonderful and mysterious adventures together everyday.When they take a space walk, they ride on a swan of the swan constellation and build a small house with aliens in the space. They can do everything children want to do and dream of.This heartwarming animation series featuring the pretty twins surely gives wonderful dreams, brother-sister love and hopes for the future to all the children in the world.</description>
+    <ratings>
+        <permanent count="2">3.20</permanent>
+        <temporary count="2">2.50</temporary>
+    </ratings>
+    <picture>9559.jpg</picture>
+    <resources>
+        <resource type="1">
+            <externalentity>
+                <identifier>2201</identifier>
+            </externalentity>
+        </resource>
+        <resource type="2">
+            <externalentity>
+                <identifier>17623</identifier>
+            </externalentity>
+        </resource>
+        <resource type="3">
+            <externalentity>
+                <identifier>1972</identifier>
+                <identifier>tbrkue</identifier>
+            </externalentity>
+        </resource>
+        <resource type="4">
+            <externalentity>
+                <url>http://www.pro-reed.com/works/tv_series/w005.html</url>
+            </externalentity>
+        </resource>
+        <resource type="9">
+            <externalentity>
+                <identifier>89406</identifier>
+            </externalentity>
+        </resource>
+        <resource type="10">
+            <externalentity>
+                <identifier>1175</identifier>
+            </externalentity>
+        </resource>
+    </resources>
+</anime>

@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -33,6 +32,10 @@ namespace AniDb.Api
 
         public int Count {
             get { return _entries.Length; }
+        }
+
+        public Entry this[int index] {
+            get { return _entries[index]; }
         }
 
         public Entry? Find(string title) {

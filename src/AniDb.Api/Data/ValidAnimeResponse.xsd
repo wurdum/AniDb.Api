@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xs:element name="anime">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="type" type="xs:string" />
+        <xs:element name="episodecount" type="xs:unsignedShort" />
+        <xs:element name="startdate" type="xs:date" />
+        <xs:element minOccurs="0" name="enddate" type="xs:date" />
+        <xs:element name="titles">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="title">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="type" type="xs:string" use="required" />
+                      <xs:attribute ref="xml:lang" use="required" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="similaranime" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="anime">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="approval" type="xs:unsignedShort" use="required" />
+                      <xs:attribute name="id" type="xs:unsignedShort" use="required" />
+                      <xs:attribute name="total" type="xs:unsignedShort" use="required" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="relatedanime" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="anime">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="id" type="xs:unsignedShort" use="required" />
+                      <xs:attribute name="type" type="xs:string" use="required" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="recommendations" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence minOccurs="0">
+              <xs:element maxOccurs="unbounded" name="recommendation">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="type" type="xs:string" use="required" />
+                      <xs:attribute name="uid" type="xs:unsignedInt" use="required" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="total" type="xs:unsignedShort" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="url" type="xs:string" minOccurs="0" />
+        <xs:element name="creators">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="name">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="id" type="xs:unsignedShort" use="required" />
+                      <xs:attribute name="type" type="xs:string" use="required" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="description" type="xs:string" />
+        <xs:element name="ratings">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="permanent">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:decimal">
+                      <xs:attribute name="count" type="xs:unsignedShort" use="required" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="temporary">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:decimal">
+                      <xs:attribute name="count" type="xs:unsignedShort" use="required" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="review" minOccurs="0">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:decimal">
+                      <xs:attribute name="count" type="xs:unsignedShort" use="required" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="picture" type="xs:string" />
+        <xs:element name="categories" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="category">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="name" type="xs:string" />
+                    <xs:element name="description" type="xs:string" />
+                  </xs:sequence>
+                  <xs:attribute name="hentai" type="xs:boolean" use="required" />
+                  <xs:attribute name="id" type="xs:unsignedShort" use="required" />
+                  <xs:attribute name="parentid" type="xs:unsignedShort" use="required" />
+                  <xs:attribute name="weight" type="xs:unsignedShort" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="resources" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="resource">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="externalentity">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element minOccurs="0" name="url" type="xs:string" />
+                          <xs:element minOccurs="0" maxOccurs="unbounded" name="identifier" type="xs:string" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="type" type="xs:unsignedShort" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tags" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="tag">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="name" type="xs:string" />
+                    <xs:element name="count" type="xs:unsignedShort" />
+                    <xs:element name="description" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                  <xs:attribute name="approval" type="xs:unsignedShort" use="required" />
+                  <xs:attribute name="globalspoiler" type="xs:boolean" use="required" />
+                  <xs:attribute name="id" type="xs:unsignedShort" use="required" />
+                  <xs:attribute name="localspoiler" type="xs:boolean" use="required" />
+                  <xs:attribute name="spoiler" type="xs:boolean" use="required" />
+                  <xs:attribute name="update" type="xs:date" use="optional" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="characters" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="character">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="rating">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:decimal">
+                            <xs:attribute name="votes" type="xs:unsignedShort" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="name" type="xs:string" />
+                    <xs:element name="gender" type="xs:string" />
+                    <xs:element name="charactertype">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="id" type="xs:unsignedShort" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="description" type="xs:string" />
+                    <xs:element minOccurs="0" name="picture" type="xs:string" />
+                    <xs:element minOccurs="0" name="seiyuu">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="id" type="xs:unsignedShort" use="required" />
+                            <xs:attribute name="picture" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="id" type="xs:unsignedShort" use="required" />
+                  <xs:attribute name="type" type="xs:string" use="required" />
+                  <xs:attribute name="update" type="xs:date" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="episodes" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="episode">
+                <xs:complexType>
+                  <xs:choice maxOccurs="unbounded">
+                    <xs:element name="epno">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="type" type="xs:unsignedShort" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="length" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" name="airdate" type="xs:date" />
+                    <xs:element maxOccurs="unbounded" name="title">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute ref="xml:lang" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="rating">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:decimal">
+                            <xs:attribute name="votes" type="xs:unsignedShort" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:choice>
+                  <xs:attribute name="id" type="xs:unsignedInt" use="required" />
+                  <xs:attribute name="update" type="xs:date" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:unsignedShort" use="required" />
+      <xs:attribute name="restricted" type="xs:boolean" use="required" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

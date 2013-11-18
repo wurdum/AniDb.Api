@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anime id="4054" restricted="false">
+    <type>Movie</type>
+    <episodecount>1</episodecount>
+    <startdate>2006-12-23</startdate>
+    <enddate>2006-12-23</enddate>
+    <titles>
+        <title type="main" xml:lang="x-jat">Tekkon Kinkreet (2006)</title>
+        <title type="synonym" xml:lang="en">Black &amp; White</title>
+        <title type="synonym" xml:lang="x-jat">Tekkon Kinkurito</title>
+        <title type="synonym" xml:lang="uk">Залізобетон</title>
+        <title type="official" xml:lang="ja">鉄コン筋クリート (2006)</title>
+        <title type="official" xml:lang="de">Tekkonkinkreet</title>
+        <title type="official" xml:lang="fr">Amer Béton</title>
+        <title type="official" xml:lang="it">Tekkon Kinkreet - Soli contro tutti</title>
+        <title type="official" xml:lang="ru">Железобетон</title>
+        <title type="official" xml:lang="ko">철콘 근크리트</title>
+        <title type="official" xml:lang="pl">Tekkonkinkreet</title>
+        <title type="official" xml:lang="pt">Tekkonkinkreet: A Cidade do Tesouro</title>
+        <title type="official" xml:lang="pt-BR">Tekkonkinkreet</title>
+        <title type="official" xml:lang="fi">Tekkonkinkreet</title>
+        <title type="official" xml:lang="el">Tekkonkinkreet:Μαχητες Της Σιδερενιας Πολης</title>
+        <title type="official" xml:lang="hu">TekkonKinkreet</title>
+        <title type="official" xml:lang="lt">Betonas, geležis, raumenys</title>
+        <title type="official" xml:lang="tr">Hazine Şehri</title>
+        <title type="official" xml:lang="bg">Теконкинкрийт</title>
+        <title type="official" xml:lang="et">Tekkonkinkreet</title>
+        <title type="official" xml:lang="es-LA">En Busca de la Ciudad Tesoro</title>
+    </titles>
+    <relatedanime>
+        <anime id="2778" type="Other">Tekkon Kinkreet</anime>
+    </relatedanime>
+    <recommendations total="9">
+        <recommendation type="Recommended" uid="250692">it was amazing! much better than I was expecting.</recommendation>
+        <recommendation type="Must See" uid="359836">Interesting characters and story, unique art style and an incredible sound-track. The story starts off fairly slow, but keeps getting more dramatic and darker up till the very end. Some of the later scenes are so good, that I keep coming back to this movie. A must see.</recommendation>
+        <recommendation type="Must See" uid="590343">Seriously, this is a masterpiece. AMAZING visual style, solid symbolism, fantastic characters and plot. Action is out of this world, and there are some really touching moments. If you haven`t watched this, you need to. Stop reading. Watch this now. Go. I`ll wait.</recommendation>
+    </recommendations>
+    <url>http://www.tekkon.net/</url>
+    <creators>
+        <name id="738" type="Animation Production">Studio 4C</name>
+        <name id="738" type="Animation Work">Studio 4C</name>
+        <name id="14845" type="Character Design">Nishimi Shoujirou</name>
+        <name id="14845" type="Chief Animation Direction">Nishimi Shoujirou</name>
+        <name id="22839" type="Original Work">Matsumoto Taiyou</name>
+        <name id="10670" type="Direction">Michael Arias</name>
+    </creators>
+    <description>* Based on http://anidb.net/cr22839 [Taiyo Matsumoto]`s manga series Tekkon Kinkurito.http://anidb.net/ch12040 [Kuro] (black) and http://anidb.net/ch12041 [Shiro] (white) are two orphans roaming the streets of Treasure Town, beating down any thug or yakuza who gets in their way. When mysterious foreign entrepreneurs appear with the intention of tearing down Treasure Town and replacing it with an amusement park, Kuro and Shiro face their greatest adversaries yet. It is up to the destructive Kuro to save the fate of the city and up to the gentle Shiro to save Kuro from his own dark nature.Source: ANN</description>
+    <ratings>
+        <permanent count="1205">7.16</permanent>
+        <temporary count="1222">7.81</temporary>
+        <review count="1">8.50</review>
+    </ratings>
+    <picture>7646.jpg</picture>
+    <categories>
+        <category hentai="false" id="497" parentid="317" weight="400">
+            <name>Friendship</name>
+            <description>The feeling of trust, kindness, and friendship between a group of high school students for example, is a central theme of this anime.</description>
+        </category>
+        <category hentai="false" id="490" parentid="295" weight="300">
+            <name>Assassin</name>
+            <description>Any variety of highly trained and very stealthy killer with the ability to utilise any object within their surroundings as a deadly weapon. They are often hireable to take out hits (or targets) designated by a client (or temporary employer) for a predetermined fee. Not all assassins work solo and may have a partner or even a team of more than two members.</description>
+        </category>
+        <category hentai="false" id="487" parentid="330" weight="400">
+            <name>Parental Abandonment</name>
+            <description>In Japan it is a common custom for parents to leave their children alone at home and embark on a lifelong trip around the world once they hit the tender age of 14, sometimes even earlier.</description>
+        </category>
+        <category hentai="false" id="474" parentid="295" weight="200">
+            <name>Thief</name>
+            <description>At least of one of the protagonists in this anime is a (master) thief, prowling the night for valuables.</description>
+        </category>
+        <category hentai="false" id="330" parentid="317" weight="300">
+            <name>Coming of Age</name>
+            <description>In the strict sense the Coming of age describes a young person`s transition from adolescence to adulthood. In anime the term is used in a more general sense where the protagonists have to face a challenge, make an important decision in their life, take on responsibility, or learn a lesson, and by overcoming these obstacles they reach a higher level of maturity.</description>
+        </category>
+        <category hentai="false" id="289" parentid="7" weight="600">
+            <name>Earth</name>
+            <description>The Earth is the third planet from the Sun. It is a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). To its inhabitants, our planet is their home, so, as a species, we cherish it to the point many cultures even to this day deify it. The Earth is the main setting of most fiction, but many titles are set in other places, such as unrelated fantasy worlds, and in a considerable number of fictional titles the Earth is actually destroyed by invaders.</description>
+        </category>
+        <category hentai="false" id="252" parentid="313" weight="400">
+            <name>Angst</name>
+            <description>A feeling of general discomfort and uneasiness is present due to either trivial or more serious reasons, often accompanied by depression.
+
+Warning: may contain copious amounts of brooding and sighing.</description>
+        </category>
+        <category hentai="false" id="23" parentid="22" weight="600">
+            <name>Japan</name>
+            <description>Last stronghold for humanity, if Tokyo falls, it`s all over. Tokyo Tower will undoubtedly fall anyway.</description>
+        </category>
+        <category hentai="false" id="22" parentid="289" weight="600">
+            <name>Asia</name>
+            <description>Asia is the world`s largest and most populous continent.</description>
+        </category>
+        <category hentai="false" id="186" parentid="317" weight="300">
+            <name>Dystopia</name>
+            <description>A dystopia is, in literature, an often futuristic society that has degraded into a repressive and controlled state, often under the guise of being utopian.</description>
+        </category>
+        <category hentai="false" id="177" parentid="323" weight="300">
+            <name>Cops</name>
+            <description>The police (civil servants) are the good guys in the battle against crime. Though they try hard, they are usually outclassed by super-criminals or criminal organizations in anime, requiring the help of special units or some lone hero. </description>
+        </category>
+        <category hentai="false" id="15" parentid="313" weight="400">
+            <name>Fantasy</name>
+            <description>Imaginative or fanciful work, especially one dealing with supernatural elements and themes.</description>
+        </category>
+        <category hentai="false" id="154" parentid="313" weight="200">
+            <name>Horror</name>
+            <description>The horror cinematic genre is characterized by the attempt to make the viewer experience dread, fear, terror, or horror. Often their plots involve the intrusion of an evil force, event or personage, sometimes of supernatural origin, on the mundane world and the consequences thereof.</description>
+        </category>
+        <category hentai="false" id="160" parentid="317" weight="500">
+            <name>Conspiracy</name>
+            <description>The conspiracy thriller (or paranoid thriller) is a sub-genre of the thriller which flourished in the 1970s in the US (and was echoed in other parts of the world) in the wake of a number of high-profile scandals and controversies (most notably Vietnam, the assassination of President Kennedy, Chappaquiddick and Watergate), and which exposed what many people regarded as the clandestine machinations and conspiracies beneath the orderly fabric of political life.
+
+The protagonists of conspiracy thrillers are often journalists or amateur investigators who find themselves (often inadvertently) pulling on a small thread which unravels a vast conspiracy that ultimately goes &quot;all the way to the top&quot;.</description>
+        </category>
+        <category hentai="false" id="172" parentid="313" weight="300">
+            <name>Thriller</name>
+            <description>The thriller is a genre of fiction in which tough, resourceful, but essentially ordinary heroes are pitted against villains determined to destroy them, their country, or the stability of the free world. The hero of a typical thriller faces danger alone or in the company of a small band of companions. The protagonist may be a law enforcement agent, a journalist, or a soldier, but typically he or she is cut off from the resources of &quot;their&quot; organization. More often the hero is an ordinary citizen drawn into danger and intrigue by circumstances beyond their control. (Source: Wikipedia)</description>
+        </category>
+        <category hentai="false" id="18" parentid="4" weight="400">
+            <name>Super Power</name>
+            <description>Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.</description>
+        </category>
+        <category hentai="false" id="235" parentid="317" weight="400">
+            <name>Tragedy</name>
+            <description>Tragedy is a form of drama characterized by seriousness and dignity, usually involving a conflict between a character and some higher power, such as the law, the gods, fate, or society.</description>
+        </category>
+        <category hentai="false" id="244" parentid="216" weight="400">
+            <name>Twisted</name>
+            <description>Twisted indicates more than one abrupt change in plot or story. This derivation from strict linear storytelling usually makes these anime hard to follow, and at times even very confusing when several parallel plots intertwine.</description>
+        </category>
+        <category hentai="false" id="273" parentid="268" weight="400">
+            <name>Manga</name>
+            <description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.</description>
+        </category>
+        <category hentai="false" id="334" parentid="344" weight="500">
+            <name>Yakuza</name>
+            <description>Yakuza, also known as the Japanese Mafia, refers to traditional organized crime groups in Japan and members thereof. They have a hierarchical structure, with the &quot;oyabun&quot;, the family head, standing on top. They also have their own code, the &quot;jingi&quot;, where loyalty and respect are a way of life.
+
+Yakuza members are identifiable for their, often full-body, tattoos and missing fingers, a result of the yubitsume ritual, which is a form of penance or apology.</description>
+        </category>
+        <category hentai="false" id="4" parentid="313" weight="400">
+            <name>Action</name>
+            <description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting. </description>
+        </category>
+        <category hentai="false" id="84" parentid="83" weight="400">
+            <name>Violence</name>
+            <description>Physical force against self or other, compelling action against one`s will on pain of being hurt.</description>
+        </category>
+    </categories>
+    <resources>
+        <resource type="1">
+            <externalentity>
+                <identifier>6531</identifier>
+            </externalentity>
+        </resource>
+        <resource type="2">
+            <externalentity>
+                <identifier>2154</identifier>
+            </externalentity>
+        </resource>
+        <resource type="3">
+            <externalentity>
+                <identifier>3726</identifier>
+                <identifier>kottgn</identifier>
+            </externalentity>
+        </resource>
+        <resource type="4">
+            <externalentity>
+                <url>http://www.tekkon.net/</url>
+            </externalentity>
+        </resource>
+        <resource type="6">
+            <externalentity>
+                <identifier>Tekkon_Kinkreet</identifier>
+            </externalentity>
+        </resource>
+        <resource type="7">
+            <externalentity>
+                <identifier>鉄コン筋クリート</identifier>
+            </externalentity>
+        </resource>
+        <resource type="9">
+            <externalentity>
+                <identifier>324734</identifier>
+            </externalentity>
+        </resource>
+        <resource type="10">
+            <externalentity>
+                <identifier>8409</identifier>
+            </externalentity>
+        </resource>
+    </resources>
+    <tags>
+        <tag approval="2" globalspoiler="false" id="682" localspoiler="false" spoiler="false" update="2008-06-06">
+            <name>great soundtrack</name>
+            <count>370</count>
+            <description>The anime soundtrack is noteworthy.</description>
+        </tag>
+        <tag approval="2" globalspoiler="false" id="443" localspoiler="false" spoiler="false" update="2012-10-06">
+            <name>unusual artwork</name>
+            <count>124</count>
+            <description>The artwork (backgrounds, or character designs) differ from what is commonly shown in contemporary anime. This can either mean that the style is different (e.g. the large-eyed cute bishoujo are drawn much more realistically), or simply point at the fact that the artwork is &quot;exceptionally more beautiful&quot; than normal.</description>
+        </tag>
+        <tag approval="9" globalspoiler="false" id="448" localspoiler="false" spoiler="false" update="2008-06-02">
+            <name>surreal</name>
+            <count>97</count>
+            <description>Refers to things or occurrences that are generally bizarre or dreamlike, with the relentless capability of replacing reality through the eyes of the beholder. Surrealism is boundless, limited only by thought itself.</description>
+        </tag>
+        <tag approval="6" globalspoiler="false" id="776" localspoiler="false" spoiler="false" update="2013-03-19">
+            <name>just different</name>
+            <count>7</count>
+            <description>This show is quite different from most anime. Odds are you have never seen anything like it before. You may get a thoroughly entertaining experience from it, or you may be disappointed.</description>
+        </tag>
+        <tag approval="8" globalspoiler="false" id="270" localspoiler="false" spoiler="false" update="2009-05-22">
+            <name>children</name>
+            <count>80</count>
+            <description>The anime also features children.</description>
+        </tag>
+        <tag approval="5" globalspoiler="false" id="372" localspoiler="false" spoiler="false" update="2010-04-11">
+            <name>psychological</name>
+            <count>96</count>
+            <description>Directed toward dealing with or affecting the mind, especially as a function of awareness, feeling, or motivation.</description>
+        </tag>
+        <tag approval="5" globalspoiler="false" id="2506" localspoiler="false" spoiler="false" update="2010-12-20">
+            <name>high definition</name>
+            <count>116</count>
+            <description>High Definition or HD — a HD version of the anime seems to exist on Blu-ray or HD DVD.</description>
+        </tag>
+        <tag approval="3" globalspoiler="false" id="497" localspoiler="true" spoiler="true" update="2008-06-03">
+            <name>supernatural</name>
+            <count>170</count>
+            <description>Things happen in this anime that seem to be beyond nature or physical laws.Examples: Ghosts, vampires, monsters, telepathy, telekinesis, etc.</description>
+        </tag>
+        <tag approval="2" globalspoiler="false" id="6584" localspoiler="false" spoiler="false" update="2012-07-04">
+            <name>stand-alone movie</name>
+            <count>214</count>
+            <description>You can watch this movie without having to watch something else first. This tag should not used for sequels, side stories, or summary movies, but may be used if the movie is either the first anime in a franchise or a remake.The movie must be feature-length. For shorts, use the `short movie` tag.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="5290" localspoiler="false" spoiler="false" update="2009-07-26">
+            <name>artistic visualization</name>
+            <count>27</count>
+            <description>Visualization in an artistic manner — &quot;artistic decoration&quot;. Where visualization is any technique for creating images, diagrams, or animations to communicate a message.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="2099" localspoiler="false" spoiler="false" update="2010-03-15">
+            <name>disturbing</name>
+            <count>90</count>
+            <description>Watching the show may cause the viewer to have unpleasant feelings.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="774" localspoiler="false" spoiler="false" update="2013-01-14">
+            <name>not for kids</name>
+            <count>172</count>
+            <description>This anime contains themes definitely NOT suitable for kids (e.g. rape, gory dismemberment, suicide, graphic sexual content, etc.).</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="1929" localspoiler="false" spoiler="false" update="2010-03-23">
+            <name>improbable physics</name>
+            <count>124</count>
+            <description>The physics in this anime have little to do with real-world physics, and are actually very much exaggerated.Examples: Cars hitting a tiny obstacle, but then flying through the air for no apparent reason, or flimsy bullets slamming heavy characters clear across the room.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="124" localspoiler="false" spoiler="false" update="2011-07-05">
+            <name>visually stunning</name>
+            <count>166</count>
+            <description>The visuals — i.e. settings, backgrounds, characters — are absolutely breathtakingly beautiful.This may come as all the more surprising, when a TV series or OVA sports the quality usually only associated with expensive anime movies.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="1899" localspoiler="false" spoiler="false" update="2008-08-23">
+            <name>3D CG animation</name>
+            <count>87</count>
+            <description>Abbreviation for &quot;three-dimensional computer generated animation&quot; or &quot;computer graphics&quot; (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of &quot;Appleseed&quot; , 2007`s &quot;Vexille&quot;, the 2008 addition to the &quot;Biohazard&quot; series and the more well known &quot;Final Fantasy: The Spirits Within&quot; and &quot;Advent Children&quot;).</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="4568" localspoiler="false" spoiler="false" update="2010-12-14">
+            <name>sentou episode</name>
+            <count>67</count>
+            <description>A sentou is a type of Japanese communal bath house where customers pay for entrance. Some Japanese find social importance in going to public baths, out of the theory that physical intimacy brings emotional intimacy, which is termed skinship in Japanese. Traditionally it is gender-segregated — men usually bathe only with men, and women with women. Usually used for fanservice purpose as it gives the staff the opportunity to draw the characters in the nude and raise the DVD sales.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="1351" localspoiler="false" spoiler="false" update="2012-02-15">
+            <name>sociocultural evolution</name>
+            <count>87</count>
+            <description>Describes how cultures and societies develop over time, based on both cultural evolution and social evolution.A post-apocalyptic or a Utopian setting would show very interesting changes in human behaviour, mental state, or simply daily life.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="557" localspoiler="false" spoiler="false" update="2010-12-14">
+            <name>social commentary</name>
+            <count>105</count>
+            <description>Social commentary is the act of rebelling against an individual, or a group of people by rhetorical means. This is most often done with the idea of implementing or promoting change by informing the general populace about a given problem and appealing to people’s sense of justice. (Source: Wikipedia)Since this is anime, usually, the mores of Japan and the Japanese society are scrutinised.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="1230" localspoiler="false" spoiler="false" update="2013-02-03">
+            <name>rotten world</name>
+            <count>48</count>
+            <description>The anime shows a world where many rules concerning accepted social behaviour are broken. This also includes a wide variety of `abuse`. E.g. to kill other characters is either not considered a crime or simply ignored.The world portrayed is the opposite of a Utopia.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="4428" localspoiler="false" spoiler="false" update="2009-02-03">
+            <name>sense of foreboding</name>
+            <count>159</count>
+            <description>The anime starts off quietly, everything seems to be fine, but from episode to episode the signs that something ominous is about to happen increase. E.g. a typical mystery setting.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="2582" localspoiler="false" spoiler="false" update="2010-02-15">
+            <name>orphan</name>
+            <count>69</count>
+            <description>One or more characters in the anime have lost their parents.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="403" localspoiler="false" spoiler="false" update="2010-02-23">
+            <name>sad</name>
+            <count>26</count>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="6149" localspoiler="false" spoiler="false" update="2010-08-07">
+            <name>amusement park episode</name>
+            <count>36</count>
+            <description>Plot device: All or part of the cast visit an amusement park. Added to show the characters in a more leisurely environment (i.e. other than school or at home). Often used in school settings to &quot;develop&quot; and &quot;further&quot; the relations between the male and female leads in this anime. Can also set the stage for comedic misunderstandings, or private moments with possibly ecchi undertones. Furthermore, it gives the anime creators a chance to show off their characters in non-uniforms (e.g. school uniforms). Also see &quot;pool episode&quot;.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="603" localspoiler="false" spoiler="false" update="2011-04-10">
+            <name>dreams and reality</name>
+            <count>42</count>
+            <description>This genre of anime is typically set in both the world as we know it (reality) and a world of dreams, mythology or imagination.Sometimes this dreamworld is actually real, sometimes it is not. Other times what we think is the real world is the dreamworld, and vice versa. They are not always easy to distinguish from each other, neither by the characters nor the viewer.Whatever is real, and whatever is reality, both worlds are integral in shaping both the plot of this anime and the development of the characters.</description>
+        </tag>
+    </tags>
+    <characters>
+        <character id="12040" type="main character in" update="2009-09-28">
+            <rating votes="1">9.08</rating>
+            <name>Kuro</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Kuro is the older, more hardened half of the orphan duo who live together in an abandoned car under a freeway and protect Treasure Town from outside forces. The lost innocent, agressive, and an impetuous force of violence, Kuro is the child forced to grow up. If there`s no turning back for Kuro, his goal is to save what`s left of Shiro`s innocence. Kuro needs Shiro to feel worthy and to maintain his hope in the world.</description>
+            <picture>36408.jpg</picture>
+            <seiyuu id="9701" picture="36410.jpg">Ninomiya Kazunari</seiyuu>
+        </character>
+        <character id="12041" type="main character in" update="2009-09-28">
+            <rating votes="1">8.53</rating>
+            <name>Shiro</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Shiro is the other, more naïve half of the boy duo he forms with Kuro. Far from pure, Shiro is clearly still a child, helpless, emotional and open to the world, but paradoxically all-knowing, in tune with the poetry of the streets. Shiro`s mind is a blank state, and his focus is on the simple, sensory things he likes - things that are soft, things that are shiny. Although Shiro senses that the world is falling apart around the two boys, he isn`t prepared to deal with it, and loses his tenuous grasp on reality as events unfold. Shiro needs Kuro to survive.</description>
+            <picture>36413.jpg</picture>
+            <seiyuu id="9703" picture="36416.jpg">Aoi Yuu</seiyuu>
+        </character>
+    </characters>
+    <episodes>
+        <episode id="53563" update="2011-10-20">
+            <epno type="1">1</epno>
+            <length>115</length>
+            <airdate>2006-12-23</airdate>
+            <rating votes="5">3.81</rating>
+            <title xml:lang="en">Complete Movie</title>
+        </episode>
+    </episodes>
+</anime>

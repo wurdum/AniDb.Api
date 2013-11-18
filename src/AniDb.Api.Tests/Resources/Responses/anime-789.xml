@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anime id="789" restricted="false">
+    <type>OVA</type>
+    <episodecount>7</episodecount>
+    <startdate>2000-05-25</startdate>
+    <enddate>2002-01-25</enddate>
+    <titles>
+        <title type="main" xml:lang="x-jat">JoJo no Kimyou na Bouken (2000)</title>
+        <title type="synonym" xml:lang="en">JoJo`s Wonderful Adventures</title>
+        <title type="synonym" xml:lang="en">JoJo`s Bizarre Adventures - Prequel</title>
+        <title type="synonym" xml:lang="fr">JoJo`s Bizarre Adventure - DVD 1 &amp; 2</title>
+        <title type="synonym" xml:lang="he">הרפתקואותיו הביזריות של ג`וג`ו (2000)</title>
+        <title type="synonym" xml:lang="bg">Невероятните приключения на ДжоДжо (2000)</title>
+        <title type="short" xml:lang="en">jojo 2000</title>
+        <title type="official" xml:lang="ja">ジョジョの奇妙な冒険 (2000)</title>
+        <title type="official" xml:lang="fr">JoJo`s Bizarre Adventure</title>
+    </titles>
+    <relatedanime>
+        <anime id="788" type="Sequel">JoJo no Kimyou na Bouken</anime>
+        <anime id="4918" type="Prequel">JoJo no Kimyou na Bouken: Phantom Blood</anime>
+        <anime id="9304" type="Prequel">JoJo no Kimyou na Bouken (2012)</anime>
+        <anime id="10206" type="Alternative Setting">JoJo no Kimyou na Bouken: Stardust Crusaders</anime>
+    </relatedanime>
+    <recommendations total="1">
+        <recommendation type="Must See" uid="97419">a must see classic. a fundamental to call yourself an anime fan.too bad they only adapted a short part of the manga.</recommendation>
+    </recommendations>
+    <creators>
+        <name id="8033" type="Direction">Nimura Hideki</name>
+        <name id="7030" type="Music">Marco d`Ambrosio</name>
+        <name id="1424" type="Direction">Kikuchi Yasuhito</name>
+        <name id="7527" type="Direction">Urata Yasunori</name>
+        <name id="19859" type="Direction">Yamanaka Eiji</name>
+        <name id="811" type="Animation Work">A.P.P.P.</name>
+        <name id="981" type="Original Work">Araki Hirohiko</name>
+        <name id="12731" type="Direction">Kobayashi Takashi</name>
+        <name id="4307" type="Direction">Furuse Noboru</name>
+        <name id="5003" type="Character Design">Hayama Jun`ichi</name>
+        <name id="5003" type="Chief Animation Direction">Hayama Jun`ichi</name>
+    </creators>
+    <description>This second OVA series serves as an immediate prequel to the first OVA. About a hundred years after his cataclysmic battle against one of the Joestar family, the vampire Dio has been fished out of the ocean and freed. Thus begins Josef Joestar and his grandson Jotaro`s involvement in the Joestar-Dio feud as Dio`s freedom awakens the Stand-powers of Josef and street punk Jotaro for the first time. They must gather allying Stand users - warriors imbued with a Tarot card symbol that designates their power and face Dio in order to save Jotaro`s mother Holly who is affected by the curse of Dio.</description>
+    <ratings>
+        <permanent count="411">5.54</permanent>
+        <temporary count="416">7.01</temporary>
+        <review count="1">8.00</review>
+    </ratings>
+    <picture>11310.jpg</picture>
+    <categories>
+        <category hentai="false" id="273" parentid="268" weight="600">
+            <name>Manga</name>
+            <description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.</description>
+        </category>
+        <category hentai="false" id="11" parentid="6" weight="600">
+            <name>Present</name>
+            <description>Somewhere between past and future</description>
+        </category>
+        <category hentai="false" id="154" parentid="313" weight="400">
+            <name>Horror</name>
+            <description>The horror cinematic genre is characterized by the attempt to make the viewer experience dread, fear, terror, or horror. Often their plots involve the intrusion of an evil force, event or personage, sometimes of supernatural origin, on the mundane world and the consequences thereof.</description>
+        </category>
+        <category hentai="false" id="158" parentid="15" weight="200">
+            <name>Vampire</name>
+            <description>A super-human species, with long fangs used to penetrate the tender neck of young females, to drink blood.</description>
+        </category>
+        <category hentai="false" id="18" parentid="4" weight="600">
+            <name>Super Power</name>
+            <description>Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.</description>
+        </category>
+        <category hentai="false" id="22" parentid="289" weight="600">
+            <name>Asia</name>
+            <description>Asia is the world`s largest and most populous continent.</description>
+        </category>
+        <category hentai="false" id="23" parentid="22" weight="400">
+            <name>Japan</name>
+            <description>Last stronghold for humanity, if Tokyo falls, it`s all over. Tokyo Tower will undoubtedly fall anyway.</description>
+        </category>
+        <category hentai="false" id="289" parentid="7" weight="600">
+            <name>Earth</name>
+            <description>The Earth is the third planet from the Sun. It is a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). To its inhabitants, our planet is their home, so, as a species, we cherish it to the point many cultures even to this day deify it. The Earth is the main setting of most fiction, but many titles are set in other places, such as unrelated fantasy worlds, and in a considerable number of fictional titles the Earth is actually destroyed by invaders.</description>
+        </category>
+        <category hentai="false" id="4" parentid="313" weight="600">
+            <name>Action</name>
+            <description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting. </description>
+        </category>
+        <category hentai="false" id="5" parentid="3" weight="600">
+            <name>Shounen</name>
+            <description>In the context of manga and associated media, the word shounen refers to a male audience roughly between the ages of 10 and 18. In Japanese, the word means simply &quot;young male&quot;, and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic. Still, while not mandatory, some easily identifiable traits are generally common to shounen works, such as: high-action, often humorous plots featuring male protagonists; camaraderie between male friends; sports teams and fighting squads (usually coupled with the aforementioned camaraderie); unrealistically attractive female characters (see fanservice). Additionally, the art style of shounen tends to be less flowery than that of shoujo and the plots tend to be less complex than seinen, but neither of those is a requirement.</description>
+        </category>
+        <category hentai="false" id="84" parentid="83" weight="400">
+            <name>Violence</name>
+            <description>Physical force against self or other, compelling action against one`s will on pain of being hurt.</description>
+        </category>
+        <category hentai="false" id="306" parentid="313" weight="400">
+            <name>Adventure</name>
+            <description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, &quot;jungle&quot; and &quot;desert&quot; epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+        </category>
+        <category hentai="false" id="233" parentid="216" weight="600">
+            <name>Plot Continuity</name>
+            <description>Consistency of the characteristics of persons, plot, objects, places and events seen by the viewer.
+
+A single linear focused plot is highly continuous.
+
+A truly random plot is highly discontinuous.</description>
+        </category>
+        <category hentai="false" id="249" parentid="317" weight="400">
+            <name>Proxy Battles</name>
+            <description>In our terms, a proxy battle is a battle where humans use creatures/robots to do the fighting for them, either by commanding those creatures/robots or by simply evolving them/changing them into battle mode. Often the training aspect is also involved, or in some cases the proxies are nothing more than holographic representatives of some other variation of competition (like for example a card game). While many popular shounen anime fit under this category, it`s not limited to shounen anime.</description>
+        </category>
+    </categories>
+    <resources>
+        <resource type="1">
+            <externalentity>
+                <identifier>463</identifier>
+            </externalentity>
+        </resource>
+        <resource type="2">
+            <externalentity>
+                <identifier>665</identifier>
+            </externalentity>
+        </resource>
+        <resource type="3">
+            <externalentity>
+                <identifier>220</identifier>
+                <identifier>kuctbx</identifier>
+            </externalentity>
+        </resource>
+        <resource type="9">
+            <externalentity>
+                <identifier>159860</identifier>
+            </externalentity>
+        </resource>
+    </resources>
+    <tags>
+        <tag approval="2" globalspoiler="false" id="991" localspoiler="false" spoiler="false" update="2009-05-24">
+            <name>fighting</name>
+            <count>172</count>
+            <description>For some reason or other one faction has to take it out on some opponent via fight or battle. Typical examples of this are all the anime with &quot;endless pointless fighting&quot; tag.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="3328" localspoiler="false" spoiler="false" update="2009-05-23">
+            <name>India</name>
+            <count>3</count>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="1952" localspoiler="false" spoiler="false" update="2012-08-02">
+            <name>Weekly Shounen Jump</name>
+            <count>107</count>
+            <description>The Weekly Shounen Jump is a Japanese manga magazine released on a weekly basis. Its main target audience consists of young males and it features several manga titles. A number of very famous shounen manga were or are published in the magazine.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="7040" localspoiler="false" spoiler="false" update="2013-01-21">
+            <name>defeat means friendship</name>
+            <count>39</count>
+            <description>In a series based around an endless series of one-on-one fights, defeating a Worthy Opponent or The Rival will sometimes convert them to the hero`s side, if not always to his cause. Furthermore, no matter how many people the Worthy Opponent has killed, how much grief he has caused, even if he slaughtered helpless children or the hero`s own family, as soon as he shows a bit of remorse or goes out of his way to help the hero even once, he will be welcomed into the hero`s circle of True Companions with open arms.(Source: TVTropes)</description>
+        </tag>
+    </tags>
+    <characters>
+        <character id="894" type="secondary cast in" update="2013-10-19">
+            <rating votes="37">8.23</rating>
+            <name>Kuujou Joutarou</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>He has a very tough exterior, and is even rather rough and delinquent, but he also is very dedicated, intense, and loyal. He is intelligent, but usually lets his (or Star Platinum`s) fists do the talking with the enemy, even though he often has to rely on his wits to deal with stand users` attacks. Jotaro has a perpetual cooler-than-thou, slightly disinterested attitude, although he loves his mother and respects his grandfather. It is not that he is unaware of his own love and/or respect--rather, he thinks anyone can tell his emotions just by looking at him, and probably thinks further effort in portraying how he feels to be a waste of time. In the manga, he`s constantly chased by adoring girls, whom he ignores or tries to drive away. He is the main target of Dio, who realises that Jotaro is his greatest threat.</description>
+            <picture>144417.jpg</picture>
+            <seiyuu id="220" picture="17038.jpg">Kosugi Juurouta</seiyuu>
+        </character>
+        <character id="895" type="secondary cast in" update="2012-09-28">
+            <rating votes="61">8.12</rating>
+            <name>Dio Brando</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Dio Brando`s treacherous, sadistic nature may be partially explained by his abusive upbringing at the hands of an alcoholic father, whom he later killed by a slow poisoning over time. He is also ambitious, narcissistic, arrogant and megalomaniacal. He will do anything to get what he wants, even if it means trampling people, like he did to Jonathan Joestar when they were young, and relinquishing his humanity in favor of becoming a vampire. However, Dio shows a good side to those who are good to him. In particular, he has shown favourable attitudes towards Enrico Pucci, who also showed loyalty in return. Dio also has a passion for reading, as he is found in the library of his Egypt mansion many times.</description>
+            <picture>45620.jpg</picture>
+            <seiyuu id="3259" picture="24259.jpg">Tanaka Nobuo</seiyuu>
+        </character>
+        <character id="1722" type="secondary cast in" update="2009-06-20">
+            <rating votes="5">4.93</rating>
+            <name>Mohammed Abdul</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Abdul is a fortune teller, born in Cairo, Egypt. He was also one of the first to meet Dio after the vampire`s resurrection, barely escaping with his life and sanity. Before the events in the anime, he had met and barely tamed the Stand-wielding dog Iggy.</description>
+            <picture>16291.jpg</picture>
+            <seiyuu id="37" picture="43092.jpg">Kobayashi Kiyoshi</seiyuu>
+        </character>
+        <character id="1724" type="secondary cast in" update="2008-12-30">
+            <rating votes="3">2.98</rating>
+            <name>Magician`s Red</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Magician`s Red appears as a red humanoid figure with the head of a great eagle and fur-covered legs. Its abilities all involve the manipulation of fire. Abdul was born with this Stand and learned to control its power.This fiery stand can also be remotely controlled and generates intense flames capable of melting steel within moments. The fire is hot enough to have evaporated including but not limited to metal projectiles in mid-air and sliced through railroad tracks. It also has more nuanced uses, such as suffocating foes by placing flame in front of their mouth (Red Bind), or using floating balls of psychic flame which flicker in response to enemy presence. Magician`s Red can also produce a &quot;heat radar&quot;, a cruciform mass of flame that indicates the location of heat sources.</description>
+            <picture>16293.jpg</picture>
+        </character>
+        <character id="1732" type="secondary cast in" update="2011-04-09">
+            <rating votes="7">6.98</rating>
+            <name>Kakyouin Noriaki</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Initially a student who has travelled to Egypt, Dio Brando sensed his Stand powers and asked him for a demonstration, which turned out to be a fight.Afterwards, Kakyoin is brainwashed by Dio using buds from his own cells into following his will, which is to kill Jotaro Kujo.In the anime, he attacks Jotaro by possessing the body of a female student with his Stand. He is defeated by Jotaro either way. Jotaro soon discovers that Kakyoin was under the influence of Dio. Jotaro then used his own Stand, Star Platinum, to remove Dio`s implant buds from Kakyoin`s head in spite of the risk that it may openly attack both of them. Kakyoin is freed from Dio`s slavery afterwards to which he joins the heroes as thanks for helping them.</description>
+            <picture>16301.jpg</picture>
+            <seiyuu id="3136" picture="24121.jpg">Suzuoki Hirotaka</seiyuu>
+        </character>
+        <character id="1737" type="secondary cast in" update="2008-12-30">
+            <rating votes="3">2.28</rating>
+            <name>Heirophant Green</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Hierophant Green is an elastic and remote Stand, capable of `scouting` and performing actions from far distances. Kakyoin has wielded this Stand since birth. His Stand looks humanoid but robotic with yellow eyes, no distinguishable mouth, and green-coloured appendages that resembles a watermelon in texture. The exterior features of the Stand sports a cream-white or beige colour. The composition of this Stand isn`t solid; instead, it is a compact winding coils of itself that can unravel at a moment`s notice. The Stand is approximately as tall as Kakyoin himself. Whenever the green appendages glow, the Stand is priming for an attack, such as Emerald Splash.</description>
+            <picture>16309.jpg</picture>
+        </character>
+        <character id="1742" type="secondary cast in" update="2013-04-06">
+            <rating votes="14">8.32</rating>
+            <name>Joseph Joestar</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Joseph comes to the aid of his daughter Holly, and his grandson Jotaro. He teaches his grandson about the Stand, and for the most, has done his share of directing the group towards their goal, through fatherly advices and tactics and analysis. He deciphered Kakyoin`s message despite cryptic depictions in regards to Dio`s power.</description>
+            <picture>134793.jpg</picture>
+            <seiyuu id="456" picture="17358.jpg">Ootsuka Chikao</seiyuu>
+        </character>
+        <character id="1748" type="secondary cast in" update="2008-12-30">
+            <rating votes="5">2.68</rating>
+            <name>Kujo Holly</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Holly is the daughter of Joseph and Suzie Joestar, and mother of Jotaro Kujo. Her sweet charm is known by all. She believes in her son deeply, proud of the compassion that he has shows to others. A woman who loves her family, she will deliberately lie about her illness so as to lessen their worry. Her ailing condition becomes the catalyst for Jotaro and company`s quest to Egypt.Her Japanese name is &quot;Seiko&quot;.</description>
+            <picture>16322.jpg</picture>
+        </character>
+        <character id="1799" type="secondary cast in" update="2008-12-31">
+            <rating votes="1">4.50</rating>
+            <name>Forever</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>An Orangutan whose Stand is Strength.With it, he acquires full control of a Cargo Ship. Once it is defeated, the ship reverts back to a small fishing boat, giving the group the understanding that the Stand`s real power was influence over the boat to resemble something more &quot;powerful&quot;.</description>
+            <picture>16381.jpg</picture>
+        </character>
+        <character id="1801" type="secondary cast in" update="2008-12-31">
+            <rating votes="2">3.68</rating>
+            <name>Hol Horse</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>An arrogant cowboy and the wielder of the Emperor Stand, which takes the form of a revolver. Upon being fired, the Emperor can control the bullet`s flight path, allowing it to turn in mid-air. He, however, prefers to operate with a partner, as his Stand is fairly weak and not effective without backup. While originally seen working with J. Geil, he later becomes partners with Boingo. Despite his arrogance, Hol Horse prefers to see himself as a &quot;No.2 kind of guy&quot; rather than a &quot;No.1 kind of guy&quot;. He is named after the hip-hop group Full Force.</description>
+            <picture>16383.jpg</picture>
+            <seiyuu id="2" picture="16471.jpg">Wakamoto Norio</seiyuu>
+        </character>
+        <character id="1802" type="secondary cast in" update="2008-12-31">
+            <rating votes="2">1.90</rating>
+            <name>J. Geil</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>A user of The Hanged Man, a light-based, knife-wielding zombie Stand that only appears in reflective surfaces, within which it is immune to attack, J. Geil is a deformed man with two right hands. He is also a hated rival of Jean-Pierre Polnareff, whose sister he raped and murdered. He is named after the musical group J. Geils Band.</description>
+            <picture>16385.jpg</picture>
+            <seiyuu id="39" picture="16629.jpg">Mugihito</seiyuu>
+        </character>
+        <character id="1803" type="secondary cast in" update="2008-12-31">
+            <rating votes="2">2.64</rating>
+            <name>The Hanged Man</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>A light-based, knife-wielding zombie Stand that only appears in reflective surfaces, within which it is immune to attack.</description>
+            <picture>16384.jpg</picture>
+        </character>
+        <character id="1804" type="secondary cast in" update="2008-12-31">
+            <rating votes="2">8.81</rating>
+            <name>Enya Geil</name>
+            <gender>female</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>An ancient woman with two right hands, the mother of J. Geil and an apparent confidante of Dio Brando. She was responsible for granting him the power of the Stand. Her own stand, Justice, takes the form of a massive mist, which can take control of anyone with an open wound, allowing Enya to control them as she would a puppet. Enya is named after the artist of the same name. In the anime, she is also able to use her mist to morph her appearance into an attractive woman.Her dual transformations were used to wound Hol Horse and trick Polnareff. Her stand was also able to craft the entire city that the group rested at, disappearing to reveal a barren desert.</description>
+            <picture>16389.jpg</picture>
+            <seiyuu id="1509" picture="19311.jpg">Fukami Rika</seiyuu>
+        </character>
+        <character id="1805" type="secondary cast in" update="2008-12-31">
+            <rating votes="2">3.68</rating>
+            <name>Justice</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>Justice takes the form of a massive mist, which can take control of anyone with an open wound, allowing Enya to control them as she would a puppet. In the anime, she is also able to use her mist to morph her appearance into an attractive woman.</description>
+            <picture>16390.jpg</picture>
+        </character>
+        <character id="2068" type="cameo appearance in" update="2012-09-28">
+            <rating votes="24">4.41</rating>
+            <name>Jonathan Joestar</name>
+            <gender>male</gender>
+            <charactertype id="1">Character</charactertype>
+            <description>The son of the wealthy George Joestar. He is an honest, kind and positive young man whose life is fraught with tragedy. His body was taken by Dio Brando.</description>
+            <picture>45624.jpg</picture>
+        </character>
+    </characters>
+    <episodes>
+        <episode id="9819" update="2010-10-14">
+            <epno type="1">1</epno>
+            <length>30</length>
+            <airdate>2000-05-25</airdate>
+            <rating votes="1">4.21</rating>
+            <title xml:lang="ja">悪霊</title>
+            <title xml:lang="en">The Evil Spirit</title>
+            <title xml:lang="fr">L`esprit maléfique</title>
+            <title xml:lang="x-jat">Akuryou</title>
+        </episode>
+        <episode id="9820" update="2010-10-14">
+            <epno type="1">3</epno>
+            <length>30</length>
+            <airdate>2000-10-27</airdate>
+            <rating votes="1">9.84</rating>
+            <title xml:lang="ja">銀の戦車&amp;力</title>
+            <title xml:lang="en">Silver Chariot and Strength</title>
+            <title xml:lang="fr">Silver Chariot et Strength</title>
+            <title xml:lang="x-jat">Gin no Sensha &amp; Chikara</title>
+        </episode>
+        <episode id="9821" update="2010-10-14">
+            <epno type="1">2</epno>
+            <length>30</length>
+            <airdate>2000-08-25</airdate>
+            <rating votes="1">7.43</rating>
+            <title xml:lang="ja">法皇の緑</title>
+            <title xml:lang="en">Hierophant Green</title>
+            <title xml:lang="fr">Hierophant Green</title>
+            <title xml:lang="x-jat">Houou no Midori</title>
+        </episode>
+        <episode id="13339" update="2010-10-14">
+            <epno type="1">4</epno>
+            <length>30</length>
+            <airdate>2001-04-27</airdate>
+            <rating votes="1">7.43</rating>
+            <title xml:lang="ja">皇帝と吊られた男</title>
+            <title xml:lang="en">The Emperor and the Hanged Man</title>
+            <title xml:lang="fr">L`empereur et le pendu</title>
+            <title xml:lang="x-jat">Koutei to Tsurareta Otoko</title>
+        </episode>
+        <episode id="13378" update="2010-10-14">
+            <epno type="1">5</epno>
+            <length>30</length>
+            <airdate>2001-07-27</airdate>
+            <rating votes="1">9.84</rating>
+            <title xml:lang="ja">裁き</title>
+            <title xml:lang="en">The Judgement</title>
+            <title xml:lang="fr">Jugement</title>
+            <title xml:lang="x-jat">Sabaki</title>
+        </episode>
+        <episode id="17618" update="2006-01-01">
+            <epno type="2">S1</epno>
+            <length>4</length>
+            <title xml:lang="en">JoJo Timeline Part 1</title>
+        </episode>
+        <episode id="18158" update="2011-10-20">
+            <epno type="1">6</epno>
+            <length>25</length>
+            <airdate>2001-09-28</airdate>
+            <rating votes="1">7.43</rating>
+            <title xml:lang="ja">報復の霧</title>
+            <title xml:lang="en">The Mist of Vengeance</title>
+            <title xml:lang="fr">La brume de la vengeance</title>
+            <title xml:lang="x-jat">Houfuku no Kiri</title>
+        </episode>
+        <episode id="19632" update="2011-10-20">
+            <epno type="1">7</epno>
+            <length>30</length>
+            <airdate>2002-01-25</airdate>
+            <rating votes="1">4.21</rating>
+            <title xml:lang="ja">正義[ジャスティス]</title>
+            <title xml:lang="en">Justice</title>
+            <title xml:lang="fr">Justice</title>
+            <title xml:lang="x-jat">Seigi [Justice]</title>
+        </episode>
+        <episode id="19922" update="2005-02-20">
+            <epno type="2">S2</epno>
+            <length>3</length>
+            <title xml:lang="en">JoJo Timeline Part 2</title>
+        </episode>
+        <episode id="26934" update="2004-12-22">
+            <epno type="2">S3</epno>
+            <length>3</length>
+            <title xml:lang="en">JoJo Timeline Part 3</title>
+        </episode>
+        <episode id="47735" update="2006-03-18">
+            <epno type="2">S4</epno>
+            <length>7</length>
+            <title xml:lang="en">Interview</title>
+        </episode>
+        <episode id="47736" update="2011-10-20">
+            <epno type="2">S5</epno>
+            <length>20</length>
+            <title xml:lang="en">Staff Interviews</title>
+        </episode>
+        <episode id="47737" update="2006-03-18">
+            <epno type="2">S6</epno>
+            <length>20</length>
+            <title xml:lang="en">Interviews</title>
+        </episode>
+        <episode id="130699" update="2011-06-07">
+            <epno type="2">S11</epno>
+            <length>7</length>
+            <title xml:lang="en">Staff Interview Part 2</title>
+        </episode>
+        <episode id="130700" update="2011-06-07">
+            <epno type="2">S10</epno>
+            <length>9</length>
+            <title xml:lang="en">Staff Interview Part 1</title>
+        </episode>
+        <episode id="130701" update="2011-06-07">
+            <epno type="2">S9</epno>
+            <length>5</length>
+            <title xml:lang="en">Director Interview</title>
+        </episode>
+        <episode id="130702" update="2013-05-04">
+            <epno type="2">S8</epno>
+            <length>5</length>
+            <title xml:lang="en">Author Interview Part 2</title>
+        </episode>
+        <episode id="130703" update="2013-05-04">
+            <epno type="2">S7</epno>
+            <length>5</length>
+            <title xml:lang="en">Author Interview Part 1</title>
+        </episode>
+        <episode id="130705" update="2011-06-07">
+            <epno type="2">S17</epno>
+            <length>1</length>
+            <title xml:lang="en">Color Settings</title>
+        </episode>
+        <episode id="130706" update="2011-06-07">
+            <epno type="2">S18</epno>
+            <length>1</length>
+            <title xml:lang="en">Illust Collection</title>
+        </episode>
+        <episode id="130707" update="2011-06-07">
+            <epno type="2">S16</epno>
+            <length>2</length>
+            <title xml:lang="en">Settings</title>
+        </episode>
+        <episode id="130708" update="2011-06-07">
+            <epno type="2">S15</epno>
+            <length>5</length>
+            <title xml:lang="en">Presentation</title>
+        </episode>
+        <episode id="130709" update="2013-05-04">
+            <epno type="2">S14</epno>
+            <length>5</length>
+            <title xml:lang="en">Special Conversation Part 3</title>
+        </episode>
+        <episode id="130710" update="2011-06-07">
+            <epno type="2">S13</epno>
+            <length>5</length>
+            <title xml:lang="en">Special Conversation Part 2</title>
+        </episode>
+        <episode id="130711" update="2013-05-04">
+            <epno type="2">S12</epno>
+            <length>5</length>
+            <title xml:lang="en">Special Conversation Part 1</title>
+        </episode>
+    </episodes>
+</anime>

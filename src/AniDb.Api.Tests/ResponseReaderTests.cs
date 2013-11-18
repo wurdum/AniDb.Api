@@ -35,5 +35,13 @@ namespace AniDb.Api.Tests
                 Assert.AreEqual(1, ex.SchemaExceptions.Count());
             }
         }
+        
+        [Test]
+        public void AnimeReaderModelMapperTest() {
+            var animeReader = new AnimeReader();
+            var body = File.ReadAllText(Helpers.ResponseFile("anime-4054.xml"));
+
+            animeReader.ReadObject(body);
+        }
     }
 }

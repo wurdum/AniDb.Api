@@ -28,7 +28,7 @@ namespace AniDb.Api
             get { return _responseBody; }
         }
 
-        public T Read<T>(ResponseReader<T> responseReader) {
+        public T Read<T, K>(ResponseReader<T, K> responseReader) {
             if (ResponseBody.Length < 100)
                 CheckIfAnError(ResponseBody);
 

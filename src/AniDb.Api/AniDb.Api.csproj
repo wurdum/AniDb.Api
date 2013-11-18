@@ -61,6 +61,9 @@
     <Compile Include="ResponseReaders\AnimeReader.cs" />
     <Compile Include="ResponseReaders\CategoryReader.cs" />
     <Compile Include="ResponseReaders\Deserialized\Anime.cs" />
+    <Compile Include="ResponseReaders\Deserialized\Category.cs" />
+    <Compile Include="ResponseReaders\Mappers\AnimeModelMapper.cs" />
+    <Compile Include="ResponseReaders\Mappers\IModelMapper.cs" />
     <Compile Include="ResponseReaders\ResponseReader.cs" />
   </ItemGroup>
   <ItemGroup>

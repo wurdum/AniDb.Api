@@ -6,7 +6,7 @@ namespace AniDb.Api.ResponseReaders
 {
     public class CategoryReader : ResponseReader<Category, category>
     {
-        public CategoryReader(IModelMapper<Category, category> mapper) : base(mapper) {}
+        public CategoryReader(ModelMapper<Category, category> mapper) : base(mapper) {}
 
         public override Category ReadObject(string responseBody) {
             return null;

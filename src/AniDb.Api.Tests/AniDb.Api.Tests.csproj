@@ -78,6 +78,7 @@
     <Content Include="Resources\Responses\anime-4726.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\Responses\anime-5101.xml" />
     <Content Include="Resources\Responses\anime-6022.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

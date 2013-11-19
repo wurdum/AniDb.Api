@@ -9,9 +9,9 @@ namespace AniDb.Api.ResponseReaders
     {
         protected const string DataDir = "Data";
         protected static string AppRoot = Path.GetDirectoryName(new Uri(Assembly.GetExecutingAssembly().CodeBase).LocalPath);
-        protected readonly IModelMapper<T, K> _mapper;
+        protected readonly ModelMapper<T, K> _mapper;
 
-        protected ResponseReader(IModelMapper<T, K> mapper) {
+        protected ResponseReader(ModelMapper<T, K> mapper) {
             _mapper = mapper;
         }
 

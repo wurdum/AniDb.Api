@@ -36,9 +36,9 @@ public partial class anime {
     
     private animeTitle[] titlesField;
     
-    private animeSimilaranime similaranimeField;
+    private animeAnime[] similaranimeField;
     
-    private animeAnime[] relatedanimeField;
+    private animeAnime1[] relatedanimeField;
     
     private animeRecommendations recommendationsField;
     
@@ -131,7 +131,8 @@ public partial class anime {
     }
     
     /// <remarks/>
-    public animeSimilaranime similaranime {
+    [System.Xml.Serialization.XmlArrayItemAttribute("anime", IsNullable=false)]
+    public animeAnime[] similaranime {
         get {
             return this.similaranimeField;
         }
@@ -142,7 +143,7 @@ public partial class anime {
     
     /// <remarks/>
     [System.Xml.Serialization.XmlArrayItemAttribute("anime", IsNullable=false)]
-    public animeAnime[] relatedanime {
+    public animeAnime1[] relatedanime {
         get {
             return this.relatedanimeField;
         }
@@ -344,28 +345,7 @@ public partial class animeTitle {
 [System.Diagnostics.DebuggerStepThroughAttribute()]
 [System.ComponentModel.DesignerCategoryAttribute("code")]
 [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true)]
-public partial class animeSimilaranime {
-    
-    private animeSimilaranimeAnime animeField;
-    
-    /// <remarks/>
-    public animeSimilaranimeAnime anime {
-        get {
-            return this.animeField;
-        }
-        set {
-            this.animeField = value;
-        }
-    }
-}
-
-/// <remarks/>
-[System.CodeDom.Compiler.GeneratedCodeAttribute("xsd", "4.0.30319.17929")]
-[System.SerializableAttribute()]
-[System.Diagnostics.DebuggerStepThroughAttribute()]
-[System.ComponentModel.DesignerCategoryAttribute("code")]
-[System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true)]
-public partial class animeSimilaranimeAnime {
+public partial class animeAnime {
     
     private ushort approvalField;
     
@@ -426,7 +406,7 @@ public partial class animeSimilaranimeAnime {
 [System.Diagnostics.DebuggerStepThroughAttribute()]
 [System.ComponentModel.DesignerCategoryAttribute("code")]
 [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true)]
-public partial class animeAnime {
+public partial class animeAnime1 {
     
     private ushort idField;
     
@@ -842,12 +822,13 @@ public partial class animeCategory {
 [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true)]
 public partial class animeResource {
     
-    private animeResourceExternalentity externalentityField;
+    private animeResourceExternalentity[] externalentityField;
     
     private ushort typeField;
     
     /// <remarks/>
-    public animeResourceExternalentity externalentity {
+    [System.Xml.Serialization.XmlElementAttribute("externalentity")]
+    public animeResourceExternalentity[] externalentity {
         get {
             return this.externalentityField;
         }
@@ -1058,7 +1039,7 @@ public partial class animeCharacter {
     
     private string pictureField;
     
-    private animeCharacterSeiyuu seiyuuField;
+    private animeCharacterSeiyuu[] seiyuuField;
     
     private ushort idField;
     
@@ -1127,7 +1108,8 @@ public partial class animeCharacter {
     }
     
     /// <remarks/>
-    public animeCharacterSeiyuu seiyuu {
+    [System.Xml.Serialization.XmlElementAttribute("seiyuu")]
+    public animeCharacterSeiyuu[] seiyuu {
         get {
             return this.seiyuuField;
         }

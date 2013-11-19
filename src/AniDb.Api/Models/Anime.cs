@@ -55,6 +55,11 @@ namespace AniDb.Api.Models
         }
 
         #endregion
+
+        public override string ToString() {
+            return string.Format("Id: {0}, Restricted: {1}, Type: {2}, Url: {3}, Picture: {4}, Description: {5}, EpisodeCount: {6}, " +
+                                 "StartDate: {7}, EndDate: {8}", Id, Restricted, Type, Url, Picture, Description, EpisodeCount, StartDate, EndDate);
+        }
     }
 
     public class Title
@@ -62,6 +67,10 @@ namespace AniDb.Api.Models
         public string Type { get; set; }
         public string Lang { get; set; }
         public string Value { get; set; }
+
+        public override string ToString() {
+            return string.Format("Type: {0}, Lang: {1}, Value: {2}", Type, Lang, Value);
+        }
     }
 
     public class Similar
@@ -70,12 +79,20 @@ namespace AniDb.Api.Models
         public int Approval { get; set; }
         public int Total { get; set; }
         public string Value { get; set; }
+
+        public override string ToString() {
+            return string.Format("Id: {0}, Approval: {1}, Total: {2}, Value: {3}", Id, Approval, Total, Value);
+        }
     }
 
     public class Recommendations
     {
         public int Total { get; set; }
         public IdTypeValue[] Entries { get; set; }
+
+        public override string ToString() {
+            return string.Format("Total: {0}", Total);
+        }
     }
 
     public class Rating
@@ -83,6 +100,10 @@ namespace AniDb.Api.Models
         public KeyValuePair<int, double> Permanent { get; set; }
         public KeyValuePair<int, double> Temporary { get; set; }
         public KeyValuePair<int, double>? Review { get; set; }
+
+        public override string ToString() {
+            return string.Format("Permanent: {0}, Temporary: {1}, Review: {2}", Permanent, Temporary, Review);
+        }
     }
 
     public class AnimeCategory
@@ -93,18 +114,31 @@ namespace AniDb.Api.Models
         public string Description { get; set; }
         public int Weight { get; set; }
         public bool IsHentai { get; set; }
+
+        public override string ToString() {
+            return string.Format("Id: {0}, Parentid: {1}, Name: {2}, Description: {3}, Weight: {4}, IsHentai: {5}", 
+                Id, Parentid, Name, Description, Weight, IsHentai);
+        }
     }
 
     public class AnimeResource
     {
         public int Type { get; set; }
-        public ResourceExternal External { get; set; }
+        public ResourceExternal[] External { get; set; }
+
+        public override string ToString() {
+            return string.Format("Type: {0}", Type);
+        }
     }
 
     public class ResourceExternal
     {
         public string Url { get; set; }
         public string[] Identifier { get; set; }
+
+        public override string ToString() {
+            return string.Format("Url: {0}, Identifier: {1}", Url, Identifier);
+        }
     }
 
     public class AnimeTag
@@ -118,6 +152,12 @@ namespace AniDb.Api.Models
         public bool LocalSpoiler { get; set; }
         public bool Spoiler { get; set; }
         public DateTime? Update { get; set; }
+
+        public override string ToString() {
+            return string.Format("Id: {0}, Count: {1}, Name: {2}, Description: {3}, Approval: {4}, GlobalSpoiler: {5}, " +
+                                 "LocalSpoiler: {6}, Spoiler: {7}, Update: {8}", Id, Count, Name, Description, Approval, GlobalSpoiler, 
+                                 LocalSpoiler, Spoiler, Update);
+        }
     }
 
     public class Character
@@ -129,11 +169,16 @@ namespace AniDb.Api.Models
         public string Type { get; set; }
         public string Gender { get; set; }
 
-        public KeyValuePair<int, double> Rating { get; set; }
-        public KeyValuePair<int, string> Charactertype { get; set; }
-        public Seiyuu Seiyuu { get; set; }
+        public KeyValuePair<int, double>? Rating { get; set; }
+        public KeyValuePair<int, string>? Charactertype { get; set; }
+        public Seiyuu[] Seiyuu { get; set; }
 
         public DateTime Update { get; set; }
+
+        public override string ToString() {
+            return string.Format("Id: {0}, Name: {1}, Description: {2}, Picture: {3}, Type: {4}, Gender: {5}, Update: {6}", 
+                Id, Name, Description, Picture, Type, Gender, Update);
+        }
     }
 
     public class Seiyuu
@@ -141,6 +186,10 @@ namespace AniDb.Api.Models
         public int Id { get; set; }
         public string Picture { get; set; }
         public string Value { get; set; }
+
+        public override string ToString() {
+            return string.Format("Id: {0}, Picture: {1}, Value: {2}", Id, Picture, Value);
+        }
     }
 
     public class Episode
@@ -152,6 +201,10 @@ namespace AniDb.Api.Models
         public KeyValuePair<int, string>? Epno { get; set; }
         public KeyValuePair<int, double>? Rating { get; set; }
         public KeyValuePair<string, string>[] Titles { get; set; }
+
+        public override string ToString() {
+            return string.Format("Id: {0}, Update: {1}, Length: {2}, AirDate: {3}", Id, Update, Length, AirDate);
+        }
     }
 
     public class IdTypeValue
@@ -159,5 +212,9 @@ namespace AniDb.Api.Models
         public int Id { get; set; }
         public string Type { get; set; }
         public string Value { get; set; }
+
+        public override string ToString() {
+            return string.Format("Id: {0}, Type: {1}, Value: {2}", Id, Type, Value);
+        }
     }
 }

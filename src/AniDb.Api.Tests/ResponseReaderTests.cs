@@ -37,11 +37,11 @@ namespace AniDb.Api.Tests
         }
         
         [Test]
-        public void AnimeReaderModelMapperTest() {
+        public void ReadingWithMappingDontCauseExceptionTest() {
             var animeReader = new AnimeReader();
-            var body = File.ReadAllText(Helpers.ResponseFile("anime-4054.xml"));
-
-            animeReader.ReadObject(body);
+            Helpers.AllValidResponsesFiles()
+                .Select(File.ReadAllText)
+                .Select(animeReader.ReadObject).ToList();
         }
     }
 }

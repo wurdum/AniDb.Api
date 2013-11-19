@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 using System.Reflection;
 
 namespace AniDb.Api.Tests
@@ -14,8 +15,10 @@ namespace AniDb.Api.Tests
             return Path.Combine(AppRoot, ResourcesDir, ResponsesDir, fileName);
         }
 
-        public static string[] AllResponsesFiles() {
-            return Directory.GetFileSystemEntries(Path.Combine(AppRoot, ResourcesDir, ResponsesDir));
+        public static string[] AllValidResponsesFiles() {
+            return Directory.GetFileSystemEntries(Path.Combine(AppRoot, ResourcesDir, ResponsesDir))
+                .Where(f => !f.Contains("99999"))
+                .ToArray();
         }
     }
 }

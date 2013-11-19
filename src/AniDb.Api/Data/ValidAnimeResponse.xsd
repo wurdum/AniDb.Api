@@ -3,7 +3,7 @@
   <xs:import namespace="http://www.w3.org/XML/1998/namespace" />
   <xs:element name="anime">
     <xs:complexType>
-      <xs:sequence>
+      <xs:choice maxOccurs="unbounded">
         <xs:element name="type" type="xs:string" />
         <xs:element name="episodecount" type="xs:unsignedShort" />
         <xs:element name="startdate" type="xs:date" />
@@ -27,7 +27,7 @@
         <xs:element name="similaranime" minOccurs="0">
           <xs:complexType>
             <xs:sequence>
-              <xs:element name="anime">
+              <xs:element maxOccurs="unbounded" name="anime">
                 <xs:complexType>
                   <xs:simpleContent>
                     <xs:extension base="xs:string">
@@ -75,7 +75,7 @@
           </xs:complexType>
         </xs:element>
         <xs:element name="url" type="xs:string" minOccurs="0" />
-        <xs:element name="creators">
+        <xs:element name="creators" minOccurs="0">
           <xs:complexType>
             <xs:sequence>
               <xs:element maxOccurs="unbounded" name="name">
@@ -150,7 +150,7 @@
               <xs:element maxOccurs="unbounded" name="resource">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="externalentity">
+                    <xs:element name="externalentity" minOccurs="0" maxOccurs="unbounded">
                       <xs:complexType>
                         <xs:sequence>
                           <xs:element minOccurs="0" name="url" type="xs:string" />
@@ -214,7 +214,7 @@
                     </xs:element>
                     <xs:element minOccurs="0" name="description" type="xs:string" />
                     <xs:element minOccurs="0" name="picture" type="xs:string" />
-                    <xs:element minOccurs="0" name="seiyuu">
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="seiyuu">
                       <xs:complexType>
                         <xs:simpleContent>
                           <xs:extension base="xs:string">
@@ -276,7 +276,7 @@
             </xs:sequence>
           </xs:complexType>
         </xs:element>
-      </xs:sequence>
+      </xs:choice>
       <xs:attribute name="id" type="xs:unsignedShort" use="required" />
       <xs:attribute name="restricted" type="xs:boolean" use="required" />
     </xs:complexType>

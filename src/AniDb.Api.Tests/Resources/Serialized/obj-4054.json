@@ -1,0 +1,797 @@
+{
+  "Id": 4054,
+  "Restricted": false,
+  "Type": "Movie",
+  "Url": "http://www.tekkon.net/",
+  "Picture": "7646.jpg",
+  "Description": "* Based on http://anidb.net/cr22839 [Taiyo Matsumoto]`s manga series Tekkon Kinkurito.http://anidb.net/ch12040 [Kuro] (black) and http://anidb.net/ch12041 [Shiro] (white) are two orphans roaming the streets of Treasure Town, beating down any thug or yakuza who gets in their way. When mysterious foreign entrepreneurs appear with the intention of tearing down Treasure Town and replacing it with an amusement park, Kuro and Shiro face their greatest adversaries yet. It is up to the destructive Kuro to save the fate of the city and up to the gentle Shiro to save Kuro from his own dark nature.Source: ANN",
+  "EpisodeCount": 1,
+  "StartDate": "2006-12-23T00:00:00",
+  "EndDate": "2006-12-23T00:00:00",
+  "Titles": [
+    {
+      "Type": "main",
+      "Lang": "x-jat",
+      "Value": "Tekkon Kinkreet (2006)"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "en",
+      "Value": "Black & White"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "x-jat",
+      "Value": "Tekkon Kinkurito"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "uk",
+      "Value": "Залізобетон"
+    },
+    {
+      "Type": "official",
+      "Lang": "ja",
+      "Value": "鉄コン筋クリート (2006)"
+    },
+    {
+      "Type": "official",
+      "Lang": "de",
+      "Value": "Tekkonkinkreet"
+    },
+    {
+      "Type": "official",
+      "Lang": "fr",
+      "Value": "Amer Béton"
+    },
+    {
+      "Type": "official",
+      "Lang": "it",
+      "Value": "Tekkon Kinkreet - Soli contro tutti"
+    },
+    {
+      "Type": "official",
+      "Lang": "ru",
+      "Value": "Железобетон"
+    },
+    {
+      "Type": "official",
+      "Lang": "ko",
+      "Value": "철콘 근크리트"
+    },
+    {
+      "Type": "official",
+      "Lang": "pl",
+      "Value": "Tekkonkinkreet"
+    },
+    {
+      "Type": "official",
+      "Lang": "pt",
+      "Value": "Tekkonkinkreet: A Cidade do Tesouro"
+    },
+    {
+      "Type": "official",
+      "Lang": "pt-BR",
+      "Value": "Tekkonkinkreet"
+    },
+    {
+      "Type": "official",
+      "Lang": "fi",
+      "Value": "Tekkonkinkreet"
+    },
+    {
+      "Type": "official",
+      "Lang": "el",
+      "Value": "Tekkonkinkreet:Μαχητες Της Σιδερενιας Πολης"
+    },
+    {
+      "Type": "official",
+      "Lang": "hu",
+      "Value": "TekkonKinkreet"
+    },
+    {
+      "Type": "official",
+      "Lang": "lt",
+      "Value": "Betonas, geležis, raumenys"
+    },
+    {
+      "Type": "official",
+      "Lang": "tr",
+      "Value": "Hazine Şehri"
+    },
+    {
+      "Type": "official",
+      "Lang": "bg",
+      "Value": "Теконкинкрийт"
+    },
+    {
+      "Type": "official",
+      "Lang": "et",
+      "Value": "Tekkonkinkreet"
+    },
+    {
+      "Type": "official",
+      "Lang": "es-LA",
+      "Value": "En Busca de la Ciudad Tesoro"
+    }
+  ],
+  "Similar": [],
+  "Related": [
+    {
+      "Id": 2778,
+      "Type": "Other",
+      "Value": "Tekkon Kinkreet"
+    }
+  ],
+  "Recommendations": {
+    "Total": 9,
+    "Entries": [
+      {
+        "Id": 250692,
+        "Type": "Recommended",
+        "Value": "it was amazing! much better than I was expecting."
+      },
+      {
+        "Id": 359836,
+        "Type": "Must See",
+        "Value": "Interesting characters and story, unique art style and an incredible sound-track. The story starts off fairly slow, but keeps getting more dramatic and darker up till the very end. Some of the later scenes are so good, that I keep coming back to this movie. A must see."
+      },
+      {
+        "Id": 590343,
+        "Type": "Must See",
+        "Value": "Seriously, this is a masterpiece. AMAZING visual style, solid symbolism, fantastic characters and plot. Action is out of this world, and there are some really touching moments. If you haven`t watched this, you need to. Stop reading. Watch this now. Go. I`ll wait."
+      }
+    ]
+  },
+  "Creators": [
+    {
+      "Id": 738,
+      "Type": "Animation Production",
+      "Value": "Studio 4C"
+    },
+    {
+      "Id": 738,
+      "Type": "Animation Work",
+      "Value": "Studio 4C"
+    },
+    {
+      "Id": 14845,
+      "Type": "Character Design",
+      "Value": "Nishimi Shoujirou"
+    },
+    {
+      "Id": 14845,
+      "Type": "Chief Animation Direction",
+      "Value": "Nishimi Shoujirou"
+    },
+    {
+      "Id": 22839,
+      "Type": "Original Work",
+      "Value": "Matsumoto Taiyou"
+    },
+    {
+      "Id": 10670,
+      "Type": "Direction",
+      "Value": "Michael Arias"
+    }
+  ],
+  "Rating": {
+    "Permanent": {
+      "Key": 1205,
+      "Value": 7.16
+    },
+    "Temporary": {
+      "Key": 1222,
+      "Value": 7.81
+    },
+    "Review": {
+      "Key": 1,
+      "Value": 8.5
+    }
+  },
+  "Categories": [
+    {
+      "Id": 497,
+      "Parentid": 317,
+      "Name": "Friendship",
+      "Description": "The feeling of trust, kindness, and friendship between a group of high school students for example, is a central theme of this anime.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 490,
+      "Parentid": 295,
+      "Name": "Assassin",
+      "Description": "Any variety of highly trained and very stealthy killer with the ability to utilise any object within their surroundings as a deadly weapon. They are often hireable to take out hits (or targets) designated by a client (or temporary employer) for a predetermined fee. Not all assassins work solo and may have a partner or even a team of more than two members.",
+      "Weight": 300,
+      "IsHentai": false
+    },
+    {
+      "Id": 487,
+      "Parentid": 330,
+      "Name": "Parental Abandonment",
+      "Description": "In Japan it is a common custom for parents to leave their children alone at home and embark on a lifelong trip around the world once they hit the tender age of 14, sometimes even earlier.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 474,
+      "Parentid": 295,
+      "Name": "Thief",
+      "Description": "At least of one of the protagonists in this anime is a (master) thief, prowling the night for valuables.",
+      "Weight": 200,
+      "IsHentai": false
+    },
+    {
+      "Id": 330,
+      "Parentid": 317,
+      "Name": "Coming of Age",
+      "Description": "In the strict sense the Coming of age describes a young person`s transition from adolescence to adulthood. In anime the term is used in a more general sense where the protagonists have to face a challenge, make an important decision in their life, take on responsibility, or learn a lesson, and by overcoming these obstacles they reach a higher level of maturity.",
+      "Weight": 300,
+      "IsHentai": false
+    },
+    {
+      "Id": 289,
+      "Parentid": 7,
+      "Name": "Earth",
+      "Description": "The Earth is the third planet from the Sun. It is a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). To its inhabitants, our planet is their home, so, as a species, we cherish it to the point many cultures even to this day deify it. The Earth is the main setting of most fiction, but many titles are set in other places, such as unrelated fantasy worlds, and in a considerable number of fictional titles the Earth is actually destroyed by invaders.",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 252,
+      "Parentid": 313,
+      "Name": "Angst",
+      "Description": "A feeling of general discomfort and uneasiness is present due to either trivial or more serious reasons, often accompanied by depression.\n\nWarning: may contain copious amounts of brooding and sighing.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 23,
+      "Parentid": 22,
+      "Name": "Japan",
+      "Description": "Last stronghold for humanity, if Tokyo falls, it`s all over. Tokyo Tower will undoubtedly fall anyway.",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 22,
+      "Parentid": 289,
+      "Name": "Asia",
+      "Description": "Asia is the world`s largest and most populous continent.",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 186,
+      "Parentid": 317,
+      "Name": "Dystopia",
+      "Description": "A dystopia is, in literature, an often futuristic society that has degraded into a repressive and controlled state, often under the guise of being utopian.",
+      "Weight": 300,
+      "IsHentai": false
+    },
+    {
+      "Id": 177,
+      "Parentid": 323,
+      "Name": "Cops",
+      "Description": "The police (civil servants) are the good guys in the battle against crime. Though they try hard, they are usually outclassed by super-criminals or criminal organizations in anime, requiring the help of special units or some lone hero. ",
+      "Weight": 300,
+      "IsHentai": false
+    },
+    {
+      "Id": 15,
+      "Parentid": 313,
+      "Name": "Fantasy",
+      "Description": "Imaginative or fanciful work, especially one dealing with supernatural elements and themes.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 154,
+      "Parentid": 313,
+      "Name": "Horror",
+      "Description": "The horror cinematic genre is characterized by the attempt to make the viewer experience dread, fear, terror, or horror. Often their plots involve the intrusion of an evil force, event or personage, sometimes of supernatural origin, on the mundane world and the consequences thereof.",
+      "Weight": 200,
+      "IsHentai": false
+    },
+    {
+      "Id": 160,
+      "Parentid": 317,
+      "Name": "Conspiracy",
+      "Description": "The conspiracy thriller (or paranoid thriller) is a sub-genre of the thriller which flourished in the 1970s in the US (and was echoed in other parts of the world) in the wake of a number of high-profile scandals and controversies (most notably Vietnam, the assassination of President Kennedy, Chappaquiddick and Watergate), and which exposed what many people regarded as the clandestine machinations and conspiracies beneath the orderly fabric of political life.\n\nThe protagonists of conspiracy thrillers are often journalists or amateur investigators who find themselves (often inadvertently) pulling on a small thread which unravels a vast conspiracy that ultimately goes \"all the way to the top\".",
+      "Weight": 500,
+      "IsHentai": false
+    },
+    {
+      "Id": 172,
+      "Parentid": 313,
+      "Name": "Thriller",
+      "Description": "The thriller is a genre of fiction in which tough, resourceful, but essentially ordinary heroes are pitted against villains determined to destroy them, their country, or the stability of the free world. The hero of a typical thriller faces danger alone or in the company of a small band of companions. The protagonist may be a law enforcement agent, a journalist, or a soldier, but typically he or she is cut off from the resources of \"their\" organization. More often the hero is an ordinary citizen drawn into danger and intrigue by circumstances beyond their control. (Source: Wikipedia)",
+      "Weight": 300,
+      "IsHentai": false
+    },
+    {
+      "Id": 18,
+      "Parentid": 4,
+      "Name": "Super Power",
+      "Description": "Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 235,
+      "Parentid": 317,
+      "Name": "Tragedy",
+      "Description": "Tragedy is a form of drama characterized by seriousness and dignity, usually involving a conflict between a character and some higher power, such as the law, the gods, fate, or society.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 244,
+      "Parentid": 216,
+      "Name": "Twisted",
+      "Description": "Twisted indicates more than one abrupt change in plot or story. This derivation from strict linear storytelling usually makes these anime hard to follow, and at times even very confusing when several parallel plots intertwine.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 273,
+      "Parentid": 268,
+      "Name": "Manga",
+      "Description": "Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.\nIt`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 334,
+      "Parentid": 344,
+      "Name": "Yakuza",
+      "Description": "Yakuza, also known as the Japanese Mafia, refers to traditional organized crime groups in Japan and members thereof. They have a hierarchical structure, with the \"oyabun\", the family head, standing on top. They also have their own code, the \"jingi\", where loyalty and respect are a way of life.\n\nYakuza members are identifiable for their, often full-body, tattoos and missing fingers, a result of the yubitsume ritual, which is a form of penance or apology.",
+      "Weight": 500,
+      "IsHentai": false
+    },
+    {
+      "Id": 4,
+      "Parentid": 313,
+      "Name": "Action",
+      "Description": "Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting. ",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 84,
+      "Parentid": 83,
+      "Name": "Violence",
+      "Description": "Physical force against self or other, compelling action against one`s will on pain of being hurt.",
+      "Weight": 400,
+      "IsHentai": false
+    }
+  ],
+  "Resources": [
+    {
+      "Type": 1,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "6531"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 2,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "2154"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 3,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "3726",
+            "kottgn"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 4,
+      "External": [
+        {
+          "Url": "http://www.tekkon.net/",
+          "Identifier": null
+        }
+      ]
+    },
+    {
+      "Type": 6,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "Tekkon_Kinkreet"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 7,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "鉄コン筋クリート"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 9,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "324734"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 10,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "8409"
+          ]
+        }
+      ]
+    }
+  ],
+  "Tags": [
+    {
+      "Id": 682,
+      "Count": 370,
+      "Name": "great soundtrack",
+      "Description": "The anime soundtrack is noteworthy.",
+      "Approval": 2,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2008-06-06T00:00:00"
+    },
+    {
+      "Id": 443,
+      "Count": 124,
+      "Name": "unusual artwork",
+      "Description": "The artwork (backgrounds, or character designs) differ from what is commonly shown in contemporary anime. This can either mean that the style is different (e.g. the large-eyed cute bishoujo are drawn much more realistically), or simply point at the fact that the artwork is \"exceptionally more beautiful\" than normal.",
+      "Approval": 2,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2012-10-06T00:00:00"
+    },
+    {
+      "Id": 448,
+      "Count": 97,
+      "Name": "surreal",
+      "Description": "Refers to things or occurrences that are generally bizarre or dreamlike, with the relentless capability of replacing reality through the eyes of the beholder. Surrealism is boundless, limited only by thought itself.",
+      "Approval": 9,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2008-06-02T00:00:00"
+    },
+    {
+      "Id": 776,
+      "Count": 7,
+      "Name": "just different",
+      "Description": "This show is quite different from most anime. Odds are you have never seen anything like it before. You may get a thoroughly entertaining experience from it, or you may be disappointed.",
+      "Approval": 6,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2013-03-19T00:00:00"
+    },
+    {
+      "Id": 270,
+      "Count": 80,
+      "Name": "children",
+      "Description": "The anime also features children.",
+      "Approval": 8,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2009-05-22T00:00:00"
+    },
+    {
+      "Id": 372,
+      "Count": 96,
+      "Name": "psychological",
+      "Description": "Directed toward dealing with or affecting the mind, especially as a function of awareness, feeling, or motivation.",
+      "Approval": 5,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2010-04-11T00:00:00"
+    },
+    {
+      "Id": 2506,
+      "Count": 116,
+      "Name": "high definition",
+      "Description": "High Definition or HD — a HD version of the anime seems to exist on Blu-ray or HD DVD.",
+      "Approval": 5,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2010-12-20T00:00:00"
+    },
+    {
+      "Id": 497,
+      "Count": 170,
+      "Name": "supernatural",
+      "Description": "Things happen in this anime that seem to be beyond nature or physical laws.Examples: Ghosts, vampires, monsters, telepathy, telekinesis, etc.",
+      "Approval": 3,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": true,
+      "Spoiler": true,
+      "Update": "2008-06-03T00:00:00"
+    },
+    {
+      "Id": 6584,
+      "Count": 214,
+      "Name": "stand-alone movie",
+      "Description": "You can watch this movie without having to watch something else first. This tag should not used for sequels, side stories, or summary movies, but may be used if the movie is either the first anime in a franchise or a remake.The movie must be feature-length. For shorts, use the `short movie` tag.",
+      "Approval": 2,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2012-07-04T00:00:00"
+    },
+    {
+      "Id": 5290,
+      "Count": 27,
+      "Name": "artistic visualization",
+      "Description": "Visualization in an artistic manner — \"artistic decoration\". Where visualization is any technique for creating images, diagrams, or animations to communicate a message.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2009-07-26T00:00:00"
+    },
+    {
+      "Id": 2099,
+      "Count": 90,
+      "Name": "disturbing",
+      "Description": "Watching the show may cause the viewer to have unpleasant feelings.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2010-03-15T00:00:00"
+    },
+    {
+      "Id": 774,
+      "Count": 172,
+      "Name": "not for kids",
+      "Description": "This anime contains themes definitely NOT suitable for kids (e.g. rape, gory dismemberment, suicide, graphic sexual content, etc.).",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2013-01-14T00:00:00"
+    },
+    {
+      "Id": 1929,
+      "Count": 124,
+      "Name": "improbable physics",
+      "Description": "The physics in this anime have little to do with real-world physics, and are actually very much exaggerated.Examples: Cars hitting a tiny obstacle, but then flying through the air for no apparent reason, or flimsy bullets slamming heavy characters clear across the room.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2010-03-23T00:00:00"
+    },
+    {
+      "Id": 124,
+      "Count": 166,
+      "Name": "visually stunning",
+      "Description": "The visuals — i.e. settings, backgrounds, characters — are absolutely breathtakingly beautiful.This may come as all the more surprising, when a TV series or OVA sports the quality usually only associated with expensive anime movies.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2011-07-05T00:00:00"
+    },
+    {
+      "Id": 1899,
+      "Count": 87,
+      "Name": "3D CG animation",
+      "Description": "Abbreviation for \"three-dimensional computer generated animation\" or \"computer graphics\" (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of \"Appleseed\" , 2007`s \"Vexille\", the 2008 addition to the \"Biohazard\" series and the more well known \"Final Fantasy: The Spirits Within\" and \"Advent Children\").",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2008-08-23T00:00:00"
+    },
+    {
+      "Id": 4568,
+      "Count": 67,
+      "Name": "sentou episode",
+      "Description": "A sentou is a type of Japanese communal bath house where customers pay for entrance. Some Japanese find social importance in going to public baths, out of the theory that physical intimacy brings emotional intimacy, which is termed skinship in Japanese. Traditionally it is gender-segregated — men usually bathe only with men, and women with women. Usually used for fanservice purpose as it gives the staff the opportunity to draw the characters in the nude and raise the DVD sales.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2010-12-14T00:00:00"
+    },
+    {
+      "Id": 1351,
+      "Count": 87,
+      "Name": "sociocultural evolution",
+      "Description": "Describes how cultures and societies develop over time, based on both cultural evolution and social evolution.A post-apocalyptic or a Utopian setting would show very interesting changes in human behaviour, mental state, or simply daily life.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2012-02-15T00:00:00"
+    },
+    {
+      "Id": 557,
+      "Count": 105,
+      "Name": "social commentary",
+      "Description": "Social commentary is the act of rebelling against an individual, or a group of people by rhetorical means. This is most often done with the idea of implementing or promoting change by informing the general populace about a given problem and appealing to people’s sense of justice. (Source: Wikipedia)Since this is anime, usually, the mores of Japan and the Japanese society are scrutinised.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2010-12-14T00:00:00"
+    },
+    {
+      "Id": 1230,
+      "Count": 48,
+      "Name": "rotten world",
+      "Description": "The anime shows a world where many rules concerning accepted social behaviour are broken. This also includes a wide variety of `abuse`. E.g. to kill other characters is either not considered a crime or simply ignored.The world portrayed is the opposite of a Utopia.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2013-02-03T00:00:00"
+    },
+    {
+      "Id": 4428,
+      "Count": 159,
+      "Name": "sense of foreboding",
+      "Description": "The anime starts off quietly, everything seems to be fine, but from episode to episode the signs that something ominous is about to happen increase. E.g. a typical mystery setting.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2009-02-03T00:00:00"
+    },
+    {
+      "Id": 2582,
+      "Count": 69,
+      "Name": "orphan",
+      "Description": "One or more characters in the anime have lost their parents.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2010-02-15T00:00:00"
+    },
+    {
+      "Id": 403,
+      "Count": 26,
+      "Name": "sad",
+      "Description": null,
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2010-02-23T00:00:00"
+    },
+    {
+      "Id": 6149,
+      "Count": 36,
+      "Name": "amusement park episode",
+      "Description": "Plot device: All or part of the cast visit an amusement park. Added to show the characters in a more leisurely environment (i.e. other than school or at home). Often used in school settings to \"develop\" and \"further\" the relations between the male and female leads in this anime. Can also set the stage for comedic misunderstandings, or private moments with possibly ecchi undertones. Furthermore, it gives the anime creators a chance to show off their characters in non-uniforms (e.g. school uniforms). Also see \"pool episode\".",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2010-08-07T00:00:00"
+    },
+    {
+      "Id": 603,
+      "Count": 42,
+      "Name": "dreams and reality",
+      "Description": "This genre of anime is typically set in both the world as we know it (reality) and a world of dreams, mythology or imagination.Sometimes this dreamworld is actually real, sometimes it is not. Other times what we think is the real world is the dreamworld, and vice versa. They are not always easy to distinguish from each other, neither by the characters nor the viewer.Whatever is real, and whatever is reality, both worlds are integral in shaping both the plot of this anime and the development of the characters.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2011-04-10T00:00:00"
+    }
+  ],
+  "Characters": [
+    {
+      "Id": 12040,
+      "Name": "Kuro",
+      "Description": "Kuro is the older, more hardened half of the orphan duo who live together in an abandoned car under a freeway and protect Treasure Town from outside forces. The lost innocent, agressive, and an impetuous force of violence, Kuro is the child forced to grow up. If there`s no turning back for Kuro, his goal is to save what`s left of Shiro`s innocence. Kuro needs Shiro to feel worthy and to maintain his hope in the world.",
+      "Picture": "36408.jpg",
+      "Type": "main character in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 1,
+        "Value": 9.08
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 9701,
+          "Picture": "36410.jpg",
+          "Value": "Ninomiya Kazunari"
+        }
+      ],
+      "Update": "2009-09-28T00:00:00"
+    },
+    {
+      "Id": 12041,
+      "Name": "Shiro",
+      "Description": "Shiro is the other, more naïve half of the boy duo he forms with Kuro. Far from pure, Shiro is clearly still a child, helpless, emotional and open to the world, but paradoxically all-knowing, in tune with the poetry of the streets. Shiro`s mind is a blank state, and his focus is on the simple, sensory things he likes - things that are soft, things that are shiny. Although Shiro senses that the world is falling apart around the two boys, he isn`t prepared to deal with it, and loses his tenuous grasp on reality as events unfold. Shiro needs Kuro to survive.",
+      "Picture": "36413.jpg",
+      "Type": "main character in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 1,
+        "Value": 8.53
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 9703,
+          "Picture": "36416.jpg",
+          "Value": "Aoi Yuu"
+        }
+      ],
+      "Update": "2009-09-28T00:00:00"
+    }
+  ],
+  "Episodes": [
+    {
+      "Id": 53563,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 115,
+      "AirDate": "2006-12-23T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "1"
+      },
+      "Rating": {
+        "Key": 5,
+        "Value": 3.81
+      },
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Complete Movie"
+        }
+      ]
+    }
+  ]
+}

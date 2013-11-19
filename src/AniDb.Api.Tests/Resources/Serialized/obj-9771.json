@@ -1,0 +1,1019 @@
+{
+  "Id": 9771,
+  "Restricted": false,
+  "Type": "TV Series",
+  "Url": "http://golden-time.jp/",
+  "Picture": "138270.jpg",
+  "Description": "http://anidb.net/ch58576 [Tada Banri] is a newly admitted student at a private law school in Tokyo. Due to the after-effects of an accidental fall from a bridge shortly after high school graduation, he lost all his memories from before then. At the time of the accident, Banri`s soul had escaped from his body, and the Spirit of Tada Banri came into being, carrying his memories from before graduation.Banri finds himself completely lost after the opening ceremony, trying to find his way to the freshman orientation. At that moment, he runs into another lost freshman from the same school, http://anidb.net/ch58574 [Yanagisawa Mitsuo], and they hit it off at once. Somehow arriving at their intended goal just on time, there appears in front of them a beautiful girl holding a bouquet of roses, who hits Mitsuo across the face with them and hands the flowers over to him. This stylish, well dressed, and perfect woman is his childhood friend http://anidb.net/ch58577 [Kaga Kouko]. As children, they had promised to marry each other one day, fulfilling their dreams. In order to escape from her, Mitsuo had gone out secretly and taken the examination for this well-known private college, but she also took the law school entrance examination, catching up with him there.Source: WikipediaNote: The first episode was pre-aired at a special event on 23.09.2013, regular TV broadcast started on 04.10.2013.",
+  "EpisodeCount": 12,
+  "StartDate": "2013-09-23T00:00:00",
+  "EndDate": null,
+  "Titles": [
+    {
+      "Type": "main",
+      "Lang": "x-jat",
+      "Value": "Golden Time"
+    },
+    {
+      "Type": "official",
+      "Lang": "ja",
+      "Value": "ゴールデンタイム"
+    },
+    {
+      "Type": "official",
+      "Lang": "en",
+      "Value": "Golden Time"
+    },
+    {
+      "Type": "official",
+      "Lang": "ko",
+      "Value": "골든 타임"
+    },
+    {
+      "Type": "official",
+      "Lang": "zh-Hans",
+      "Value": "金色时光"
+    }
+  ],
+  "Similar": [
+    {
+      "Id": 5909,
+      "Approval": 5,
+      "Total": 10,
+      "Value": "Toradora!"
+    }
+  ],
+  "Related": [],
+  "Recommendations": {
+    "Total": 2,
+    "Entries": [
+      {
+        "Id": 279344,
+        "Type": "For Fans",
+        "Value": "In the 1/4 of the story. Good romance, interesting relationships and amnesia as a wild card... or the heroine? Your choice. With the story progress, I thought it will be 12-13 episodes series at first. Looking forward to slightly unknown in the next 18 episodes."
+      },
+      {
+        "Id": 577587,
+        "Type": "Recommended",
+        "Value": "Recommended for all fans of romance. I only watched till episode 6 and it`s going good. The main guy is interesting since he has memories loss and he tries to find is older self (Spoiler , my bad :&gt; ). Not a waste of time. Btw my first review. (sry if it`s bad)"
+      }
+    ]
+  },
+  "Creators": [
+    {
+      "Id": 8966,
+      "Type": "Original Work",
+      "Value": "Takemiya Yuyuko"
+    },
+    {
+      "Id": 3073,
+      "Type": "Music",
+      "Value": "Hashimoto Yukari"
+    },
+    {
+      "Id": 535,
+      "Type": "Series Composition",
+      "Value": "Shimo Fumihiko"
+    },
+    {
+      "Id": 3391,
+      "Type": "Character Design",
+      "Value": "Hasegawa Shin`ya"
+    },
+    {
+      "Id": 1482,
+      "Type": "Direction",
+      "Value": "Kon Chiaki"
+    },
+    {
+      "Id": 720,
+      "Type": "Animation Work",
+      "Value": "J.C.Staff"
+    }
+  ],
+  "Rating": {
+    "Permanent": {
+      "Key": 164,
+      "Value": 5.66
+    },
+    "Temporary": {
+      "Key": 169,
+      "Value": 7.36
+    },
+    "Review": null
+  },
+  "Categories": [
+    {
+      "Id": 17,
+      "Parentid": 313,
+      "Name": "Comedy",
+      "Description": "Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.\n\nJapanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 230,
+      "Parentid": 198,
+      "Name": "Love Polygon",
+      "Description": "A love polygon refers to a romantic relationship involving n people. Although a love triangle is not limited to just heterosexual relationships, in anime, it usually deals with two females liking one male and vice versa.",
+      "Weight": 500,
+      "IsHentai": false
+    },
+    {
+      "Id": 198,
+      "Parentid": 313,
+      "Name": "Romance",
+      "Description": "Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 240,
+      "Parentid": 21,
+      "Name": "College",
+      "Description": "Since college/university students are typically at least eighteen years old, with stories covering mature everyday life topics, you will find the college setting quite often in seinen and josei anime.\n\nTopics that can now be covered - as compared to High School settings - are higher education (i.e. coping with higher intellectual stress), the more adult party life (i.e. alcohol, smoking, sex), the issues of daily life vs. studying - especially when having to work to pay for bills, and finally the possible friction between those in and out of college. ",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 11,
+      "Parentid": 6,
+      "Name": "Present",
+      "Description": "Somewhere between past and future",
+      "Weight": 300,
+      "IsHentai": false
+    },
+    {
+      "Id": 514,
+      "Parentid": 23,
+      "Name": "Tokyo",
+      "Description": "Tokyo, as real-world location is the backdrop of this anime.Tokyo (東京 Tōkyō, \"Eastern Capital\") is one of the 47 prefectures of Japan. Tokyo is the capital of Japan, the centre of the Greater Tokyo Area, and the largest metropolitan area of the world. It is the seat of the Japanese government and the Imperial Palace, and the home of the Japanese Imperial Family. Tokyo is in the Kantou region on the south-eastern side of the main island Honshu and includes the Izu Islands and Ogasawara Islands. Tokyo Metropolis was formed in 1943 from the merger of the former Tokyo Prefecture (東京府 Tōkyō-fu) and the city of Tokyo (東京市 Tōkyō-shi).(Source: Wikipedia)",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 274,
+      "Parentid": 268,
+      "Name": "Novel",
+      "Description": "Note that novel means book with words in paper, so no comics and no \"visual novels\", which should go under manga and dating-sim - visual Novel/erotic game respectively.Note that it can be applied to novels as we know them but also the typical light novels for teens and young adults, which are common in Japan and aside from being short include a number of illustrations.",
+      "Weight": 600,
+      "IsHentai": false
+    }
+  ],
+  "Resources": [
+    {
+      "Type": 1,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "15548"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 2,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "17895"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 4,
+      "External": [
+        {
+          "Url": "http://golden-time.jp/",
+          "Identifier": null
+        }
+      ]
+    },
+    {
+      "Type": 6,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "Golden_Time_(novel_series)"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 7,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "ゴールデンタイム_(小説)"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 8,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "3165"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 9,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "346987"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 10,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "16517"
+          ]
+        }
+      ]
+    }
+  ],
+  "Tags": [
+    {
+      "Id": 1426,
+      "Count": 55,
+      "Name": "ojou",
+      "Description": "The ojou (\"princess\", called \"ojou-sama\" in the anime) may be many things (perhaps even a real princess), but she is undoubtedly rich, either in her own right or by being part of an absurdly powerful family. The ojou is noticeable by her shrill and obnoxious laugh often (if not always) while putting the backside of her hand in front of her mouth.",
+      "Approval": 4,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2012-01-30T00:00:00"
+    },
+    {
+      "Id": 655,
+      "Count": 163,
+      "Name": "amnesia",
+      "Description": "Loss of memory.Used as story element, gradually revealing a protagonist`s past that had been forgotten. Usually revealing a terribly gruesome happening.",
+      "Approval": 6,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2010-01-20T00:00:00"
+    },
+    {
+      "Id": 3809,
+      "Count": 14,
+      "Name": "university",
+      "Description": null,
+      "Approval": 6,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2009-01-04T00:00:00"
+    },
+    {
+      "Id": 6458,
+      "Count": 110,
+      "Name": "post-credits scene",
+      "Description": "A little bit of the story is found after the credit titles. A little bonus for those patient enough!",
+      "Approval": 2,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2013-08-30T00:00:00"
+    },
+    {
+      "Id": 1242,
+      "Count": 90,
+      "Name": "facial distortion",
+      "Description": "The characters face are exaggerated into a misshape, deformed, and almost warped. Used as comedy element to express extreme mood swings.Differing from \"Super Deformed\", here only the face changes to an extreme degree, not the whole body of the protagonist.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2009-06-08T00:00:00"
+    }
+  ],
+  "Characters": [
+    {
+      "Id": 58571,
+      "Name": "Nana-senpai",
+      "Description": "Nana is a third-year female student. She dresses and acts similarly to the character of the same name in the manga http://en.wikipedia.org/wiki/Nana_%28manga%29 [Nana].Source: Wiki",
+      "Picture": "143484.jpg",
+      "Type": "secondary cast in",
+      "Gender": "female",
+      "Rating": {
+        "Key": 1,
+        "Value": 6.09
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 162,
+          "Picture": "23208.jpg",
+          "Value": "Satou Satomi"
+        }
+      ],
+      "Update": "2013-09-23T00:00:00"
+    },
+    {
+      "Id": 58572,
+      "Name": "Satou Takaya",
+      "Description": "Takaya is a freshman and Banri`s friend. He gains his nickname Nijigen (lit. 2D) at the tea ceremony club`s welcoming party after declaring his despair of the three-dimensional world and that he would live for the two-dimensional world from then on.Source: Wiki",
+      "Picture": "143486.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 1,
+        "Value": 6.52
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 24093,
+          "Picture": "124751.jpg",
+          "Value": "Hikami Takahiro"
+        }
+      ],
+      "Update": "2013-09-23T00:00:00"
+    },
+    {
+      "Id": 58573,
+      "Name": "Oka Chinami",
+      "Description": "Chinami is a short female student, and member of the Film Research Society. She is a voice actress, voicing very young girls.Source: Wiki",
+      "Picture": "143485.jpg",
+      "Type": "secondary cast in",
+      "Gender": "female",
+      "Rating": {
+        "Key": 5,
+        "Value": 8.22
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 32738,
+          "Picture": "88323.jpg",
+          "Value": "Kido Ibuki"
+        }
+      ],
+      "Update": "2013-09-23T00:00:00"
+    },
+    {
+      "Id": 58574,
+      "Name": "Yanagisawa Mitsuo",
+      "Description": "Mitsuo is a freshman studying law in the same university as Banri. After the entrance ceremony, heading for freshman orientation, he gets lost on the campus, and meets and befriends Banri. Banri calls him Yanassan (ヤナっさん). He has been the target of Kouko`s obsessive, one-sided affection since their elementary school years. He secretly took the exam to this university in an attempt to escape from her. He lives alone in an apartment three train stops away from Banri`s.Source: Wiki",
+      "Picture": "143482.jpg",
+      "Type": "main character in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 5,
+        "Value": 4.37
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 34296,
+          "Picture": "131974.jpg",
+          "Value": "Ishikawa Kaito"
+        }
+      ],
+      "Update": "2013-09-23T00:00:00"
+    },
+    {
+      "Id": 58575,
+      "Name": "Hayashida Nana",
+      "Description": "Nana is a second-year student and member of the Japanese Culture Festival Research Society. Leaving out the details, she invites Banri and Kouko to join. She went to high school with Banri and was his very close friend before his accident.Source: Wiki",
+      "Picture": "143483.jpg",
+      "Type": "secondary cast in",
+      "Gender": "female",
+      "Rating": {
+        "Key": 6,
+        "Value": 7.57
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 20497,
+          "Picture": "62433.jpg",
+          "Value": "Kayano Ai"
+        }
+      ],
+      "Update": "2013-09-23T00:00:00"
+    },
+    {
+      "Id": 58576,
+      "Name": "Tada Banri",
+      "Description": "Banri is a freshman studying law in a private university in Tokyo. His hometown is in Shizuoka Prefecture, and he now lives alone in a small apartment. A little after his third-year high school graduation ceremony, he fell from a bridge and now suffers from severe retrograde amnesia, unable to remember anything from before. He missed the college entrance exam and one year of school because of his hospitalization.Source: Wiki",
+      "Picture": "143481.jpg",
+      "Type": "main character in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 5,
+        "Value": 5.63
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 34070,
+          "Picture": "130103.jpg",
+          "Value": "Furukawa Makoto"
+        }
+      ],
+      "Update": "2013-09-23T00:00:00"
+    },
+    {
+      "Id": 58577,
+      "Name": "Kaga Kouko",
+      "Description": "Kouko is a freshman law student at Banri`s university. Careful of how she looks, to all appearances she is the perfect lady. In their first year of elementary school, she was friends with Mitsuo. In that time, she made a promise to marry Mitsuo, and ever since had been making her plans so that everything would come out perfect, and showing them off to Mitsuo. Since they now both attend the same university, she asks Banri about Mitsuo`s schedule, relentlessly following after him.Source: Wiki",
+      "Picture": "143480.jpg",
+      "Type": "main character in",
+      "Gender": "female",
+      "Rating": {
+        "Key": 13,
+        "Value": 7.98
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 61,
+          "Picture": "58663.jpg",
+          "Value": "Horie Yui"
+        }
+      ],
+      "Update": "2013-09-23T00:00:00"
+    },
+    {
+      "Id": 58737,
+      "Name": "Miss Monochrome",
+      "Description": null,
+      "Picture": "145405.jpg",
+      "Type": "cameo appearance in",
+      "Gender": "female",
+      "Rating": {
+        "Key": 4,
+        "Value": 2.11
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [],
+      "Update": "2013-11-06T00:00:00"
+    },
+    {
+      "Id": 60209,
+      "Name": "Sao-chan",
+      "Description": "Sao-chan is a member of Tea Club.",
+      "Picture": "143871.jpg",
+      "Type": "appears in",
+      "Gender": "female",
+      "Rating": {
+        "Key": 1,
+        "Value": 6.09
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 355,
+          "Picture": "71573.jpg",
+          "Value": "Gotou Saori"
+        }
+      ],
+      "Update": "2013-10-04T00:00:00"
+    },
+    {
+      "Id": 60210,
+      "Name": "Shii-chan",
+      "Description": "Shii-chan is a member of Tea Club.",
+      "Picture": "143869.jpg",
+      "Type": "appears in",
+      "Gender": "female",
+      "Rating": {
+        "Key": 1,
+        "Value": 6.09
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 182,
+          "Picture": "28111.jpg",
+          "Value": "Itou Shizuka"
+        }
+      ],
+      "Update": "2013-10-04T00:00:00"
+    },
+    {
+      "Id": 60211,
+      "Name": "Kyoushokuin",
+      "Description": null,
+      "Picture": "143872.jpg",
+      "Type": "appears in",
+      "Gender": "male",
+      "Rating": null,
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 30309,
+          "Picture": "80361.jpg",
+          "Value": "Saitou Hironori"
+        }
+      ],
+      "Update": "2013-10-04T00:00:00"
+    },
+    {
+      "Id": 60524,
+      "Name": "Kan`yuuin",
+      "Description": null,
+      "Picture": "144412.jpg",
+      "Type": "appears in",
+      "Gender": "female",
+      "Rating": null,
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 32750,
+          "Picture": "131377.jpg",
+          "Value": "Taneda Risa"
+        }
+      ],
+      "Update": "2013-10-18T00:00:00"
+    },
+    {
+      "Id": 60750,
+      "Name": "Kosshii-senpai",
+      "Description": "Koshino, called Kosshii-senpai, is the president of Festival Club.",
+      "Picture": "144774.jpg",
+      "Type": "appears in",
+      "Gender": "male",
+      "Rating": null,
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 465,
+          "Picture": "56019.jpg",
+          "Value": "Kondou Takayuki"
+        }
+      ],
+      "Update": "2013-10-25T00:00:00"
+    },
+    {
+      "Id": 60751,
+      "Name": "Banri no Haha",
+      "Description": "Banri`s mother.",
+      "Picture": "144777.jpg",
+      "Type": "appears in",
+      "Gender": "female",
+      "Rating": null,
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 442,
+          "Picture": "17326.jpg",
+          "Value": "Honda Takako"
+        }
+      ],
+      "Update": "2013-10-25T00:00:00"
+    },
+    {
+      "Id": 61405,
+      "Name": "Mae Kaichou",
+      "Description": "Former president of Festival Club.",
+      "Picture": "145708.jpg",
+      "Type": "appears in",
+      "Gender": "male",
+      "Rating": null,
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 10906,
+          "Picture": "39133.jpg",
+          "Value": "Yanagita Jun`ichi"
+        }
+      ],
+      "Update": "2013-11-09T00:00:00"
+    },
+    {
+      "Id": 61485,
+      "Name": "Kouko no Chichi",
+      "Description": "Kouko`s father.",
+      "Picture": "145864.jpg",
+      "Type": "appears in",
+      "Gender": "male",
+      "Rating": null,
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 3094,
+          "Picture": "50367.jpg",
+          "Value": "Kanao Tetsuo"
+        }
+      ],
+      "Update": "2013-11-14T00:00:00"
+    }
+  ],
+  "Episodes": [
+    {
+      "Id": 154590,
+      "Update": "2013-10-03T00:00:00",
+      "Length": 25,
+      "AirDate": "2013-10-25T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "4"
+      },
+      "Rating": {
+        "Key": 8,
+        "Value": 7.54
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ブラックアウト"
+        },
+        {
+          "Key": "en",
+          "Value": "Blackout"
+        },
+        {
+          "Key": "fr",
+          "Value": "Black-out"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Blackout"
+        }
+      ]
+    },
+    {
+      "Id": 154591,
+      "Update": "2013-10-03T00:00:00",
+      "Length": 25,
+      "AirDate": "2013-10-18T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "3"
+      },
+      "Rating": {
+        "Key": 8,
+        "Value": 6.1
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ナイトエスケープ"
+        },
+        {
+          "Key": "en",
+          "Value": "Night Escape"
+        },
+        {
+          "Key": "fr",
+          "Value": "Échappée nocturne"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Night Escape"
+        }
+      ]
+    },
+    {
+      "Id": 154592,
+      "Update": "2013-10-03T00:00:00",
+      "Length": 25,
+      "AirDate": "2013-10-11T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "2"
+      },
+      "Rating": {
+        "Key": 9,
+        "Value": 5.5
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ロンリーガール"
+        },
+        {
+          "Key": "en",
+          "Value": "Lonely Girl"
+        },
+        {
+          "Key": "fr",
+          "Value": "La fille solitaire"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Lonely Girl"
+        }
+      ]
+    },
+    {
+      "Id": 154593,
+      "Update": "2013-10-19T00:00:00",
+      "Length": 25,
+      "AirDate": "2013-09-23T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "1"
+      },
+      "Rating": {
+        "Key": 9,
+        "Value": 5.25
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "スプリングタイム"
+        },
+        {
+          "Key": "en",
+          "Value": "Springtime"
+        },
+        {
+          "Key": "fr",
+          "Value": "Le printemps"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Spring Time"
+        }
+      ]
+    },
+    {
+      "Id": 154717,
+      "Update": "2013-10-04T00:00:00",
+      "Length": 2,
+      "AirDate": "2013-10-04T00:00:00",
+      "Epno": {
+        "Key": 3,
+        "Value": "C2"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Ending"
+        }
+      ]
+    },
+    {
+      "Id": 154718,
+      "Update": "2013-10-04T00:00:00",
+      "Length": 2,
+      "AirDate": "2013-10-04T00:00:00",
+      "Epno": {
+        "Key": 3,
+        "Value": "C1"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Opening"
+        }
+      ]
+    },
+    {
+      "Id": 155125,
+      "Update": "2013-10-18T00:00:00",
+      "Length": 25,
+      "AirDate": "2013-11-22T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "8"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "リセット"
+        },
+        {
+          "Key": "en",
+          "Value": "Reset"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Reset"
+        }
+      ]
+    },
+    {
+      "Id": 155126,
+      "Update": "2013-10-18T00:00:00",
+      "Length": 25,
+      "AirDate": "2013-11-15T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "7"
+      },
+      "Rating": {
+        "Key": 1,
+        "Value": 9.11
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "マスカレード"
+        },
+        {
+          "Key": "en",
+          "Value": "Masquerade"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Masquerade"
+        }
+      ]
+    },
+    {
+      "Id": 155127,
+      "Update": "2013-10-18T00:00:00",
+      "Length": 25,
+      "AirDate": "2013-11-08T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "6"
+      },
+      "Rating": {
+        "Key": 7,
+        "Value": 7.95
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "イエス・ノー"
+        },
+        {
+          "Key": "en",
+          "Value": "Yes No"
+        },
+        {
+          "Key": "fr",
+          "Value": "Oui/Non"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Yes No"
+        }
+      ]
+    },
+    {
+      "Id": 155128,
+      "Update": "2013-10-18T00:00:00",
+      "Length": 25,
+      "AirDate": "2013-11-01T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "5"
+      },
+      "Rating": {
+        "Key": 7,
+        "Value": 6.58
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ボディ・アンド・ソウル"
+        },
+        {
+          "Key": "en",
+          "Value": "Body and Soul"
+        },
+        {
+          "Key": "fr",
+          "Value": "Corps et âme"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Body and Soul"
+        }
+      ]
+    },
+    {
+      "Id": 155988,
+      "Update": "2013-11-14T00:00:00",
+      "Length": 25,
+      "AirDate": "2013-12-20T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "12"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 12"
+        }
+      ]
+    },
+    {
+      "Id": 155989,
+      "Update": "2013-11-14T00:00:00",
+      "Length": 25,
+      "AirDate": "2013-12-13T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "11"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 11"
+        }
+      ]
+    },
+    {
+      "Id": 155990,
+      "Update": "2013-11-14T00:00:00",
+      "Length": 25,
+      "AirDate": "2013-12-06T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "10"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 10"
+        }
+      ]
+    },
+    {
+      "Id": 155991,
+      "Update": "2013-11-14T00:00:00",
+      "Length": 25,
+      "AirDate": "2013-11-29T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "9"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 9"
+        }
+      ]
+    }
+  ]
+}

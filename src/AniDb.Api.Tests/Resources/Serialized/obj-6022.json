@@ -1,0 +1,120 @@
+{
+  "Id": 6022,
+  "Restricted": false,
+  "Type": "TV Series",
+  "Url": "http://www.pro-reed.com/works/tv_series/w005.html",
+  "Picture": "9559.jpg",
+  "Description": "Monchichi-chan, the twin sister, loves her twin brother very much. She is a pretty crybaby and always follows her brother. Monchichi-kun, the twin brother, protects his sister. He is a brave adventurer and a fishing champion but sometimes becomes a hasty boy. They enjoy wonderful and mysterious adventures together everyday.When they take a space walk, they ride on a swan of the swan constellation and build a small house with aliens in the space. They can do everything children want to do and dream of.This heartwarming animation series featuring the pretty twins surely gives wonderful dreams, brother-sister love and hopes for the future to all the children in the world.",
+  "EpisodeCount": 130,
+  "StartDate": "1980-02-04T00:00:00",
+  "EndDate": "1980-08-01T00:00:00",
+  "Titles": [
+    {
+      "Type": "main",
+      "Lang": "x-jat",
+      "Value": "Futago no Monchicchi"
+    },
+    {
+      "Type": "official",
+      "Lang": "ja",
+      "Value": "ふたごのモンチッチ"
+    }
+  ],
+  "Similar": [],
+  "Related": [],
+  "Recommendations": null,
+  "Creators": [
+    {
+      "Id": 4249,
+      "Type": "Series Composition",
+      "Value": "Sakai Akiyoshi"
+    },
+    {
+      "Id": 7285,
+      "Type": "Direction",
+      "Value": "Jinsenji Hiroshi"
+    }
+  ],
+  "Rating": {
+    "Permanent": {
+      "Key": 2,
+      "Value": 3.2
+    },
+    "Temporary": {
+      "Key": 2,
+      "Value": 2.5
+    },
+    "Review": null
+  },
+  "Categories": [],
+  "Resources": [
+    {
+      "Type": 1,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "2201"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 2,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "17623"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 3,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "1972",
+            "tbrkue"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 4,
+      "External": [
+        {
+          "Url": "http://www.pro-reed.com/works/tv_series/w005.html",
+          "Identifier": null
+        }
+      ]
+    },
+    {
+      "Type": 9,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "89406"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 10,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "1175"
+          ]
+        }
+      ]
+    }
+  ],
+  "Tags": [],
+  "Characters": [],
+  "Episodes": []
+}

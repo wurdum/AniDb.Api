@@ -1,0 +1,1221 @@
+{
+  "Id": 789,
+  "Restricted": false,
+  "Type": "OVA",
+  "Url": null,
+  "Picture": "11310.jpg",
+  "Description": "This second OVA series serves as an immediate prequel to the first OVA. About a hundred years after his cataclysmic battle against one of the Joestar family, the vampire Dio has been fished out of the ocean and freed. Thus begins Josef Joestar and his grandson Jotaro`s involvement in the Joestar-Dio feud as Dio`s freedom awakens the Stand-powers of Josef and street punk Jotaro for the first time. They must gather allying Stand users - warriors imbued with a Tarot card symbol that designates their power and face Dio in order to save Jotaro`s mother Holly who is affected by the curse of Dio.",
+  "EpisodeCount": 7,
+  "StartDate": "2000-05-25T00:00:00",
+  "EndDate": "2002-01-25T00:00:00",
+  "Titles": [
+    {
+      "Type": "main",
+      "Lang": "x-jat",
+      "Value": "JoJo no Kimyou na Bouken (2000)"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "en",
+      "Value": "JoJo`s Wonderful Adventures"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "en",
+      "Value": "JoJo`s Bizarre Adventures - Prequel"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "fr",
+      "Value": "JoJo`s Bizarre Adventure - DVD 1 & 2"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "he",
+      "Value": "הרפתקואותיו הביזריות של ג`וג`ו (2000)"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "bg",
+      "Value": "Невероятните приключения на ДжоДжо (2000)"
+    },
+    {
+      "Type": "short",
+      "Lang": "en",
+      "Value": "jojo 2000"
+    },
+    {
+      "Type": "official",
+      "Lang": "ja",
+      "Value": "ジョジョの奇妙な冒険 (2000)"
+    },
+    {
+      "Type": "official",
+      "Lang": "fr",
+      "Value": "JoJo`s Bizarre Adventure"
+    }
+  ],
+  "Similar": [],
+  "Related": [
+    {
+      "Id": 788,
+      "Type": "Sequel",
+      "Value": "JoJo no Kimyou na Bouken"
+    },
+    {
+      "Id": 4918,
+      "Type": "Prequel",
+      "Value": "JoJo no Kimyou na Bouken: Phantom Blood"
+    },
+    {
+      "Id": 9304,
+      "Type": "Prequel",
+      "Value": "JoJo no Kimyou na Bouken (2012)"
+    },
+    {
+      "Id": 10206,
+      "Type": "Alternative Setting",
+      "Value": "JoJo no Kimyou na Bouken: Stardust Crusaders"
+    }
+  ],
+  "Recommendations": {
+    "Total": 1,
+    "Entries": [
+      {
+        "Id": 97419,
+        "Type": "Must See",
+        "Value": "a must see classic. a fundamental to call yourself an anime fan.too bad they only adapted a short part of the manga."
+      }
+    ]
+  },
+  "Creators": [
+    {
+      "Id": 8033,
+      "Type": "Direction",
+      "Value": "Nimura Hideki"
+    },
+    {
+      "Id": 7030,
+      "Type": "Music",
+      "Value": "Marco d`Ambrosio"
+    },
+    {
+      "Id": 1424,
+      "Type": "Direction",
+      "Value": "Kikuchi Yasuhito"
+    },
+    {
+      "Id": 7527,
+      "Type": "Direction",
+      "Value": "Urata Yasunori"
+    },
+    {
+      "Id": 19859,
+      "Type": "Direction",
+      "Value": "Yamanaka Eiji"
+    },
+    {
+      "Id": 811,
+      "Type": "Animation Work",
+      "Value": "A.P.P.P."
+    },
+    {
+      "Id": 981,
+      "Type": "Original Work",
+      "Value": "Araki Hirohiko"
+    },
+    {
+      "Id": 12731,
+      "Type": "Direction",
+      "Value": "Kobayashi Takashi"
+    },
+    {
+      "Id": 4307,
+      "Type": "Direction",
+      "Value": "Furuse Noboru"
+    },
+    {
+      "Id": 5003,
+      "Type": "Character Design",
+      "Value": "Hayama Jun`ichi"
+    },
+    {
+      "Id": 5003,
+      "Type": "Chief Animation Direction",
+      "Value": "Hayama Jun`ichi"
+    }
+  ],
+  "Rating": {
+    "Permanent": {
+      "Key": 411,
+      "Value": 5.54
+    },
+    "Temporary": {
+      "Key": 416,
+      "Value": 7.01
+    },
+    "Review": {
+      "Key": 1,
+      "Value": 8.0
+    }
+  },
+  "Categories": [
+    {
+      "Id": 273,
+      "Parentid": 268,
+      "Name": "Manga",
+      "Description": "Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.\nIt`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 11,
+      "Parentid": 6,
+      "Name": "Present",
+      "Description": "Somewhere between past and future",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 154,
+      "Parentid": 313,
+      "Name": "Horror",
+      "Description": "The horror cinematic genre is characterized by the attempt to make the viewer experience dread, fear, terror, or horror. Often their plots involve the intrusion of an evil force, event or personage, sometimes of supernatural origin, on the mundane world and the consequences thereof.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 158,
+      "Parentid": 15,
+      "Name": "Vampire",
+      "Description": "A super-human species, with long fangs used to penetrate the tender neck of young females, to drink blood.",
+      "Weight": 200,
+      "IsHentai": false
+    },
+    {
+      "Id": 18,
+      "Parentid": 4,
+      "Name": "Super Power",
+      "Description": "Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 22,
+      "Parentid": 289,
+      "Name": "Asia",
+      "Description": "Asia is the world`s largest and most populous continent.",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 23,
+      "Parentid": 22,
+      "Name": "Japan",
+      "Description": "Last stronghold for humanity, if Tokyo falls, it`s all over. Tokyo Tower will undoubtedly fall anyway.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 289,
+      "Parentid": 7,
+      "Name": "Earth",
+      "Description": "The Earth is the third planet from the Sun. It is a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). To its inhabitants, our planet is their home, so, as a species, we cherish it to the point many cultures even to this day deify it. The Earth is the main setting of most fiction, but many titles are set in other places, such as unrelated fantasy worlds, and in a considerable number of fictional titles the Earth is actually destroyed by invaders.",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 4,
+      "Parentid": 313,
+      "Name": "Action",
+      "Description": "Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting. ",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 5,
+      "Parentid": 3,
+      "Name": "Shounen",
+      "Description": "In the context of manga and associated media, the word shounen refers to a male audience roughly between the ages of 10 and 18. In Japanese, the word means simply \"young male\", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic. Still, while not mandatory, some easily identifiable traits are generally common to shounen works, such as: high-action, often humorous plots featuring male protagonists; camaraderie between male friends; sports teams and fighting squads (usually coupled with the aforementioned camaraderie); unrealistically attractive female characters (see fanservice). Additionally, the art style of shounen tends to be less flowery than that of shoujo and the plots tend to be less complex than seinen, but neither of those is a requirement.",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 84,
+      "Parentid": 83,
+      "Name": "Violence",
+      "Description": "Physical force against self or other, compelling action against one`s will on pain of being hurt.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 306,
+      "Parentid": 313,
+      "Name": "Adventure",
+      "Description": "Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, \"jungle\" and \"desert\" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 233,
+      "Parentid": 216,
+      "Name": "Plot Continuity",
+      "Description": "Consistency of the characteristics of persons, plot, objects, places and events seen by the viewer.\n\nA single linear focused plot is highly continuous.\n\nA truly random plot is highly discontinuous.",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 249,
+      "Parentid": 317,
+      "Name": "Proxy Battles",
+      "Description": "In our terms, a proxy battle is a battle where humans use creatures/robots to do the fighting for them, either by commanding those creatures/robots or by simply evolving them/changing them into battle mode. Often the training aspect is also involved, or in some cases the proxies are nothing more than holographic representatives of some other variation of competition (like for example a card game). While many popular shounen anime fit under this category, it`s not limited to shounen anime.",
+      "Weight": 400,
+      "IsHentai": false
+    }
+  ],
+  "Resources": [
+    {
+      "Type": 1,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "463"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 2,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "665"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 3,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "220",
+            "kuctbx"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 9,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "159860"
+          ]
+        }
+      ]
+    }
+  ],
+  "Tags": [
+    {
+      "Id": 991,
+      "Count": 172,
+      "Name": "fighting",
+      "Description": "For some reason or other one faction has to take it out on some opponent via fight or battle. Typical examples of this are all the anime with \"endless pointless fighting\" tag.",
+      "Approval": 2,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2009-05-24T00:00:00"
+    },
+    {
+      "Id": 3328,
+      "Count": 3,
+      "Name": "India",
+      "Description": null,
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2009-05-23T00:00:00"
+    },
+    {
+      "Id": 1952,
+      "Count": 107,
+      "Name": "Weekly Shounen Jump",
+      "Description": "The Weekly Shounen Jump is a Japanese manga magazine released on a weekly basis. Its main target audience consists of young males and it features several manga titles. A number of very famous shounen manga were or are published in the magazine.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2012-08-02T00:00:00"
+    },
+    {
+      "Id": 7040,
+      "Count": 39,
+      "Name": "defeat means friendship",
+      "Description": "In a series based around an endless series of one-on-one fights, defeating a Worthy Opponent or The Rival will sometimes convert them to the hero`s side, if not always to his cause. Furthermore, no matter how many people the Worthy Opponent has killed, how much grief he has caused, even if he slaughtered helpless children or the hero`s own family, as soon as he shows a bit of remorse or goes out of his way to help the hero even once, he will be welcomed into the hero`s circle of True Companions with open arms.(Source: TVTropes)",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2013-01-21T00:00:00"
+    }
+  ],
+  "Characters": [
+    {
+      "Id": 894,
+      "Name": "Kuujou Joutarou",
+      "Description": "He has a very tough exterior, and is even rather rough and delinquent, but he also is very dedicated, intense, and loyal. He is intelligent, but usually lets his (or Star Platinum`s) fists do the talking with the enemy, even though he often has to rely on his wits to deal with stand users` attacks. Jotaro has a perpetual cooler-than-thou, slightly disinterested attitude, although he loves his mother and respects his grandfather. It is not that he is unaware of his own love and/or respect--rather, he thinks anyone can tell his emotions just by looking at him, and probably thinks further effort in portraying how he feels to be a waste of time. In the manga, he`s constantly chased by adoring girls, whom he ignores or tries to drive away. He is the main target of Dio, who realises that Jotaro is his greatest threat.",
+      "Picture": "144417.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 37,
+        "Value": 8.23
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 220,
+          "Picture": "17038.jpg",
+          "Value": "Kosugi Juurouta"
+        }
+      ],
+      "Update": "2013-10-19T00:00:00"
+    },
+    {
+      "Id": 895,
+      "Name": "Dio Brando",
+      "Description": "Dio Brando`s treacherous, sadistic nature may be partially explained by his abusive upbringing at the hands of an alcoholic father, whom he later killed by a slow poisoning over time. He is also ambitious, narcissistic, arrogant and megalomaniacal. He will do anything to get what he wants, even if it means trampling people, like he did to Jonathan Joestar when they were young, and relinquishing his humanity in favor of becoming a vampire. However, Dio shows a good side to those who are good to him. In particular, he has shown favourable attitudes towards Enrico Pucci, who also showed loyalty in return. Dio also has a passion for reading, as he is found in the library of his Egypt mansion many times.",
+      "Picture": "45620.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 61,
+        "Value": 8.12
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 3259,
+          "Picture": "24259.jpg",
+          "Value": "Tanaka Nobuo"
+        }
+      ],
+      "Update": "2012-09-28T00:00:00"
+    },
+    {
+      "Id": 1722,
+      "Name": "Mohammed Abdul",
+      "Description": "Abdul is a fortune teller, born in Cairo, Egypt. He was also one of the first to meet Dio after the vampire`s resurrection, barely escaping with his life and sanity. Before the events in the anime, he had met and barely tamed the Stand-wielding dog Iggy.",
+      "Picture": "16291.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 5,
+        "Value": 4.93
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 37,
+          "Picture": "43092.jpg",
+          "Value": "Kobayashi Kiyoshi"
+        }
+      ],
+      "Update": "2009-06-20T00:00:00"
+    },
+    {
+      "Id": 1724,
+      "Name": "Magician`s Red",
+      "Description": "Magician`s Red appears as a red humanoid figure with the head of a great eagle and fur-covered legs. Its abilities all involve the manipulation of fire. Abdul was born with this Stand and learned to control its power.This fiery stand can also be remotely controlled and generates intense flames capable of melting steel within moments. The fire is hot enough to have evaporated including but not limited to metal projectiles in mid-air and sliced through railroad tracks. It also has more nuanced uses, such as suffocating foes by placing flame in front of their mouth (Red Bind), or using floating balls of psychic flame which flicker in response to enemy presence. Magician`s Red can also produce a \"heat radar\", a cruciform mass of flame that indicates the location of heat sources.",
+      "Picture": "16293.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 3,
+        "Value": 2.98
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [],
+      "Update": "2008-12-30T00:00:00"
+    },
+    {
+      "Id": 1732,
+      "Name": "Kakyouin Noriaki",
+      "Description": "Initially a student who has travelled to Egypt, Dio Brando sensed his Stand powers and asked him for a demonstration, which turned out to be a fight.Afterwards, Kakyoin is brainwashed by Dio using buds from his own cells into following his will, which is to kill Jotaro Kujo.In the anime, he attacks Jotaro by possessing the body of a female student with his Stand. He is defeated by Jotaro either way. Jotaro soon discovers that Kakyoin was under the influence of Dio. Jotaro then used his own Stand, Star Platinum, to remove Dio`s implant buds from Kakyoin`s head in spite of the risk that it may openly attack both of them. Kakyoin is freed from Dio`s slavery afterwards to which he joins the heroes as thanks for helping them.",
+      "Picture": "16301.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 7,
+        "Value": 6.98
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 3136,
+          "Picture": "24121.jpg",
+          "Value": "Suzuoki Hirotaka"
+        }
+      ],
+      "Update": "2011-04-09T00:00:00"
+    },
+    {
+      "Id": 1737,
+      "Name": "Heirophant Green",
+      "Description": "Hierophant Green is an elastic and remote Stand, capable of `scouting` and performing actions from far distances. Kakyoin has wielded this Stand since birth. His Stand looks humanoid but robotic with yellow eyes, no distinguishable mouth, and green-coloured appendages that resembles a watermelon in texture. The exterior features of the Stand sports a cream-white or beige colour. The composition of this Stand isn`t solid; instead, it is a compact winding coils of itself that can unravel at a moment`s notice. The Stand is approximately as tall as Kakyoin himself. Whenever the green appendages glow, the Stand is priming for an attack, such as Emerald Splash.",
+      "Picture": "16309.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 3,
+        "Value": 2.28
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [],
+      "Update": "2008-12-30T00:00:00"
+    },
+    {
+      "Id": 1742,
+      "Name": "Joseph Joestar",
+      "Description": "Joseph comes to the aid of his daughter Holly, and his grandson Jotaro. He teaches his grandson about the Stand, and for the most, has done his share of directing the group towards their goal, through fatherly advices and tactics and analysis. He deciphered Kakyoin`s message despite cryptic depictions in regards to Dio`s power.",
+      "Picture": "134793.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 14,
+        "Value": 8.32
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 456,
+          "Picture": "17358.jpg",
+          "Value": "Ootsuka Chikao"
+        }
+      ],
+      "Update": "2013-04-06T00:00:00"
+    },
+    {
+      "Id": 1748,
+      "Name": "Kujo Holly",
+      "Description": "Holly is the daughter of Joseph and Suzie Joestar, and mother of Jotaro Kujo. Her sweet charm is known by all. She believes in her son deeply, proud of the compassion that he has shows to others. A woman who loves her family, she will deliberately lie about her illness so as to lessen their worry. Her ailing condition becomes the catalyst for Jotaro and company`s quest to Egypt.Her Japanese name is \"Seiko\".",
+      "Picture": "16322.jpg",
+      "Type": "secondary cast in",
+      "Gender": "female",
+      "Rating": {
+        "Key": 5,
+        "Value": 2.68
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [],
+      "Update": "2008-12-30T00:00:00"
+    },
+    {
+      "Id": 1799,
+      "Name": "Forever",
+      "Description": "An Orangutan whose Stand is Strength.With it, he acquires full control of a Cargo Ship. Once it is defeated, the ship reverts back to a small fishing boat, giving the group the understanding that the Stand`s real power was influence over the boat to resemble something more \"powerful\".",
+      "Picture": "16381.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 1,
+        "Value": 4.5
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [],
+      "Update": "2008-12-31T00:00:00"
+    },
+    {
+      "Id": 1801,
+      "Name": "Hol Horse",
+      "Description": "An arrogant cowboy and the wielder of the Emperor Stand, which takes the form of a revolver. Upon being fired, the Emperor can control the bullet`s flight path, allowing it to turn in mid-air. He, however, prefers to operate with a partner, as his Stand is fairly weak and not effective without backup. While originally seen working with J. Geil, he later becomes partners with Boingo. Despite his arrogance, Hol Horse prefers to see himself as a \"No.2 kind of guy\" rather than a \"No.1 kind of guy\". He is named after the hip-hop group Full Force.",
+      "Picture": "16383.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 2,
+        "Value": 3.68
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 2,
+          "Picture": "16471.jpg",
+          "Value": "Wakamoto Norio"
+        }
+      ],
+      "Update": "2008-12-31T00:00:00"
+    },
+    {
+      "Id": 1802,
+      "Name": "J. Geil",
+      "Description": "A user of The Hanged Man, a light-based, knife-wielding zombie Stand that only appears in reflective surfaces, within which it is immune to attack, J. Geil is a deformed man with two right hands. He is also a hated rival of Jean-Pierre Polnareff, whose sister he raped and murdered. He is named after the musical group J. Geils Band.",
+      "Picture": "16385.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 2,
+        "Value": 1.9
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 39,
+          "Picture": "16629.jpg",
+          "Value": "Mugihito"
+        }
+      ],
+      "Update": "2008-12-31T00:00:00"
+    },
+    {
+      "Id": 1803,
+      "Name": "The Hanged Man",
+      "Description": "A light-based, knife-wielding zombie Stand that only appears in reflective surfaces, within which it is immune to attack.",
+      "Picture": "16384.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 2,
+        "Value": 2.64
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [],
+      "Update": "2008-12-31T00:00:00"
+    },
+    {
+      "Id": 1804,
+      "Name": "Enya Geil",
+      "Description": "An ancient woman with two right hands, the mother of J. Geil and an apparent confidante of Dio Brando. She was responsible for granting him the power of the Stand. Her own stand, Justice, takes the form of a massive mist, which can take control of anyone with an open wound, allowing Enya to control them as she would a puppet. Enya is named after the artist of the same name. In the anime, she is also able to use her mist to morph her appearance into an attractive woman.Her dual transformations were used to wound Hol Horse and trick Polnareff. Her stand was also able to craft the entire city that the group rested at, disappearing to reveal a barren desert.",
+      "Picture": "16389.jpg",
+      "Type": "secondary cast in",
+      "Gender": "female",
+      "Rating": {
+        "Key": 2,
+        "Value": 8.81
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 1509,
+          "Picture": "19311.jpg",
+          "Value": "Fukami Rika"
+        }
+      ],
+      "Update": "2008-12-31T00:00:00"
+    },
+    {
+      "Id": 1805,
+      "Name": "Justice",
+      "Description": "Justice takes the form of a massive mist, which can take control of anyone with an open wound, allowing Enya to control them as she would a puppet. In the anime, she is also able to use her mist to morph her appearance into an attractive woman.",
+      "Picture": "16390.jpg",
+      "Type": "secondary cast in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 2,
+        "Value": 3.68
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [],
+      "Update": "2008-12-31T00:00:00"
+    },
+    {
+      "Id": 2068,
+      "Name": "Jonathan Joestar",
+      "Description": "The son of the wealthy George Joestar. He is an honest, kind and positive young man whose life is fraught with tragedy. His body was taken by Dio Brando.",
+      "Picture": "45624.jpg",
+      "Type": "cameo appearance in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 24,
+        "Value": 4.41
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [],
+      "Update": "2012-09-28T00:00:00"
+    }
+  ],
+  "Episodes": [
+    {
+      "Id": 9819,
+      "Update": "2010-10-14T00:00:00",
+      "Length": 30,
+      "AirDate": "2000-05-25T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "1"
+      },
+      "Rating": {
+        "Key": 1,
+        "Value": 4.21
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "悪霊"
+        },
+        {
+          "Key": "en",
+          "Value": "The Evil Spirit"
+        },
+        {
+          "Key": "fr",
+          "Value": "L`esprit maléfique"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Akuryou"
+        }
+      ]
+    },
+    {
+      "Id": 9820,
+      "Update": "2010-10-14T00:00:00",
+      "Length": 30,
+      "AirDate": "2000-10-27T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "3"
+      },
+      "Rating": {
+        "Key": 1,
+        "Value": 9.84
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "銀の戦車&力"
+        },
+        {
+          "Key": "en",
+          "Value": "Silver Chariot and Strength"
+        },
+        {
+          "Key": "fr",
+          "Value": "Silver Chariot et Strength"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Gin no Sensha & Chikara"
+        }
+      ]
+    },
+    {
+      "Id": 9821,
+      "Update": "2010-10-14T00:00:00",
+      "Length": 30,
+      "AirDate": "2000-08-25T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "2"
+      },
+      "Rating": {
+        "Key": 1,
+        "Value": 7.43
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "法皇の緑"
+        },
+        {
+          "Key": "en",
+          "Value": "Hierophant Green"
+        },
+        {
+          "Key": "fr",
+          "Value": "Hierophant Green"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Houou no Midori"
+        }
+      ]
+    },
+    {
+      "Id": 13339,
+      "Update": "2010-10-14T00:00:00",
+      "Length": 30,
+      "AirDate": "2001-04-27T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "4"
+      },
+      "Rating": {
+        "Key": 1,
+        "Value": 7.43
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "皇帝と吊られた男"
+        },
+        {
+          "Key": "en",
+          "Value": "The Emperor and the Hanged Man"
+        },
+        {
+          "Key": "fr",
+          "Value": "L`empereur et le pendu"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Koutei to Tsurareta Otoko"
+        }
+      ]
+    },
+    {
+      "Id": 13378,
+      "Update": "2010-10-14T00:00:00",
+      "Length": 30,
+      "AirDate": "2001-07-27T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "5"
+      },
+      "Rating": {
+        "Key": 1,
+        "Value": 9.84
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "裁き"
+        },
+        {
+          "Key": "en",
+          "Value": "The Judgement"
+        },
+        {
+          "Key": "fr",
+          "Value": "Jugement"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Sabaki"
+        }
+      ]
+    },
+    {
+      "Id": 17618,
+      "Update": "2006-01-01T00:00:00",
+      "Length": 4,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S1"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "JoJo Timeline Part 1"
+        }
+      ]
+    },
+    {
+      "Id": 18158,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-09-28T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "6"
+      },
+      "Rating": {
+        "Key": 1,
+        "Value": 7.43
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "報復の霧"
+        },
+        {
+          "Key": "en",
+          "Value": "The Mist of Vengeance"
+        },
+        {
+          "Key": "fr",
+          "Value": "La brume de la vengeance"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Houfuku no Kiri"
+        }
+      ]
+    },
+    {
+      "Id": 19632,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 30,
+      "AirDate": "2002-01-25T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "7"
+      },
+      "Rating": {
+        "Key": 1,
+        "Value": 4.21
+      },
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "正義[ジャスティス]"
+        },
+        {
+          "Key": "en",
+          "Value": "Justice"
+        },
+        {
+          "Key": "fr",
+          "Value": "Justice"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Seigi [Justice]"
+        }
+      ]
+    },
+    {
+      "Id": 19922,
+      "Update": "2005-02-20T00:00:00",
+      "Length": 3,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S2"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "JoJo Timeline Part 2"
+        }
+      ]
+    },
+    {
+      "Id": 26934,
+      "Update": "2004-12-22T00:00:00",
+      "Length": 3,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S3"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "JoJo Timeline Part 3"
+        }
+      ]
+    },
+    {
+      "Id": 47735,
+      "Update": "2006-03-18T00:00:00",
+      "Length": 7,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S4"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Interview"
+        }
+      ]
+    },
+    {
+      "Id": 47736,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 20,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S5"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Staff Interviews"
+        }
+      ]
+    },
+    {
+      "Id": 47737,
+      "Update": "2006-03-18T00:00:00",
+      "Length": 20,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S6"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Interviews"
+        }
+      ]
+    },
+    {
+      "Id": 130699,
+      "Update": "2011-06-07T00:00:00",
+      "Length": 7,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S11"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Staff Interview Part 2"
+        }
+      ]
+    },
+    {
+      "Id": 130700,
+      "Update": "2011-06-07T00:00:00",
+      "Length": 9,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S10"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Staff Interview Part 1"
+        }
+      ]
+    },
+    {
+      "Id": 130701,
+      "Update": "2011-06-07T00:00:00",
+      "Length": 5,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S9"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Director Interview"
+        }
+      ]
+    },
+    {
+      "Id": 130702,
+      "Update": "2013-05-04T00:00:00",
+      "Length": 5,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S8"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Author Interview Part 2"
+        }
+      ]
+    },
+    {
+      "Id": 130703,
+      "Update": "2013-05-04T00:00:00",
+      "Length": 5,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S7"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Author Interview Part 1"
+        }
+      ]
+    },
+    {
+      "Id": 130705,
+      "Update": "2011-06-07T00:00:00",
+      "Length": 1,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S17"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Color Settings"
+        }
+      ]
+    },
+    {
+      "Id": 130706,
+      "Update": "2011-06-07T00:00:00",
+      "Length": 1,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S18"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Illust Collection"
+        }
+      ]
+    },
+    {
+      "Id": 130707,
+      "Update": "2011-06-07T00:00:00",
+      "Length": 2,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S16"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Settings"
+        }
+      ]
+    },
+    {
+      "Id": 130708,
+      "Update": "2011-06-07T00:00:00",
+      "Length": 5,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S15"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Presentation"
+        }
+      ]
+    },
+    {
+      "Id": 130709,
+      "Update": "2013-05-04T00:00:00",
+      "Length": 5,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S14"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Special Conversation Part 3"
+        }
+      ]
+    },
+    {
+      "Id": 130710,
+      "Update": "2011-06-07T00:00:00",
+      "Length": 5,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S13"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Special Conversation Part 2"
+        }
+      ]
+    },
+    {
+      "Id": 130711,
+      "Update": "2013-05-04T00:00:00",
+      "Length": 5,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S12"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Special Conversation Part 1"
+        }
+      ]
+    }
+  ]
+}

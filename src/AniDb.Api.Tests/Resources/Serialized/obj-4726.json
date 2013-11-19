@@ -1,0 +1,225 @@
+{
+  "Id": 4726,
+  "Restricted": false,
+  "Type": "Movie",
+  "Url": "http://www.mushi-pro.co.jp/2010/08/%E3%82%86%E3%81%8D/",
+  "Picture": "48264.jpg",
+  "Description": "* Classic movie from director http://anidb.net/cr20321 [Imai Tadashi], based on a book from Saito Ryusuke.Set in feudal Japan, the film focuses on Yuki, an adolescent goddess whose task is to clean up the Earth, both by ridding it of oppressive authorities and by covering it with a blanket of snow. She tames a wild stallion and stirs up a peasant revolt.Source: answers.com",
+  "EpisodeCount": 1,
+  "StartDate": "1981-08-09T00:00:00",
+  "EndDate": "1981-08-09T00:00:00",
+  "Titles": [
+    {
+      "Type": "main",
+      "Lang": "x-jat",
+      "Value": "Yuki"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "en",
+      "Value": "Snow"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "en",
+      "Value": "Snow Fairy"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "x-other",
+      "Value": "❄"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "sr",
+      "Value": "Snežana"
+    },
+    {
+      "Type": "official",
+      "Lang": "ja",
+      "Value": "ゆき"
+    },
+    {
+      "Type": "official",
+      "Lang": "fr",
+      "Value": "Yuki - Le combat des Shoguns"
+    },
+    {
+      "Type": "official",
+      "Lang": "pl",
+      "Value": "Yuki - śniegowa wróżka"
+    }
+  ],
+  "Similar": [],
+  "Related": [],
+  "Recommendations": {
+    "Total": 1,
+    "Entries": []
+  },
+  "Creators": [
+    {
+      "Id": 833,
+      "Type": "Animation Production",
+      "Value": "Mushi Production"
+    },
+    {
+      "Id": 1085,
+      "Type": "Animation Co-Production",
+      "Value": "Nikkatsu"
+    },
+    {
+      "Id": 20321,
+      "Type": "Direction",
+      "Value": "Imai Tadashi"
+    }
+  ],
+  "Rating": {
+    "Permanent": {
+      "Key": 26,
+      "Value": 4.54
+    },
+    "Temporary": {
+      "Key": 31,
+      "Value": 6.27
+    },
+    "Review": null
+  },
+  "Categories": [
+    {
+      "Id": 126,
+      "Parentid": 10,
+      "Name": "Alternative History",
+      "Description": "An anime that takes place in an alternative past is an anime that clearly does not belong to the future or the present, and isn`t tied particularly closely to our history, or has ties to our history but only as a premise: there are too many things that don`t make sense for the time-period. In some cases there is futuristic technology present, but the overall setting still feels that of the past. However the setting must still take place on Earth, since we can not know if the history of a fantasy world is an alternate one or not. ",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 167,
+      "Parentid": 15,
+      "Name": "Demons",
+      "Description": "Often described as minions from Hell. Generally known to attack humans and feast on their flesh or possess the bodies of those with weak souls.",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 243,
+      "Parentid": 15,
+      "Name": "Goddess",
+      "Description": "A goddess is a female deity.",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 322,
+      "Parentid": 171,
+      "Name": "Feudal Warfare",
+      "Description": "Feudal Warfare is the warfare of the Middle Ages and therefore the setting must take place in a time line similar to that of Middle Ages or its Asian/American counterparts, or in a fantasy world. Generally it can be described the same way as the Military category, just that the weapons used are swords, spears, bows, catapults, cannons and other weapons used in the Middle Ages.\n\nNote: Just because the anime contains a guy or a couple of guys with swords wondering about, doesn`t make it applicable for this category, unless there are larger military organizations/groups involved in armed conflict with each other, you might not want to add this genre. ",
+      "Weight": 600,
+      "IsHentai": false
+    },
+    {
+      "Id": 20,
+      "Parentid": 4,
+      "Name": "Martial Arts",
+      "Description": "Characterized by extensive fighting scenes employing various types of martial arts, meaning systems of codified practices and traditions of training for combat.",
+      "Weight": 200,
+      "IsHentai": false
+    },
+    {
+      "Id": 455,
+      "Parentid": 113,
+      "Name": "Horse Riding",
+      "Description": "The characters here know or learn how to ride a horse.\nMostly common with fantasy, medieval, historical anime.",
+      "Weight": 200,
+      "IsHentai": false
+    }
+  ],
+  "Resources": [
+    {
+      "Type": 1,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "7388"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 2,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "8598"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 3,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "3087",
+            "fbwhjt"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 4,
+      "External": [
+        {
+          "Url": "http://www.mushi-pro.co.jp/2010/08/ゆき/",
+          "Identifier": null
+        }
+      ]
+    },
+    {
+      "Type": 9,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "147741"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 10,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "2819"
+          ]
+        }
+      ]
+    }
+  ],
+  "Tags": [],
+  "Characters": [],
+  "Episodes": [
+    {
+      "Id": 64411,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 90,
+      "AirDate": "1981-08-09T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "1"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Complete Movie"
+        }
+      ]
+    }
+  ]
+}

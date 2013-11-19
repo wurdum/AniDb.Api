@@ -1,0 +1,1091 @@
+{
+  "Id": 1774,
+  "Restricted": false,
+  "Type": "TV Series",
+  "Url": "http://mbs.jp/zero/",
+  "Picture": "2658.jpg",
+  "Description": "Days have past and past from the age of wars. Zoids Battle becomes sports, and players are called warriors. Both Imperial Force and Republice Force try to capture Zoid as a weapon, and three children protect it from unsympathetic adults.Source: AnimeNfoNote: Zoids New Century takes place 4000 years after classic Zoids.",
+  "EpisodeCount": 26,
+  "StartDate": "2001-01-06T00:00:00",
+  "EndDate": "2001-06-30T00:00:00",
+  "Titles": [
+    {
+      "Type": "main",
+      "Lang": "x-jat",
+      "Value": "Zoids Shin Seiki/Zero"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "ja",
+      "Value": "ゾイド新世紀スラッシュゼロ"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "en",
+      "Value": "ZOIDS New Century/Zero"
+    },
+    {
+      "Type": "official",
+      "Lang": "ja",
+      "Value": "ゾイド新世紀 / ゼロ"
+    },
+    {
+      "Type": "official",
+      "Lang": "en",
+      "Value": "ZOIDS"
+    }
+  ],
+  "Similar": [],
+  "Related": [
+    {
+      "Id": 1382,
+      "Type": "Same Setting",
+      "Value": "Zoids"
+    },
+    {
+      "Id": 1775,
+      "Type": "Same Setting",
+      "Value": "Zoids Fuzors"
+    },
+    {
+      "Id": 3070,
+      "Type": "Same Setting",
+      "Value": "Zoids Genesis"
+    }
+  ],
+  "Recommendations": null,
+  "Creators": [
+    {
+      "Id": 719,
+      "Type": "Animation Production",
+      "Value": "Xebec"
+    },
+    {
+      "Id": 7716,
+      "Type": "Character Design",
+      "Value": "Sakazaki Tadashi"
+    },
+    {
+      "Id": 3748,
+      "Type": "Series Composition",
+      "Value": "Sumisawa Katsuyuki"
+    },
+    {
+      "Id": 682,
+      "Type": "Direction",
+      "Value": "Kato Takao"
+    }
+  ],
+  "Rating": {
+    "Permanent": {
+      "Key": 328,
+      "Value": 4.85
+    },
+    "Temporary": {
+      "Key": 344,
+      "Value": 7.13
+    },
+    "Review": {
+      "Key": 1,
+      "Value": 3.33
+    }
+  },
+  "Categories": [
+    {
+      "Id": 113,
+      "Parentid": 317,
+      "Name": "Sports",
+      "Description": "Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 8,
+      "Parentid": 313,
+      "Name": "Sci-Fi",
+      "Description": "Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from. ",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 13,
+      "Parentid": 8,
+      "Name": "Mecha",
+      "Description": "Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk.",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 118,
+      "Parentid": 13,
+      "Name": "Piloted Robot",
+      "Description": "Piloted Robots are, as the name suggests, robots that cannot control themselves; they need to be steered from somewhere, this can be from a human sitting inside or a remote controlled option.",
+      "Weight": 500,
+      "IsHentai": false
+    },
+    {
+      "Id": 4,
+      "Parentid": 313,
+      "Name": "Action",
+      "Description": "Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting. ",
+      "Weight": 400,
+      "IsHentai": false
+    },
+    {
+      "Id": 289,
+      "Parentid": 7,
+      "Name": "Earth",
+      "Description": "The Earth is the third planet from the Sun. It is a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). To its inhabitants, our planet is their home, so, as a species, we cherish it to the point many cultures even to this day deify it. The Earth is the main setting of most fiction, but many titles are set in other places, such as unrelated fantasy worlds, and in a considerable number of fictional titles the Earth is actually destroyed by invaders.",
+      "Weight": 400,
+      "IsHentai": false
+    }
+  ],
+  "Resources": [
+    {
+      "Type": 1,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "323"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 2,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "764"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 3,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "814",
+            "zbrqga"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 4,
+      "External": [
+        {
+          "Url": "http://mbs.jp/zero/",
+          "Identifier": null
+        }
+      ]
+    },
+    {
+      "Type": 7,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "ゾイド新世紀スラッシュゼロ"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 9,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "234328"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 10,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "4290"
+          ]
+        }
+      ]
+    }
+  ],
+  "Tags": [
+    {
+      "Id": 827,
+      "Count": 79,
+      "Name": "lost technology",
+      "Description": "Any advanced technology or science-related knowledge that was lost for some reason fits the description. This could be technology from a time before a post-apocalyptic cataclysm, knowledge gained a long time ago but forgotten, or the relics of an old alien civilization only recently discovered.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2009-05-28T00:00:00"
+    },
+    {
+      "Id": 153,
+      "Count": 38,
+      "Name": "awesome comedy duo",
+      "Description": "A pair of strongly contrasting characters with incredibly quick and witty dialogues bring about much hilarity.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2008-01-16T00:00:00"
+    },
+    {
+      "Id": 323,
+      "Count": 56,
+      "Name": "tournament",
+      "Description": "A competition involving a large number or participants. Such competitions may range from friendly, moderated sporting events to anything-goes, all-out fights to the death.All participants take part in the tournament in want or need of the final goal and possible prizes; which depending on genre, may range from a boastful record at school to great riches and/or the granting of a wish. Depending on the type of tournament, contestants will either act alone, be permitted a team, or construct a team of chance throughout the ongoing competition.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2010-03-14T00:00:00"
+    }
+  ],
+  "Characters": [
+    {
+      "Id": 9431,
+      "Name": "Bit Cloud",
+      "Description": "Bit cloud is a traveling junk dealer who stumbled onto a battle and ended up becoming the miracle pilot of the blitz team. Bit is arrogant and enjoys a good Zoid battle. When his friends are in danger however, you will find Bit there, ready to help. Bit may seem to be a good for nothing to certain characters (Leena), but his true potential lies with Liger Zero. A mysterious zoid that goes berserk when anyone other than Bit attempts to pilot him.",
+      "Picture": "28978.jpg",
+      "Type": "main character in",
+      "Gender": "male",
+      "Rating": {
+        "Key": 1,
+        "Value": 7.09
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 225,
+          "Picture": "17044.jpg",
+          "Value": "Sakurai Takahiro"
+        }
+      ],
+      "Update": "2009-06-15T00:00:00"
+    },
+    {
+      "Id": 9432,
+      "Name": "Rinon Torosu",
+      "Description": "On the battlefield, Leena`s fighting style centers on one simple philosophy: shoot, shoot, shoot. Originally piloting a heavily-armed Dibison, she trades it in for a very customized Gun Sniper. Rather than using it in its traditional long-range role, she fits a Weasel Unit onto it, loading it with a massive number of missile launchers. Good thing. Her usual solution to a problem situation is to order Total Assault: firing everything she`s got.",
+      "Picture": "28979.jpg",
+      "Type": "main character in",
+      "Gender": "female",
+      "Rating": {
+        "Key": 1,
+        "Value": 6.09
+      },
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 12,
+          "Picture": "16580.jpg",
+          "Value": "Kawasumi Ayako"
+        }
+      ],
+      "Update": "2009-06-15T00:00:00"
+    },
+    {
+      "Id": 9433,
+      "Name": "Ballade Hunter",
+      "Description": "Brad originally pilots the reliable Command Wolf, but when it`s damanged beyond repair, he begins to follow a calling in his heart. Leaving the Blitz Team briefly, he seeks out a calling (like Bit) for a Zoid he could personally bond with, one he saw one time. He found that Zoid in Dr. Layon`s laboratory: the experimental Shadow Fox. With sheer bravado, he makes his way into the cockpit, climbs in, and takes off. Quickly figuring out its numerous capabilities, he easily handles the Backdraft`s pursuit, primpting Dr. Layon to make him an offer",
+      "Picture": "28980.jpg",
+      "Type": "main character in",
+      "Gender": "male",
+      "Rating": null,
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 263,
+          "Picture": "17087.jpg",
+          "Value": "Matsukaze Masaya"
+        }
+      ],
+      "Update": "2009-06-15T00:00:00"
+    },
+    {
+      "Id": 9434,
+      "Name": "Rion Torosu",
+      "Description": "Leon was the leader until Bit`s Truck tripped his Shield Liger, breaking Leon`s arm. Bit took over Leon`s position after Leon left the base. Leon traveled around the world, competing in battles, days bad and good. He left carcasses of trashed Zoids behind him every day until he found a Red Blade Liger or vice versa.",
+      "Picture": "28981.jpg",
+      "Type": "main character in",
+      "Gender": "male",
+      "Rating": null,
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 375,
+          "Picture": "17221.jpg",
+          "Value": "Chiba Susumu"
+        }
+      ],
+      "Update": "2009-06-15T00:00:00"
+    },
+    {
+      "Id": 9435,
+      "Name": "Jiemi Hemerosu",
+      "Description": "He only piloted the Pteras (pronounced \"terrace\") in the first half of the season, because Doc, our impulse shopper, traded it off on a Raynos after the Pteras was rendered unpilotable by the Backdraft`s Zabat. When he was piloting the Reynos, he entered a subconscious state and actually started being a man, instead of a kid. He`s learning to grow, but he isn`t there yet.",
+      "Picture": "28982.jpg",
+      "Type": "main character in",
+      "Gender": "male",
+      "Rating": null,
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 180,
+          "Picture": "66228.jpg",
+          "Value": "Saiga Mitsuki"
+        }
+      ],
+      "Update": "2009-06-15T00:00:00"
+    },
+    {
+      "Id": 9437,
+      "Name": "Dr. Torosu",
+      "Description": "Dr. Toros is the one that built the Jager, Schneider, and Panzer units for the Liger Zero. Aside from that, he is also the biggest impulse shopper within an 8 mile radius of the Toros Base, and yes, he is the father of Leena and Leon Toros.",
+      "Picture": "28984.jpg",
+      "Type": "main character in",
+      "Gender": "male",
+      "Rating": null,
+      "Charactertype": {
+        "Key": 1,
+        "Value": "Character"
+      },
+      "Seiyuu": [
+        {
+          "Id": 478,
+          "Picture": "17453.jpg",
+          "Value": "Nakamura Daiki"
+        }
+      ],
+      "Update": "2009-06-15T00:00:00"
+    },
+    {
+      "Id": 9438,
+      "Name": "Blitz Team",
+      "Description": "The team lead by Dr. Torosu, consisting of; Rinon, Rion, Bit, Ballade, and Jiemi.",
+      "Picture": null,
+      "Type": "appears in",
+      "Gender": "unknown",
+      "Rating": null,
+      "Charactertype": {
+        "Key": 3,
+        "Value": "Organization"
+      },
+      "Seiyuu": [],
+      "Update": "2009-06-15T00:00:00"
+    }
+  ],
+  "Episodes": [
+    {
+      "Id": 20454,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-01-06T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "1"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "戦闘開始! -ライガーゼロ ゴー・ファイト!-"
+        },
+        {
+          "Key": "en",
+          "Value": "Commence Battle: Attack Liger Zero"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Sentou Kaishi! Liger Zero Go Fight!"
+        }
+      ]
+    },
+    {
+      "Id": 20455,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-01-20T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "3"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "王者登場 -ハリー・チャンプ-"
+        },
+        {
+          "Key": "en",
+          "Value": "The Prince Arrives: Harry Champ"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Ouja Toujou: Harry Champ"
+        }
+      ]
+    },
+    {
+      "Id": 20456,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-02-24T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "8"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "猛虎襲来! -換装!! ゼロシュナイダー-"
+        },
+        {
+          "Key": "en",
+          "Value": "Invasion of the Fierce Tigers: Transform to Zero Schneider"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Mouko Shuurai! Kansou Zero Schneider"
+        }
+      ]
+    },
+    {
+      "Id": 20457,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-06-09T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "23"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "目覚める竜 -バーサークフューラー出撃-"
+        },
+        {
+          "Key": "en",
+          "Value": "The Dragon Awakens: The Berserk Fury Enters the Fray"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Mezameru Ryuu: Berserk Fury Shutsugeki"
+        }
+      ]
+    },
+    {
+      "Id": 20458,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-03-31T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "13"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "荒鷲の勇者 -レイノスvsザバット-"
+        },
+        {
+          "Key": "en",
+          "Value": "The Brave Wild Eagle: The Raynos vs. the Zabats"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Arasu no Yuusha: Raynos vs Zabats"
+        }
+      ]
+    },
+    {
+      "Id": 20459,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-05-26T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "21"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "王者の災難 -ラオン博士の華麗なる罠-"
+        },
+        {
+          "Key": "en",
+          "Value": "Harry`s Disaster: Dr. Laon Traps Toros!"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Ouja no Sainan: Laon Hakase no Karei Naru Wana"
+        }
+      ]
+    },
+    {
+      "Id": 20460,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-03-03T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "9"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "女帝登場 -マリー・チャンプ-"
+        },
+        {
+          "Key": "en",
+          "Value": "The Princess Arrives: Mary Champ"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Nyotei Toujou: Mary Champ"
+        }
+      ]
+    },
+    {
+      "Id": 20461,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-06-16T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "24"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "勇者の祭典 -開幕! ロイヤルカップ-"
+        },
+        {
+          "Key": "en",
+          "Value": "Tournament of Heroes: The Royal Cup"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Yuusha no Saiten: Kaimaku! Royal Cup"
+        }
+      ]
+    },
+    {
+      "Id": 20462,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-04-21T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "16"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "赤き好敵手 -レオン・トロス帰還-"
+        },
+        {
+          "Key": "en",
+          "Value": "Red Rival: Leon Toros Returns!"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Akaki Koutekishu: Leon Toros Kikan"
+        }
+      ]
+    },
+    {
+      "Id": 20463,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-01-13T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "2"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "二人の勝利 -紅き閃光ナオミ・フリューゲル-"
+        },
+        {
+          "Key": "en",
+          "Value": "New Partners vs Naomi; The Red Comet"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Futari no Shouri: Akaki Senkou Naomi Furyuugeru"
+        }
+      ]
+    },
+    {
+      "Id": 20464,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-06-02T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "22"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "海に潜む竜 -アルティメットXを探せ!-"
+        },
+        {
+          "Key": "en",
+          "Value": "The Dragon Under the Sea: In Search of the Ultimate X"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Umi ni Hisomu Ryuu: Ultimate X o Sagase!"
+        }
+      ]
+    },
+    {
+      "Id": 20465,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-01-27T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "4"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "バトル! -謎のバックドラフト団-"
+        },
+        {
+          "Key": "en",
+          "Value": "Unsanctioned Battle: The Mysterious Backdraft Group"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Battle! Nazo no Backdraft Dan"
+        }
+      ]
+    },
+    {
+      "Id": 20466,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-06-23T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "25"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "サバイバル -アルティメットXの謎-"
+        },
+        {
+          "Key": "en",
+          "Value": "Survival: The Mystery of the Ultimate X"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Survival: Ultimate X no Nazo"
+        }
+      ]
+    },
+    {
+      "Id": 20467,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-05-19T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "20"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "フォックス -裏切りのバラッド-"
+        },
+        {
+          "Key": "en",
+          "Value": "The Shadow Fox: Brad`s Betrayal"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Fox: Uragiri no Brad"
+        }
+      ]
+    },
+    {
+      "Id": 20468,
+      "Update": "2007-06-29T00:00:00",
+      "Length": 20,
+      "AirDate": "2001-06-30T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "26"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ゼロの軌跡 -風と雲と冒険と...-"
+        },
+        {
+          "Key": "en",
+          "Value": "The Miracle of Zero: The Wind, the Cloud and Adventure"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Zero no Kiseki: Kaze to Kumo to Bouken to..."
+        }
+      ]
+    },
+    {
+      "Id": 20469,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-04-07T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "14"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "リノン絶叫 -敵は13日のノコギリ魔!?-"
+        },
+        {
+          "Key": "en",
+          "Value": "Fright Day the 13th"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Rinon Zekkyou: Teki wa 13 Nichi no Nokogiri ma!?"
+        }
+      ]
+    },
+    {
+      "Id": 20470,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-04-14T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "15"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ラオン再び -反重力カタストロフィ-"
+        },
+        {
+          "Key": "en",
+          "Value": "Layon Returns: Anti-Gravity Catastrophe!"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Layon Futatabi: Han Juuryoku Catastrophe"
+        }
+      ]
+    },
+    {
+      "Id": 20471,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-03-24T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "12"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ゼロ強奪 -脅威のファイヤーデスバトルが始まる!-"
+        },
+        {
+          "Key": "en",
+          "Value": "Zero Is Stolen: The Fiery Battle"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Zero Goudatsu: Kyoui no Fiery Battle ga Hajimaru!"
+        }
+      ]
+    },
+    {
+      "Id": 20472,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-03-17T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "11"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "三つの旋風 -再戦! ライトニングサイクス-"
+        },
+        {
+          "Key": "en",
+          "Value": "The Sensational Three: Rematch with Jack Cisco"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Mittsu no Senpuu: Saisen! Lightning Saikusu"
+        }
+      ]
+    },
+    {
+      "Id": 20473,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-02-03T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "5"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "高速対決! 高速対決! -ゼロイエーガー, 換装[インストレーション]!-"
+        },
+        {
+          "Key": "en",
+          "Value": "High Speed Battle: Transforming Into Zero Jager"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Kousoku Taiketsu! Zero Jager, Kansou \"Installation\""
+        }
+      ]
+    },
+    {
+      "Id": 20474,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-03-10T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "10"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "砂漠の牙 -ウオディック強襲!!-"
+        },
+        {
+          "Key": "en",
+          "Value": "Desert Tusk: Assault of the War Sharks"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Sabaku no Kiba: War Dick Kyoushuu!!"
+        }
+      ]
+    },
+    {
+      "Id": 20475,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-02-10T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "6"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "闇の巨象 -強敵エレファンダーを倒せ!-"
+        },
+        {
+          "Key": "en",
+          "Value": "The Dark Giant: The Invincible Elephander"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Yami no Kyozou: Kyouteki Elephander o Taose!"
+        }
+      ]
+    },
+    {
+      "Id": 20476,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-02-17T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "7"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "激走の荒野 -ホバーカーゴ危機百発!-"
+        },
+        {
+          "Key": "en",
+          "Value": "The Desert Gang: The Hover Cargo`s in Danger"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Gekisou no Arano: Hover Cargo Kiki Hyappatsu!"
+        }
+      ]
+    },
+    {
+      "Id": 20477,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-05-05T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "18"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "恋する戦場 -愛しのジャッジマン-"
+        },
+        {
+          "Key": "en",
+          "Value": "Love on the Battlefield: My Love, the Judge"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Koisuru Senjou: Itoshi no Judgeman"
+        }
+      ]
+    },
+    {
+      "Id": 20478,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-05-12T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "19"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "第三の換装 -ゼロパンツァー始動!!-"
+        },
+        {
+          "Key": "en",
+          "Value": "The Third Conversion: Zero Panzer`s Debut!"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Dai San no Kansou: Zero Panzer Shidou!!"
+        }
+      ]
+    },
+    {
+      "Id": 20479,
+      "Update": "2011-10-20T00:00:00",
+      "Length": 25,
+      "AirDate": "2001-04-28T00:00:00",
+      "Epno": {
+        "Key": 1,
+        "Value": "17"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "戦士の休息 -二つのストームソーダー-"
+        },
+        {
+          "Key": "en",
+          "Value": "Warriors on Vacation: The Storm Sworders"
+        },
+        {
+          "Key": "x-jat",
+          "Value": "Senshi no Kyuusoku: Futatsu no Storm Sworders"
+        }
+      ]
+    },
+    {
+      "Id": 121657,
+      "Update": "2010-09-01T00:00:00",
+      "Length": 2,
+      "AirDate": "2001-01-06T00:00:00",
+      "Epno": {
+        "Key": 3,
+        "Value": "C2"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Ending"
+        }
+      ]
+    },
+    {
+      "Id": 121658,
+      "Update": "2010-09-01T00:00:00",
+      "Length": 2,
+      "AirDate": "2001-01-06T00:00:00",
+      "Epno": {
+        "Key": 3,
+        "Value": "C1"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Opening"
+        }
+      ]
+    }
+  ]
+}

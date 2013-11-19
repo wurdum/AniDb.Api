@@ -2,8 +2,11 @@
 using System.Linq;
 using System.Xml;
 using AniDb.Api.Exceptions;
+using AniDb.Api.Models;
 using AniDb.Api.ResponseReaders;
 using NUnit.Framework;
+using Newtonsoft.Json;
+using Formatting = Newtonsoft.Json.Formatting;
 
 namespace AniDb.Api.Tests
 {
@@ -37,11 +40,27 @@ namespace AniDb.Api.Tests
         }
         
         [Test]
-        public void ReadingWithMappingDontCauseExceptionTest() {
+        public void ReadingResponsesBodiesTest() {
             var animeReader = new AnimeReader();
-            Helpers.AllValidResponsesFiles()
+            var objFromResponse = Helpers.AllValidResponsesFiles().Select(File.ReadAllText).Select(animeReader.ReadObject).ToList();
+            var objFromFiles = Helpers.AllSerializedObjectFiles().Select(f => JsonConvert.DeserializeObject<Anime>(File.ReadAllText(f))).ToList();
+
+            foreach (var actual in objFromResponse) {
+                var expected = objFromFiles.First(o => o.Id == actual.Id);
+                Assert.AreEqual(expected, actual, actual.Id.ToString());
+            }
+        }
+
+        /*[Test]
+        public void RecreateJsonAnimeObjects() {
+            var animeReader = new AnimeReader();
+            var objs = Helpers.AllValidResponsesFiles()
                 .Select(File.ReadAllText)
                 .Select(animeReader.ReadObject).ToList();
-        }
+
+            foreach (var obj in objs)
+                File.WriteAllText(Helpers.SerializedObjectFile("obj-" + obj.Id + ".json"), 
+                    JsonConvert.SerializeObject(obj, Formatting.Indented));
+        }*/
     }
 }

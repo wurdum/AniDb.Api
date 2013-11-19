@@ -52,6 +52,7 @@
     <Compile Include="Exceptions\ClientCredentialsException.cs" />
     <Compile Include="Exceptions\ResponseReadXmlException.cs" />
     <Compile Include="Exceptions\ResponseValidateXmlException.cs" />
+    <Compile Include="Extentions.cs" />
     <Compile Include="HttpRequestBuilder.cs" />
     <Compile Include="Index.cs" />
     <Compile Include="Models\Anime.cs" />

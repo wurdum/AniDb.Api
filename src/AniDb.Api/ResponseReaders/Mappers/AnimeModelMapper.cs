@@ -26,9 +26,13 @@ namespace AniDb.Api.ResponseReaders.Mappers
                     Entries = ArrayOrEmpty(a.recommendations.recommendation).Select(r => new IdTypeValue { Id = Convert.ToInt32(r.uid), Type = r.type, Value = r.Value }).ToArray()
                 },
                 Creators = ArrayOrEmpty(a.creators).Select(c => new IdTypeValue {Id = c.id, Type = c.type, Value = c.Value}).ToArray(),
-                Rating = new Rating {
-                    Permanent = new KeyValuePair<int, double>(a.ratings.permanent.count, Convert.ToDouble(a.ratings.permanent.Value)),
-                    Temporary = new KeyValuePair<int, double>(a.ratings.temporary.count, Convert.ToDouble(a.ratings.temporary.Value)),
+                Rating = a.ratings == null ? null : new Rating {
+                    Permanent = a.ratings.permanent == null 
+                        ? (KeyValuePair<int, double>?)null 
+                        : new KeyValuePair<int, double>(a.ratings.permanent.count, Convert.ToDouble(a.ratings.permanent.Value)),
+                    Temporary = a.ratings.temporary == null
+                        ? (KeyValuePair<int, double>?)null
+                        : new KeyValuePair<int, double>(a.ratings.temporary.count, Convert.ToDouble(a.ratings.temporary.Value)),
                     Review = a.ratings.review == null 
                         ? (KeyValuePair<int, double>?)null
                         : new KeyValuePair<int, double>(a.ratings.review.count, Convert.ToDouble(a.ratings.review.Value))

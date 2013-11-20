@@ -216,8 +216,8 @@ namespace AniDb.Api.Models
 
     public class Rating : IEquatable<Rating>
     {
-        public KeyValuePair<int, double> Permanent { get; set; }
-        public KeyValuePair<int, double> Temporary { get; set; }
+        public KeyValuePair<int, double>? Permanent { get; set; }
+        public KeyValuePair<int, double>? Temporary { get; set; }
         public KeyValuePair<int, double>? Review { get; set; }
 
         #region equality members

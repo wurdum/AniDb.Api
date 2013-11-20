@@ -24,25 +24,33 @@ namespace AniDb.Api.Console
             var reader = new AnimeReader();
             for (var i = index.Count - 1; i > 0; i--) {
                 var aid = index[i].Id;
-                if (AlreadyRequested(aid)) {
-                    System.Console.WriteLine("{0} skipped", i);
-                    continue;
+                var responseFile = GetResponseFile(aid);
+                if (!AlreadyRequested(aid)) {
+                    File.WriteAllText(responseFile, Requests.CreateToAnime(client, aid).GetResponseAsync().Result.ResponseBody);
+                    Thread.Sleep(TimeSpan.FromSeconds(20));
                 }
-
-                var responseBody = Requests.CreateToAnime(client, aid).GetResponseAsync().Result.ResponseBody;
-                File.WriteAllText(GetResponseFile(aid), responseBody);
-
-                try {
-                    var obj = reader.ReadObject(responseBody);
-                    File.WriteAllText(GetResponseFile(aid) + ".success", JsonConvert.SerializeObject(obj));
-                } catch (ResponseReadXmlException ex) {
-                    File.WriteAllText(GetResponseFile(aid) + ".fail", ex.Message);
-                } catch (ResponseValidateXmlException ex) {
-                    File.WriteAllLines(GetResponseFile(aid) + ".fail", ex.SchemaExceptions.Select(e => e.Message).ToArray());
-                }
+                
+                ReadObject(reader, File.ReadAllText(responseFile), aid);
 
                 System.Console.WriteLine("{0} done", i);
-                Thread.Sleep(TimeSpan.FromSeconds(20));
+                
+            }
+        }
+
+        private static void ReadObject(AnimeReader reader, string responseBody, int aid) {
+            if (File.Exists(GetResponseFile(aid) + ".success"))
+                File.Delete(GetResponseFile(aid) + ".success");
+
+            if (File.Exists(GetResponseFile(aid) + ".fail"))
+                File.Delete(GetResponseFile(aid) + ".fail");
+
+            try {
+                var obj = reader.ReadObject(responseBody);
+                File.WriteAllText(GetResponseFile(aid) + ".success", JsonConvert.SerializeObject(obj));
+            } catch (ResponseReadXmlException ex) {
+                File.WriteAllText(GetResponseFile(aid) + ".fail", ex.Message);
+            } catch (ResponseValidateXmlException ex) {
+                File.WriteAllLines(GetResponseFile(aid) + ".fail", ex.SchemaExceptions.Select(e => e.Message).ToArray());
             }
         }
 

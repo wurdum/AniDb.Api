@@ -549,6 +549,7 @@ namespace AniDb.Api.Models
         public int Id { get; set; }
         public DateTime Update { get; set; }
         public int Length { get; set; }
+        public bool? Recap { get; set; }
         public DateTime? AirDate { get; set; }
         public KeyValuePair<int, string>? Epno { get; set; }
         public KeyValuePair<int, double>? Rating { get; set; }

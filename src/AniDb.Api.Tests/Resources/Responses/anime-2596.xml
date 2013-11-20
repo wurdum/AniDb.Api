@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anime id="2596" restricted="false">
+    <type>Web</type>
+    <episodecount>44</episodecount>
+    <startdate>2000</startdate>
+    <enddate>2000</enddate>
+    <titles>
+        <title type="main" xml:lang="x-kot">Pucca</title>
+        <title type="synonym" xml:lang="ko">Pucca: Funny Love</title>
+        <title type="synonym" xml:lang="ko">뿌까</title>
+        <title type="synonym" xml:lang="x-kot">Funny Love</title>
+        <title type="official" xml:lang="en">Pucca Funny Love</title>
+        <title type="official" xml:lang="fr">Pucca Funny Love</title>
+        <title type="official" xml:lang="ru">Пукка</title>
+        <title type="official" xml:lang="ko">푸카</title>
+        <title type="official" xml:lang="pl">Pucca</title>
+        <title type="official" xml:lang="pt">Pucca</title>
+        <title type="official" xml:lang="da">Pucca Funny Love Story</title>
+        <title type="official" xml:lang="el">Η ΜΙΚΡΗ ΠΟΥΚΑ</title>
+        <title type="official" xml:lang="he">פוקה</title>
+        <title type="official" xml:lang="hu">Pucca</title>
+        <title type="official" xml:lang="tr">Pucca</title>
+        <title type="official" xml:lang="ro">Pucca</title>
+    </titles>
+    <relatedanime>
+        <anime id="5257" type="Sequel">Pucca (2006)</anime>
+    </relatedanime>
+    <url>http://puccaclub.com/eng/</url>
+    <description>Korean ONA (Original Network Anime), very funny and without any spoken dialogue.Pucca is a cute and energetic 10 years old Korean girl. Working as a delivery girl for the restaurant of her parents, she has one love obsession, Garu, and will do anything to kiss him!Garu is an aspiring ninja, often followed by his cat Mio. He`s shy, and always have to try to escape from Pucca`s traps. But she will absolutly never give up!Good thing both of them like chocolate!</description>
+    <ratings>
+        <permanent count="127">4.47</permanent>
+        <temporary count="137">6.62</temporary>
+    </ratings>
+    <picture>3560.jpg</picture>
+    <resources>
+        <resource type="1">
+            <externalentity>
+                <identifier>2567</identifier>
+            </externalentity>
+        </resource>
+        <resource type="2">
+            <externalentity>
+                <identifier>4069</identifier>
+            </externalentity>
+        </resource>
+        <resource type="4">
+            <externalentity>
+                <url>http://puccaclub.com/eng/</url>
+            </externalentity>
+        </resource>
+        <resource type="7">
+            <externalentity>
+                <identifier>プッカ</identifier>
+            </externalentity>
+        </resource>
+    </resources>
+    <tags>
+        <tag approval="2" globalspoiler="false" id="2851" localspoiler="false" spoiler="false" update="2012-07-04">
+            <name>manhwa</name>
+            <count>5</count>
+            <description>The Korean equivalent of the Japanese manga (has the look of a manga, but you read it like a western comic).</description>
+        </tag>
+        <tag approval="2" globalspoiler="false" id="285" localspoiler="false" spoiler="false" update="2008-06-02">
+            <name>short episodes</name>
+            <count>301</count>
+            <description>The episodes are either much shorter than the standard 25 minutes (e.g. web anime), or the episodes are split into several distinct independent segments (parts), that are then obviously much shorter in length.</description>
+        </tag>
+        <tag approval="1" globalspoiler="false" id="2186" localspoiler="false" spoiler="false" update="2012-07-10">
+            <name>Korean</name>
+            <count>26</count>
+            <description>This anime fits at least one of the following criteria: it was made in North and/or South Korea, it was produced by Korean companies or Korean individuals, and it sought the Korean market more importantly than those of other nations.</description>
+        </tag>
+    </tags>
+    <episodes>
+        <episode id="23620" update="2010-08-30">
+            <epno type="1">12</epno>
+            <length>3</length>
+            <title xml:lang="en">Fighting Korea 2</title>
+        </episode>
+        <episode id="23621" update="2010-08-26">
+            <epno type="1">1</epno>
+            <length>3</length>
+            <rating votes="2">4.21</rating>
+            <title xml:lang="en">Kissing with Icecream</title>
+        </episode>
+        <episode id="23622" update="2010-08-26">
+            <epno type="1">3</epno>
+            <length>3</length>
+            <title xml:lang="en">In Bamboo Field</title>
+        </episode>
+        <episode id="23623" update="2010-08-30">
+            <epno type="1">8</epno>
+            <length>3</length>
+            <rating votes="1">8.18</rating>
+            <title xml:lang="en">Battle in the Boat</title>
+        </episode>
+        <episode id="23624" update="2010-08-30">
+            <epno type="1">11</epno>
+            <length>3</length>
+            <title xml:lang="en">Fighting Korea 1</title>
+        </episode>
+        <episode id="23625" update="2010-08-30">
+            <epno type="1">13</epno>
+            <length>3</length>
+            <title xml:lang="en">Summer story</title>
+        </episode>
+        <episode id="23626" update="2010-08-30">
+            <epno type="1">5</epno>
+            <length>3</length>
+            <title xml:lang="en">Seol-joong-mong</title>
+        </episode>
+        <episode id="23627" update="2010-08-30">
+            <epno type="1">10</epno>
+            <length>3</length>
+            <title xml:lang="en">Happy Valentine</title>
+        </episode>
+        <episode id="23628" update="2010-08-30">
+            <epno type="1">6</epno>
+            <length>3</length>
+            <title xml:lang="en">Boon-Shin-sa-ma-jun</title>
+        </episode>
+        <episode id="23629" update="2010-08-30">
+            <epno type="1">9</epno>
+            <length>3</length>
+            <title xml:lang="en">X-MAS Story</title>
+        </episode>
+        <episode id="23630" update="2010-08-30">
+            <epno type="1">16</epno>
+            <length>3</length>
+            <title xml:lang="en">Sky Diving</title>
+        </episode>
+        <episode id="23631" update="2010-08-26">
+            <epno type="1">2</epno>
+            <length>3</length>
+            <title xml:lang="en">New Year`s Greeting</title>
+        </episode>
+        <episode id="23632" update="2010-08-26">
+            <epno type="1">4</epno>
+            <length>3</length>
+            <title xml:lang="en">War for take over mando</title>
+        </episode>
+        <episode id="23633" update="2010-08-30">
+            <epno type="1">7</epno>
+            <length>3</length>
+            <title xml:lang="en">Various Kissing Ways</title>
+        </episode>
+        <episode id="23634" update="2010-08-30">
+            <epno type="1">18</epno>
+            <length>3</length>
+            <title xml:lang="en">Oasis</title>
+        </episode>
+        <episode id="23635" update="2010-08-30">
+            <epno type="1">19</epno>
+            <length>3</length>
+            <title xml:lang="en">Time is up</title>
+        </episode>
+        <episode id="23636" update="2010-08-30">
+            <epno type="1">17</epno>
+            <length>3</length>
+            <title xml:lang="en">Choco Choco</title>
+        </episode>
+        <episode id="23637" update="2010-08-30">
+            <epno type="1">14</epno>
+            <length>3</length>
+            <title xml:lang="en">Blooded man`s training story</title>
+        </episode>
+        <episode id="23638" update="2010-08-30">
+            <epno type="1">15</epno>
+            <length>3</length>
+            <title xml:lang="en">Deliver, pucca!</title>
+        </episode>
+        <episode id="68621" update="2010-08-30">
+            <epno type="1">20</epno>
+            <length>3</length>
+            <rating votes="1">2.24</rating>
+            <title xml:lang="en">The Rival</title>
+        </episode>
+        <episode id="80392" update="2010-08-30">
+            <epno type="1">21</epno>
+            <length>3</length>
+            <title xml:lang="en">Pu Kong</title>
+        </episode>
+        <episode id="80393" update="2010-08-30">
+            <epno type="1">22</epno>
+            <length>3</length>
+            <title xml:lang="en">2004 Blackday</title>
+        </episode>
+        <episode id="80394" update="2010-08-30">
+            <epno type="1">23</epno>
+            <length>3</length>
+            <title xml:lang="en">Flower delivery</title>
+        </episode>
+        <episode id="80395" update="2010-08-30">
+            <epno type="1">24</epno>
+            <length>3</length>
+            <title xml:lang="en">Hottest Fighter Abyo</title>
+        </episode>
+        <episode id="80396" update="2010-08-30">
+            <epno type="1">25</epno>
+            <length>3</length>
+            <title xml:lang="en">The Frog Prince</title>
+        </episode>
+        <episode id="80397" update="2010-08-30">
+            <epno type="1">26</epno>
+            <length>3</length>
+            <title xml:lang="en">The ring</title>
+        </episode>
+        <episode id="80398" update="2010-08-30">
+            <epno type="1">27</epno>
+            <length>3</length>
+            <title xml:lang="en">Caughting in the rain</title>
+        </episode>
+        <episode id="80399" update="2010-08-30">
+            <epno type="1">28</epno>
+            <length>3</length>
+            <title xml:lang="en">The constellation of love</title>
+        </episode>
+        <episode id="80400" update="2010-08-30">
+            <epno type="1">29</epno>
+            <length>3</length>
+            <title xml:lang="en">Bungee Jump</title>
+        </episode>
+        <episode id="80401" update="2010-08-30">
+            <epno type="1">30</epno>
+            <length>3</length>
+            <title xml:lang="en">Winter Story</title>
+        </episode>
+        <episode id="80402" update="2010-08-30">
+            <epno type="1">31</epno>
+            <length>3</length>
+            <title xml:lang="en">Happy Valentine`s day</title>
+        </episode>
+        <episode id="80403" update="2010-08-30">
+            <epno type="1">32</epno>
+            <length>3</length>
+            <title xml:lang="en">Puccaland</title>
+        </episode>
+        <episode id="80404" update="2010-08-30">
+            <epno type="1">33</epno>
+            <length>3</length>
+            <title xml:lang="en">Episode 33</title>
+        </episode>
+        <episode id="80405" update="2010-08-30">
+            <epno type="1">34</epno>
+            <length>3</length>
+            <title xml:lang="en">Episode 34</title>
+        </episode>
+        <episode id="80406" update="2010-08-30">
+            <epno type="1">35</epno>
+            <length>3</length>
+            <title xml:lang="en">Episode 35</title>
+        </episode>
+        <episode id="80407" update="2010-08-30">
+            <epno type="1">36</epno>
+            <length>3</length>
+            <title xml:lang="en">Episode 36</title>
+        </episode>
+        <episode id="80408" update="2010-08-30">
+            <epno type="1">37</epno>
+            <length>3</length>
+            <title xml:lang="en">Episode 37</title>
+        </episode>
+        <episode id="80409" update="2010-08-30">
+            <epno type="1">38</epno>
+            <length>3</length>
+            <title xml:lang="en">Episode 38</title>
+        </episode>
+        <episode id="80410" update="2010-08-30">
+            <epno type="1">39</epno>
+            <length>3</length>
+            <title xml:lang="en">Episode 39</title>
+        </episode>
+        <episode id="80411" update="2010-08-30">
+            <epno type="1">40</epno>
+            <length>3</length>
+            <title xml:lang="en">Episode 40</title>
+        </episode>
+        <episode id="80412" update="2010-08-30">
+            <epno type="1">41</epno>
+            <length>3</length>
+            <title xml:lang="en">Episode 41</title>
+        </episode>
+        <episode id="80413" update="2010-08-30">
+            <epno type="1">42</epno>
+            <length>3</length>
+            <title xml:lang="en">Episode 42</title>
+        </episode>
+        <episode id="80414" update="2010-08-30">
+            <epno type="1">43</epno>
+            <length>3</length>
+            <title xml:lang="en">Episode 43</title>
+        </episode>
+        <episode id="80415" update="2010-08-30">
+            <epno type="1">44</epno>
+            <length>3</length>
+            <title xml:lang="en">Episode 44</title>
+        </episode>
+    </episodes>
+</anime>

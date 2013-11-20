@@ -583,6 +583,7 @@
       "Id": 8967,
       "Update": "2008-01-22T00:00:00",
       "Length": 30,
+      "Recap": null,
       "AirDate": "1998-02-25T00:00:00",
       "Epno": {
         "Key": 1,
@@ -603,6 +604,7 @@
       "Id": 8968,
       "Update": "2008-01-22T00:00:00",
       "Length": 30,
+      "Recap": null,
       "AirDate": "1998-10-25T00:00:00",
       "Epno": {
         "Key": 1,
@@ -623,6 +625,7 @@
       "Id": 146572,
       "Update": "2013-01-06T00:00:00",
       "Length": 1,
+      "Recap": null,
       "AirDate": null,
       "Epno": {
         "Key": 2,
@@ -640,6 +643,7 @@
       "Id": 146573,
       "Update": "2013-01-06T00:00:00",
       "Length": 1,
+      "Recap": null,
       "AirDate": null,
       "Epno": {
         "Key": 2,
@@ -657,6 +661,7 @@
       "Id": 146574,
       "Update": "2013-01-06T00:00:00",
       "Length": 2,
+      "Recap": null,
       "AirDate": null,
       "Epno": {
         "Key": 2,
@@ -674,6 +679,7 @@
       "Id": 146575,
       "Update": "2013-01-06T00:00:00",
       "Length": 2,
+      "Recap": null,
       "AirDate": null,
       "Epno": {
         "Key": 2,
@@ -691,6 +697,7 @@
       "Id": 146576,
       "Update": "2013-01-06T00:00:00",
       "Length": 10,
+      "Recap": null,
       "AirDate": null,
       "Epno": {
         "Key": 2,
@@ -708,6 +715,7 @@
       "Id": 146577,
       "Update": "2013-01-06T00:00:00",
       "Length": 10,
+      "Recap": null,
       "AirDate": null,
       "Epno": {
         "Key": 2,

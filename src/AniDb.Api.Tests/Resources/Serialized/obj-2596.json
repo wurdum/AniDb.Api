@@ -1,0 +1,998 @@
+{
+  "Id": 2596,
+  "Restricted": false,
+  "Type": "Web",
+  "Url": "http://puccaclub.com/eng/",
+  "Picture": "3560.jpg",
+  "Description": "Korean ONA (Original Network Anime), very funny and without any spoken dialogue.Pucca is a cute and energetic 10 years old Korean girl. Working as a delivery girl for the restaurant of her parents, she has one love obsession, Garu, and will do anything to kiss him!Garu is an aspiring ninja, often followed by his cat Mio. He`s shy, and always have to try to escape from Pucca`s traps. But she will absolutly never give up!Good thing both of them like chocolate!",
+  "EpisodeCount": 44,
+  "StartDate": "2000-01-01T00:00:00",
+  "EndDate": "2000-01-01T00:00:00",
+  "Titles": [
+    {
+      "Type": "main",
+      "Lang": "x-kot",
+      "Value": "Pucca"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "ko",
+      "Value": "Pucca: Funny Love"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "ko",
+      "Value": "뿌까"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "x-kot",
+      "Value": "Funny Love"
+    },
+    {
+      "Type": "official",
+      "Lang": "en",
+      "Value": "Pucca Funny Love"
+    },
+    {
+      "Type": "official",
+      "Lang": "fr",
+      "Value": "Pucca Funny Love"
+    },
+    {
+      "Type": "official",
+      "Lang": "ru",
+      "Value": "Пукка"
+    },
+    {
+      "Type": "official",
+      "Lang": "ko",
+      "Value": "푸카"
+    },
+    {
+      "Type": "official",
+      "Lang": "pl",
+      "Value": "Pucca"
+    },
+    {
+      "Type": "official",
+      "Lang": "pt",
+      "Value": "Pucca"
+    },
+    {
+      "Type": "official",
+      "Lang": "da",
+      "Value": "Pucca Funny Love Story"
+    },
+    {
+      "Type": "official",
+      "Lang": "el",
+      "Value": "Η ΜΙΚΡΗ ΠΟΥΚΑ"
+    },
+    {
+      "Type": "official",
+      "Lang": "he",
+      "Value": "פוקה"
+    },
+    {
+      "Type": "official",
+      "Lang": "hu",
+      "Value": "Pucca"
+    },
+    {
+      "Type": "official",
+      "Lang": "tr",
+      "Value": "Pucca"
+    },
+    {
+      "Type": "official",
+      "Lang": "ro",
+      "Value": "Pucca"
+    }
+  ],
+  "Similar": [],
+  "Related": [
+    {
+      "Id": 5257,
+      "Type": "Sequel",
+      "Value": "Pucca (2006)"
+    }
+  ],
+  "Recommendations": null,
+  "Creators": [],
+  "Rating": {
+    "Permanent": {
+      "Key": 127,
+      "Value": 4.47
+    },
+    "Temporary": {
+      "Key": 137,
+      "Value": 6.62
+    },
+    "Review": null
+  },
+  "Categories": [],
+  "Resources": [
+    {
+      "Type": 1,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "2567"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 2,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "4069"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 4,
+      "External": [
+        {
+          "Url": "http://puccaclub.com/eng/",
+          "Identifier": null
+        }
+      ]
+    },
+    {
+      "Type": 7,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "プッカ"
+          ]
+        }
+      ]
+    }
+  ],
+  "Tags": [
+    {
+      "Id": 2851,
+      "Count": 5,
+      "Name": "manhwa",
+      "Description": "The Korean equivalent of the Japanese manga (has the look of a manga, but you read it like a western comic).",
+      "Approval": 2,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2012-07-04T00:00:00"
+    },
+    {
+      "Id": 285,
+      "Count": 301,
+      "Name": "short episodes",
+      "Description": "The episodes are either much shorter than the standard 25 minutes (e.g. web anime), or the episodes are split into several distinct independent segments (parts), that are then obviously much shorter in length.",
+      "Approval": 2,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2008-06-02T00:00:00"
+    },
+    {
+      "Id": 2186,
+      "Count": 26,
+      "Name": "Korean",
+      "Description": "This anime fits at least one of the following criteria: it was made in North and/or South Korea, it was produced by Korean companies or Korean individuals, and it sought the Korean market more importantly than those of other nations.",
+      "Approval": 1,
+      "GlobalSpoiler": false,
+      "LocalSpoiler": false,
+      "Spoiler": false,
+      "Update": "2012-07-10T00:00:00"
+    }
+  ],
+  "Characters": [],
+  "Episodes": [
+    {
+      "Id": 23620,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "12"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Fighting Korea 2"
+        }
+      ]
+    },
+    {
+      "Id": 23621,
+      "Update": "2010-08-26T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "1"
+      },
+      "Rating": {
+        "Key": 2,
+        "Value": 4.21
+      },
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Kissing with Icecream"
+        }
+      ]
+    },
+    {
+      "Id": 23622,
+      "Update": "2010-08-26T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "3"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "In Bamboo Field"
+        }
+      ]
+    },
+    {
+      "Id": 23623,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "8"
+      },
+      "Rating": {
+        "Key": 1,
+        "Value": 8.18
+      },
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Battle in the Boat"
+        }
+      ]
+    },
+    {
+      "Id": 23624,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "11"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Fighting Korea 1"
+        }
+      ]
+    },
+    {
+      "Id": 23625,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "13"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Summer story"
+        }
+      ]
+    },
+    {
+      "Id": 23626,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "5"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Seol-joong-mong"
+        }
+      ]
+    },
+    {
+      "Id": 23627,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "10"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Happy Valentine"
+        }
+      ]
+    },
+    {
+      "Id": 23628,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "6"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Boon-Shin-sa-ma-jun"
+        }
+      ]
+    },
+    {
+      "Id": 23629,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "9"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "X-MAS Story"
+        }
+      ]
+    },
+    {
+      "Id": 23630,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "16"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Sky Diving"
+        }
+      ]
+    },
+    {
+      "Id": 23631,
+      "Update": "2010-08-26T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "2"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "New Year`s Greeting"
+        }
+      ]
+    },
+    {
+      "Id": 23632,
+      "Update": "2010-08-26T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "4"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "War for take over mando"
+        }
+      ]
+    },
+    {
+      "Id": 23633,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "7"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Various Kissing Ways"
+        }
+      ]
+    },
+    {
+      "Id": 23634,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "18"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Oasis"
+        }
+      ]
+    },
+    {
+      "Id": 23635,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "19"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Time is up"
+        }
+      ]
+    },
+    {
+      "Id": 23636,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "17"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Choco Choco"
+        }
+      ]
+    },
+    {
+      "Id": 23637,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "14"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Blooded man`s training story"
+        }
+      ]
+    },
+    {
+      "Id": 23638,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "15"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Deliver, pucca!"
+        }
+      ]
+    },
+    {
+      "Id": 68621,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "20"
+      },
+      "Rating": {
+        "Key": 1,
+        "Value": 2.24
+      },
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "The Rival"
+        }
+      ]
+    },
+    {
+      "Id": 80392,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "21"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Pu Kong"
+        }
+      ]
+    },
+    {
+      "Id": 80393,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "22"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "2004 Blackday"
+        }
+      ]
+    },
+    {
+      "Id": 80394,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "23"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Flower delivery"
+        }
+      ]
+    },
+    {
+      "Id": 80395,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "24"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Hottest Fighter Abyo"
+        }
+      ]
+    },
+    {
+      "Id": 80396,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "25"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "The Frog Prince"
+        }
+      ]
+    },
+    {
+      "Id": 80397,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "26"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "The ring"
+        }
+      ]
+    },
+    {
+      "Id": 80398,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "27"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Caughting in the rain"
+        }
+      ]
+    },
+    {
+      "Id": 80399,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "28"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "The constellation of love"
+        }
+      ]
+    },
+    {
+      "Id": 80400,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "29"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Bungee Jump"
+        }
+      ]
+    },
+    {
+      "Id": 80401,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "30"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Winter Story"
+        }
+      ]
+    },
+    {
+      "Id": 80402,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "31"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Happy Valentine`s day"
+        }
+      ]
+    },
+    {
+      "Id": 80403,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "32"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Puccaland"
+        }
+      ]
+    },
+    {
+      "Id": 80404,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "33"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 33"
+        }
+      ]
+    },
+    {
+      "Id": 80405,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "34"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 34"
+        }
+      ]
+    },
+    {
+      "Id": 80406,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "35"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 35"
+        }
+      ]
+    },
+    {
+      "Id": 80407,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "36"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 36"
+        }
+      ]
+    },
+    {
+      "Id": 80408,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "37"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 37"
+        }
+      ]
+    },
+    {
+      "Id": 80409,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "38"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 38"
+        }
+      ]
+    },
+    {
+      "Id": 80410,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "39"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 39"
+        }
+      ]
+    },
+    {
+      "Id": 80411,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "40"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 40"
+        }
+      ]
+    },
+    {
+      "Id": 80412,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "41"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 41"
+        }
+      ]
+    },
+    {
+      "Id": 80413,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "42"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 42"
+        }
+      ]
+    },
+    {
+      "Id": 80414,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "43"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 43"
+        }
+      ]
+    },
+    {
+      "Id": 80415,
+      "Update": "2010-08-30T00:00:00",
+      "Length": 3,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "44"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Episode 44"
+        }
+      ]
+    }
+  ]
+}

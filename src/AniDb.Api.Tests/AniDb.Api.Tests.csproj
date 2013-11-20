@@ -60,6 +60,9 @@
     <None Include="Resources\Serialized\obj-1774.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="Resources\Serialized\obj-2596.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Resources\Serialized\obj-314.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -70,6 +73,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Resources\Serialized\obj-4726.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\Serialized\obj-5081.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Resources\Serialized\obj-5101.json">
@@ -96,6 +102,9 @@
     <Content Include="Resources\Responses\anime-1774.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\Responses\anime-2596.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Responses\anime-314.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -108,7 +117,12 @@
     <Content Include="Resources\Responses\anime-4726.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Resources\Responses\anime-5101.xml" />
+    <Content Include="Resources\Responses\anime-5081.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Responses\anime-5101.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Responses\anime-6022.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anime id="5081" restricted="false">
+    <type>TV Series</type>
+    <episodecount>26</episodecount>
+    <startdate>1982-10</startdate>
+    <enddate>1983</enddate>
+    <titles>
+        <title type="main" xml:lang="x-jat">Ginga Patrol PJ</title>
+        <title type="synonym" xml:lang="it">C`era una volta... Lo Spazio</title>
+        <title type="synonym" xml:lang="nl">De verovering van de ruimte</title>
+        <title type="synonym" xml:lang="nl">Er was eens... Het Heelal</title>
+        <title type="official" xml:lang="ja">銀河パトロールPJ</title>
+        <title type="official" xml:lang="en">Once Upon a Time Was the Space</title>
+        <title type="official" xml:lang="de">Es war einmal ... der Weltraum</title>
+        <title type="official" xml:lang="fr">Il était une fois... l`espace</title>
+        <title type="official" xml:lang="it">Ai confini dell`universo</title>
+        <title type="official" xml:lang="pl">Był sobie kosmos</title>
+        <title type="official" xml:lang="pt">Era uma vez...O Espaço</title>
+        <title type="official" xml:lang="nl">Er was eens... De Ruimte</title>
+        <title type="official" xml:lang="fi">Olipa kerran avaruus</title>
+        <title type="official" xml:lang="el">Μια Φορά και έναν Καιρό ήταν το Διάστημα</title>
+        <title type="official" xml:lang="he">היה היה... חלל</title>
+        <title type="official" xml:lang="hu">Egyszer volt... a világűr</title>
+    </titles>
+    <relatedanime>
+        <anime id="5222" type="Alternative Setting">Seimei no Kagaku: Micro Patrol</anime>
+    </relatedanime>
+    <url>http://www.eiken-anime.jp/works/works031.html</url>
+    <creators>
+        <name id="775" type="Unknown Relation">Eiken</name>
+        <name id="3500" type="Direction">Takayashiki Hideo</name>
+        <name id="4287" type="Music">Makaino Kouji</name>
+        <name id="10395" type="Music">Michel Legrand</name>
+        <name id="10601" type="Work">Murata Hidenori</name>
+        <name id="6390" type="Series Composition">Watanabe Yonehiko</name>
+        <name id="6497" type="Music">Takeichi Masahisa</name>
+        <name id="18621" type="Original Plan">Albert Barille</name>
+    </creators>
+    <description>The story tells about the confrontation of many big galactic powers. Among them there is the Omega Confederation, of which Earth is a member of; the military republic of Cassiopeia led by the general The Pest; and a powerful supercomputer which controls an army of robots. A group of super powerful creatures called the Humanoids later appear in the series. Once Upon a Time... Space features the adventures of Peter (son of colonel Pierre and president Pierrette) and his friend Psi.Source: WikipediaNote: The series succeeds Once Upon a Time... Man. It reprises almost the entire totality of the characters of the previous series and adapts them into a science-fiction context. It differs from the rest of the Once Upon a Time titles in the sense that the series revolve on a dramatic content rather than an educational premise. The series still has a handful of educational information (such as an episode discussing the rings of the planet Saturn).</description>
+    <ratings>
+        <permanent count="40">5.04</permanent>
+        <temporary count="40">6.16</temporary>
+        <review count="1">6.00</review>
+    </ratings>
+    <picture>2758.gif</picture>
+    <resources>
+        <resource type="1">
+            <externalentity>
+                <identifier>11505</identifier>
+            </externalentity>
+        </resource>
+        <resource type="2">
+            <externalentity>
+                <identifier>11307</identifier>
+            </externalentity>
+        </resource>
+        <resource type="4">
+            <externalentity>
+                <url>http://www.eiken-anime.jp/works/works031.html</url>
+            </externalentity>
+        </resource>
+        <resource type="6">
+            <externalentity>
+                <identifier>Once_Upon_a_Time..._Space</identifier>
+            </externalentity>
+        </resource>
+        <resource type="7">
+            <externalentity>
+                <identifier>銀河パトロールPJ</identifier>
+            </externalentity>
+        </resource>
+        <resource type="9">
+            <externalentity>
+                <identifier>235377</identifier>
+            </externalentity>
+        </resource>
+        <resource type="10">
+            <externalentity>
+                <identifier>433</identifier>
+            </externalentity>
+        </resource>
+    </resources>
+    <episodes>
+        <episode id="73625" update="2007-05-23">
+            <epno type="1">1</epno>
+            <length>25</length>
+            <title xml:lang="ja">UFO接近コリブリ号発進...</title>
+            <title xml:lang="en">The Planet Omega</title>
+            <title xml:lang="de">Der Planet Omega</title>
+            <title xml:lang="fr">La planète Oméga</title>
+        </episode>
+        <episode id="73626" update="2007-05-23">
+            <epno type="1">26</epno>
+            <length>25</length>
+            <title xml:lang="ja">宇宙よ永遠に</title>
+            <title xml:lang="en">The Infinity of Space</title>
+            <title xml:lang="de">Die Entscheidung</title>
+            <title xml:lang="fr">L’infini de l’espace</title>
+        </episode>
+        <episode id="73627" update="2007-05-23">
+            <epno type="1">25</epno>
+            <length>25</length>
+            <title xml:lang="ja">銀河大戦争</title>
+            <title xml:lang="en">The Battle of the Titans</title>
+            <title xml:lang="de">Der Kampf der Titanen</title>
+            <title xml:lang="fr">Combat de Titans</title>
+        </episode>
+        <episode id="73628" update="2007-05-23">
+            <epno type="1">24</epno>
+            <length>25</length>
+            <title xml:lang="ja">G・コンピューターの正体</title>
+            <title xml:lang="en">The Great Computer</title>
+            <title xml:lang="de">Der große Computer</title>
+            <title xml:lang="fr">Le Grand Ordinateur</title>
+        </episode>
+        <episode id="73629" update="2007-05-23">
+            <epno type="1">23</epno>
+            <length>25</length>
+            <title xml:lang="ja">キャッスル浮上...</title>
+            <title xml:lang="en">City in Flight</title>
+            <title xml:lang="de">Auf nach Yama</title>
+            <title xml:lang="fr">Cité en vol</title>
+        </episode>
+        <episode id="73630" update="2007-05-23">
+            <epno type="1">22</epno>
+            <length>25</length>
+            <title xml:lang="ja">新しい仲間</title>
+            <title xml:lang="en">An Hostile World</title>
+            <title xml:lang="de">Gefahr auf Apis</title>
+            <title xml:lang="fr">Un monde hostile</title>
+        </episode>
+        <episode id="73631" update="2007-05-23">
+            <epno type="1">21</epno>
+            <length>25</length>
+            <title xml:lang="ja">追跡を逃れて</title>
+            <title xml:lang="en">The Humanoids</title>
+            <title xml:lang="de">Bruchlandung</title>
+            <title xml:lang="fr">Les humanoïdes</title>
+        </episode>
+        <episode id="73632" update="2007-05-23">
+            <epno type="1">20</epno>
+            <length>25</length>
+            <title xml:lang="ja">がんばれ!メトロ</title>
+            <title xml:lang="en">The Revenge of the Robots</title>
+            <title xml:lang="de">Die Rache der Roboter</title>
+            <title xml:lang="fr">La revanches des robots</title>
+        </episode>
+        <episode id="73633" update="2007-05-23">
+            <epno type="1">19</epno>
+            <length>25</length>
+            <title xml:lang="ja">オメガへの不思議な旅</title>
+            <title xml:lang="en">The Strange Return to Omega</title>
+            <title xml:lang="de">Rückkehr mit Hindernissen</title>
+            <title xml:lang="fr">L’étrange retour vers Oméga</title>
+        </episode>
+        <episode id="73634" update="2007-05-23">
+            <epno type="1">18</epno>
+            <length>25</length>
+            <title xml:lang="ja">失われた都市</title>
+            <title xml:lang="en">Atlantis</title>
+            <title xml:lang="de">Die versunkene Stadt</title>
+            <title xml:lang="fr">L’Atlantide</title>
+        </episode>
+        <episode id="73635" update="2007-05-23">
+            <epno type="1">17</epno>
+            <length>25</length>
+            <title xml:lang="ja">ふるさと地球へ</title>
+            <title xml:lang="en">Earth!</title>
+            <title xml:lang="de">Der blaue Planet</title>
+            <title xml:lang="fr">Terre !</title>
+        </episode>
+        <episode id="73636" update="2007-05-23">
+            <epno type="1">16</epno>
+            <length>25</length>
+            <title xml:lang="ja">ミサイル爆発3時0分</title>
+            <title xml:lang="en">The Unstoppable Menace</title>
+            <title xml:lang="de">Erde in Gefahr</title>
+            <title xml:lang="fr">L’imparable menace</title>
+        </episode>
+        <episode id="73637" update="2007-05-23">
+            <epno type="1">15</epno>
+            <length>25</length>
+            <title xml:lang="ja">なぞのヒューマノイド</title>
+            <title xml:lang="en">The Rings of Saturn</title>
+            <title xml:lang="de">Die Ringe des Saturn</title>
+            <title xml:lang="fr">Les anneaux de Saturne</title>
+        </episode>
+        <episode id="73638" update="2007-05-23">
+            <epno type="1">14</epno>
+            <length>25</length>
+            <title xml:lang="ja">恐竜惑星F1</title>
+            <title xml:lang="en">In the Land of the Dinosaurs</title>
+            <title xml:lang="de">Im Land der Dinosaurier</title>
+            <title xml:lang="fr">Chez les dinosaures</title>
+        </episode>
+        <episode id="73639" update="2007-05-23">
+            <epno type="1">13</epno>
+            <length>25</length>
+            <title xml:lang="ja">インカ星人の伝説</title>
+            <title xml:lang="en">The Incas</title>
+            <title xml:lang="de">Die Götter kamen vom Himmel</title>
+            <title xml:lang="fr">Les Incas</title>
+        </episode>
+        <episode id="73640" update="2007-05-23">
+            <epno type="1">12</epno>
+            <length>25</length>
+            <title xml:lang="ja">ジャイアントアリの闘い</title>
+            <title xml:lang="en">The Giants</title>
+            <title xml:lang="de">Auf der Suche nach dem Leben</title>
+            <title xml:lang="fr">Les géants</title>
+        </episode>
+        <episode id="73641" update="2007-05-23">
+            <epno type="1">11</epno>
+            <length>25</length>
+            <title xml:lang="ja">銀河の果てに</title>
+            <title xml:lang="en">Shipwrecked in Space</title>
+            <title xml:lang="de">Verschollen im Weltall</title>
+            <title xml:lang="fr">Les naufragés de l’espace</title>
+        </episode>
+        <episode id="73642" update="2007-05-23">
+            <epno type="1">10</epno>
+            <length>25</length>
+            <title xml:lang="ja">アルサ星人救出作戦</title>
+            <title xml:lang="en">A Planet Blown to Pieces!</title>
+            <title xml:lang="de">In geheimer Mission</title>
+            <title xml:lang="fr">La planète déchiquetée</title>
+        </episode>
+        <episode id="73643" update="2007-05-23">
+            <epno type="1">9</epno>
+            <length>25</length>
+            <title xml:lang="ja">ペスト将軍の企み</title>
+            <title xml:lang="en">In Cassiopea</title>
+            <title xml:lang="de">Gefangen auf Kassiopeia</title>
+            <title xml:lang="fr">À Cassiopée</title>
+        </episode>
+        <episode id="73644" update="2007-05-23">
+            <epno type="1">8</epno>
+            <length>25</length>
+            <title xml:lang="ja">地球からの訪問者</title>
+            <title xml:lang="en">The Long Voyage</title>
+            <title xml:lang="de">Die lange Reise</title>
+            <title xml:lang="fr">Le long voyage</title>
+        </episode>
+        <episode id="73645" update="2007-05-23">
+            <epno type="1">7</epno>
+            <length>25</length>
+            <title xml:lang="ja">ニューオリンポス発見!</title>
+            <title xml:lang="en">The Planet Mytho</title>
+            <title xml:lang="de">Ein Planet namens Mytho</title>
+            <title xml:lang="fr">La planète Mytho</title>
+        </episode>
+        <episode id="73646" update="2007-05-23">
+            <epno type="1">6</epno>
+            <length>25</length>
+            <title xml:lang="ja">SOS!ドラゴンフライ号</title>
+            <title xml:lang="en">The Revolt of the Robots</title>
+            <title xml:lang="de">Der Aufstand der Roboter</title>
+            <title xml:lang="fr">La révolte des robots</title>
+        </episode>
+        <episode id="73647" update="2007-05-23">
+            <epno type="1">5</epno>
+            <length>25</length>
+            <title xml:lang="ja">ロボット都市の反乱</title>
+            <title xml:lang="en">The Cro-Magnons</title>
+            <title xml:lang="de">Reise in die Vergangenheit</title>
+            <title xml:lang="fr">Les Cro-magnons</title>
+        </episode>
+        <episode id="73648" update="2007-05-23">
+            <epno type="1">4</epno>
+            <length>25</length>
+            <title xml:lang="ja">原始惑星デイアンを守れ!</title>
+            <title xml:lang="en">Towards Andromeda</title>
+            <title xml:lang="de">Was ist los auf Andromeda?</title>
+            <title xml:lang="fr">Du côté d’Andromède</title>
+        </episode>
+        <episode id="73649" update="2007-05-23">
+            <epno type="1">3</epno>
+            <length>25</length>
+            <title xml:lang="ja">怒りのグリーンキング</title>
+            <title xml:lang="en">The Green Planet</title>
+            <title xml:lang="de">Der grüne Planet</title>
+            <title xml:lang="fr">La planète verte</title>
+        </episode>
+        <episode id="73650" update="2007-05-23">
+            <epno type="1">2</epno>
+            <length>25</length>
+            <title xml:lang="ja">指令ラゴ星を探査せよ</title>
+            <title xml:lang="en">The Saurians</title>
+            <title xml:lang="de">Der Saurier</title>
+            <title xml:lang="fr">Les Sauriens</title>
+        </episode>
+        <episode id="73651" recap="true" update="2010-04-16">
+            <epno type="2">S1</epno>
+            <length>95</length>
+            <title xml:lang="en">Movie</title>
+            <title xml:lang="fr">La revanche des Humanoïdes</title>
+        </episode>
+        <episode id="124202" update="2010-10-17">
+            <epno type="3">C2</epno>
+            <length>0</length>
+            <title xml:lang="en">Outro</title>
+        </episode>
+        <episode id="124203" update="2010-10-17">
+            <epno type="3">C1</epno>
+            <length>2</length>
+            <title xml:lang="en">Intro</title>
+        </episode>
+    </episodes>
+</anime>

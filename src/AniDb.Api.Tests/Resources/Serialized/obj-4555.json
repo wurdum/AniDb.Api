@@ -667,6 +667,7 @@
       "Id": 63639,
       "Update": "2006-09-26T00:00:00",
       "Length": 1,
+      "Recap": null,
       "AirDate": null,
       "Epno": {
         "Key": 4,
@@ -684,6 +685,7 @@
       "Id": 64194,
       "Update": "2011-10-20T00:00:00",
       "Length": 25,
+      "Recap": null,
       "AirDate": "2006-10-13T00:00:00",
       "Epno": {
         "Key": 1,
@@ -716,6 +718,7 @@
       "Id": 64195,
       "Update": "2011-10-20T00:00:00",
       "Length": 25,
+      "Recap": null,
       "AirDate": "2006-10-20T00:00:00",
       "Epno": {
         "Key": 1,
@@ -748,6 +751,7 @@
       "Id": 64196,
       "Update": "2011-10-20T00:00:00",
       "Length": 25,
+      "Recap": null,
       "AirDate": "2006-10-27T00:00:00",
       "Epno": {
         "Key": 1,
@@ -780,6 +784,7 @@
       "Id": 64197,
       "Update": "2011-10-20T00:00:00",
       "Length": 25,
+      "Recap": null,
       "AirDate": "2006-11-03T00:00:00",
       "Epno": {
         "Key": 1,
@@ -812,6 +817,7 @@
       "Id": 64198,
       "Update": "2011-10-20T00:00:00",
       "Length": 25,
+      "Recap": null,
       "AirDate": "2006-11-10T00:00:00",
       "Epno": {
         "Key": 1,
@@ -844,6 +850,7 @@
       "Id": 65955,
       "Update": "2011-10-20T00:00:00",
       "Length": 25,
+      "Recap": null,
       "AirDate": "2006-11-17T00:00:00",
       "Epno": {
         "Key": 1,
@@ -876,6 +883,7 @@
       "Id": 65956,
       "Update": "2011-10-20T00:00:00",
       "Length": 25,
+      "Recap": null,
       "AirDate": "2006-11-24T00:00:00",
       "Epno": {
         "Key": 1,
@@ -908,6 +916,7 @@
       "Id": 65957,
       "Update": "2011-10-20T00:00:00",
       "Length": 25,
+      "Recap": null,
       "AirDate": "2006-12-01T00:00:00",
       "Epno": {
         "Key": 1,
@@ -940,6 +949,7 @@
       "Id": 65958,
       "Update": "2011-10-20T00:00:00",
       "Length": 25,
+      "Recap": null,
       "AirDate": "2006-12-08T00:00:00",
       "Epno": {
         "Key": 1,
@@ -972,6 +982,7 @@
       "Id": 65959,
       "Update": "2011-10-20T00:00:00",
       "Length": 25,
+      "Recap": null,
       "AirDate": "2006-12-15T00:00:00",
       "Epno": {
         "Key": 1,
@@ -1004,6 +1015,7 @@
       "Id": 65960,
       "Update": "2011-10-20T00:00:00",
       "Length": 25,
+      "Recap": null,
       "AirDate": "2006-12-22T00:00:00",
       "Epno": {
         "Key": 1,
@@ -1036,6 +1048,7 @@
       "Id": 125407,
       "Update": "2010-11-23T00:00:00",
       "Length": 0,
+      "Recap": null,
       "AirDate": null,
       "Epno": {
         "Key": 3,
@@ -1053,6 +1066,7 @@
       "Id": 125408,
       "Update": "2010-11-23T00:00:00",
       "Length": 0,
+      "Recap": null,
       "AirDate": null,
       "Epno": {
         "Key": 3,

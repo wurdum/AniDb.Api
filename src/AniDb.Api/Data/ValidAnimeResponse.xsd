@@ -6,8 +6,8 @@
       <xs:choice maxOccurs="unbounded">
         <xs:element name="type" type="xs:string" />
         <xs:element name="episodecount" type="xs:unsignedShort" />
-        <xs:element name="startdate" type="xs:date" />
-        <xs:element minOccurs="0" name="enddate" type="xs:date" />
+        <xs:element name="startdate" type="xs:string" />
+        <xs:element minOccurs="0" name="enddate" type="xs:string" />
         <xs:element name="titles">
           <xs:complexType>
             <xs:sequence>
@@ -219,7 +219,7 @@
                         <xs:simpleContent>
                           <xs:extension base="xs:string">
                             <xs:attribute name="id" type="xs:unsignedShort" use="required" />
-                            <xs:attribute name="picture" type="xs:string" use="required" />
+                            <xs:attribute name="picture" type="xs:string" use="optional" />
                           </xs:extension>
                         </xs:simpleContent>
                       </xs:complexType>
@@ -271,6 +271,7 @@
                   </xs:choice>
                   <xs:attribute name="id" type="xs:unsignedInt" use="required" />
                   <xs:attribute name="update" type="xs:date" use="required" />
+                  <xs:attribute name="recap" type="xs:boolean" use="optional" />
                 </xs:complexType>
               </xs:element>
             </xs:sequence>

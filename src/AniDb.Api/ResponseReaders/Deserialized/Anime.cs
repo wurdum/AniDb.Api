@@ -1283,6 +1283,10 @@ public partial class animeEpisode {
     private uint idField;
     
     private System.DateTime updateField;
+
+    private bool recapField;
+
+    private bool recapFieldSpecified;
     
     /// <remarks/>
     [System.Xml.Serialization.XmlElementAttribute("airdate", typeof(System.DateTime), DataType="date")]
@@ -1309,7 +1313,7 @@ public partial class animeEpisode {
             this.idField = value;
         }
     }
-    
+
     /// <remarks/>
     [System.Xml.Serialization.XmlAttributeAttribute(DataType="date")]
     public System.DateTime update {
@@ -1318,6 +1322,28 @@ public partial class animeEpisode {
         }
         set {
             this.updateField = value;
+        }
+    }
+
+    /// <remarks/>
+    [XmlAttribute()]
+    public bool recap {
+        get {
+            return this.recapField;
+        }
+        set {
+            this.recapField = value;
+        }
+    }
+
+    /// <remarks/>
+    [System.Xml.Serialization.XmlIgnoreAttribute()]
+    public bool recapSpecified {
+        get {
+            return this.recapFieldSpecified;
+        }
+        set {
+            this.recapFieldSpecified = value;
         }
     }
 }

@@ -59,7 +59,7 @@ namespace AniDb.Api.ResponseReaders.Mappers
         }
 
         protected virtual Episode ParseEpisode(animeEpisode e) {
-            var episode = new Episode {Id = Convert.ToInt32(e.id), Update = e.update};
+            var episode = new Episode {Id = Convert.ToInt32(e.id), Update = e.update, Recap = e.recapSpecified ? e.recap : (bool?)null};
             var titles = new List<KeyValuePair<string, string>>();
             foreach (var item in e.Items) {
                 var type = item.GetType();

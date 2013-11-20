@@ -1,0 +1,1078 @@
+{
+  "Id": 5081,
+  "Restricted": false,
+  "Type": "TV Series",
+  "Url": "http://www.eiken-anime.jp/works/works031.html",
+  "Picture": "2758.gif",
+  "Description": "The story tells about the confrontation of many big galactic powers. Among them there is the Omega Confederation, of which Earth is a member of; the military republic of Cassiopeia led by the general The Pest; and a powerful supercomputer which controls an army of robots. A group of super powerful creatures called the Humanoids later appear in the series. Once Upon a Time... Space features the adventures of Peter (son of colonel Pierre and president Pierrette) and his friend Psi.Source: WikipediaNote: The series succeeds Once Upon a Time... Man. It reprises almost the entire totality of the characters of the previous series and adapts them into a science-fiction context. It differs from the rest of the Once Upon a Time titles in the sense that the series revolve on a dramatic content rather than an educational premise. The series still has a handful of educational information (such as an episode discussing the rings of the planet Saturn).",
+  "EpisodeCount": 26,
+  "StartDate": "1982-10-01T00:00:00",
+  "EndDate": "1983-01-01T00:00:00",
+  "Titles": [
+    {
+      "Type": "main",
+      "Lang": "x-jat",
+      "Value": "Ginga Patrol PJ"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "it",
+      "Value": "C`era una volta... Lo Spazio"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "nl",
+      "Value": "De verovering van de ruimte"
+    },
+    {
+      "Type": "synonym",
+      "Lang": "nl",
+      "Value": "Er was eens... Het Heelal"
+    },
+    {
+      "Type": "official",
+      "Lang": "ja",
+      "Value": "銀河パトロールPJ"
+    },
+    {
+      "Type": "official",
+      "Lang": "en",
+      "Value": "Once Upon a Time Was the Space"
+    },
+    {
+      "Type": "official",
+      "Lang": "de",
+      "Value": "Es war einmal ... der Weltraum"
+    },
+    {
+      "Type": "official",
+      "Lang": "fr",
+      "Value": "Il était une fois... l`espace"
+    },
+    {
+      "Type": "official",
+      "Lang": "it",
+      "Value": "Ai confini dell`universo"
+    },
+    {
+      "Type": "official",
+      "Lang": "pl",
+      "Value": "Był sobie kosmos"
+    },
+    {
+      "Type": "official",
+      "Lang": "pt",
+      "Value": "Era uma vez...O Espaço"
+    },
+    {
+      "Type": "official",
+      "Lang": "nl",
+      "Value": "Er was eens... De Ruimte"
+    },
+    {
+      "Type": "official",
+      "Lang": "fi",
+      "Value": "Olipa kerran avaruus"
+    },
+    {
+      "Type": "official",
+      "Lang": "el",
+      "Value": "Μια Φορά και έναν Καιρό ήταν το Διάστημα"
+    },
+    {
+      "Type": "official",
+      "Lang": "he",
+      "Value": "היה היה... חלל"
+    },
+    {
+      "Type": "official",
+      "Lang": "hu",
+      "Value": "Egyszer volt... a világűr"
+    }
+  ],
+  "Similar": [],
+  "Related": [
+    {
+      "Id": 5222,
+      "Type": "Alternative Setting",
+      "Value": "Seimei no Kagaku: Micro Patrol"
+    }
+  ],
+  "Recommendations": null,
+  "Creators": [
+    {
+      "Id": 775,
+      "Type": "Unknown Relation",
+      "Value": "Eiken"
+    },
+    {
+      "Id": 3500,
+      "Type": "Direction",
+      "Value": "Takayashiki Hideo"
+    },
+    {
+      "Id": 4287,
+      "Type": "Music",
+      "Value": "Makaino Kouji"
+    },
+    {
+      "Id": 10395,
+      "Type": "Music",
+      "Value": "Michel Legrand"
+    },
+    {
+      "Id": 10601,
+      "Type": "Work",
+      "Value": "Murata Hidenori"
+    },
+    {
+      "Id": 6390,
+      "Type": "Series Composition",
+      "Value": "Watanabe Yonehiko"
+    },
+    {
+      "Id": 6497,
+      "Type": "Music",
+      "Value": "Takeichi Masahisa"
+    },
+    {
+      "Id": 18621,
+      "Type": "Original Plan",
+      "Value": "Albert Barille"
+    }
+  ],
+  "Rating": {
+    "Permanent": {
+      "Key": 40,
+      "Value": 5.04
+    },
+    "Temporary": {
+      "Key": 40,
+      "Value": 6.16
+    },
+    "Review": {
+      "Key": 1,
+      "Value": 6.0
+    }
+  },
+  "Categories": [],
+  "Resources": [
+    {
+      "Type": 1,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "11505"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 2,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "11307"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 4,
+      "External": [
+        {
+          "Url": "http://www.eiken-anime.jp/works/works031.html",
+          "Identifier": null
+        }
+      ]
+    },
+    {
+      "Type": 6,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "Once_Upon_a_Time..._Space"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 7,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "銀河パトロールPJ"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 9,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "235377"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": 10,
+      "External": [
+        {
+          "Url": null,
+          "Identifier": [
+            "433"
+          ]
+        }
+      ]
+    }
+  ],
+  "Tags": [],
+  "Characters": [],
+  "Episodes": [
+    {
+      "Id": 73625,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "1"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "UFO接近コリブリ号発進..."
+        },
+        {
+          "Key": "en",
+          "Value": "The Planet Omega"
+        },
+        {
+          "Key": "de",
+          "Value": "Der Planet Omega"
+        },
+        {
+          "Key": "fr",
+          "Value": "La planète Oméga"
+        }
+      ]
+    },
+    {
+      "Id": 73626,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "26"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "宇宙よ永遠に"
+        },
+        {
+          "Key": "en",
+          "Value": "The Infinity of Space"
+        },
+        {
+          "Key": "de",
+          "Value": "Die Entscheidung"
+        },
+        {
+          "Key": "fr",
+          "Value": "L’infini de l’espace"
+        }
+      ]
+    },
+    {
+      "Id": 73627,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "25"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "銀河大戦争"
+        },
+        {
+          "Key": "en",
+          "Value": "The Battle of the Titans"
+        },
+        {
+          "Key": "de",
+          "Value": "Der Kampf der Titanen"
+        },
+        {
+          "Key": "fr",
+          "Value": "Combat de Titans"
+        }
+      ]
+    },
+    {
+      "Id": 73628,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "24"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "G・コンピューターの正体"
+        },
+        {
+          "Key": "en",
+          "Value": "The Great Computer"
+        },
+        {
+          "Key": "de",
+          "Value": "Der große Computer"
+        },
+        {
+          "Key": "fr",
+          "Value": "Le Grand Ordinateur"
+        }
+      ]
+    },
+    {
+      "Id": 73629,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "23"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "キャッスル浮上..."
+        },
+        {
+          "Key": "en",
+          "Value": "City in Flight"
+        },
+        {
+          "Key": "de",
+          "Value": "Auf nach Yama"
+        },
+        {
+          "Key": "fr",
+          "Value": "Cité en vol"
+        }
+      ]
+    },
+    {
+      "Id": 73630,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "22"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "新しい仲間"
+        },
+        {
+          "Key": "en",
+          "Value": "An Hostile World"
+        },
+        {
+          "Key": "de",
+          "Value": "Gefahr auf Apis"
+        },
+        {
+          "Key": "fr",
+          "Value": "Un monde hostile"
+        }
+      ]
+    },
+    {
+      "Id": 73631,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "21"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "追跡を逃れて"
+        },
+        {
+          "Key": "en",
+          "Value": "The Humanoids"
+        },
+        {
+          "Key": "de",
+          "Value": "Bruchlandung"
+        },
+        {
+          "Key": "fr",
+          "Value": "Les humanoïdes"
+        }
+      ]
+    },
+    {
+      "Id": 73632,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "20"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "がんばれ!メトロ"
+        },
+        {
+          "Key": "en",
+          "Value": "The Revenge of the Robots"
+        },
+        {
+          "Key": "de",
+          "Value": "Die Rache der Roboter"
+        },
+        {
+          "Key": "fr",
+          "Value": "La revanches des robots"
+        }
+      ]
+    },
+    {
+      "Id": 73633,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "19"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "オメガへの不思議な旅"
+        },
+        {
+          "Key": "en",
+          "Value": "The Strange Return to Omega"
+        },
+        {
+          "Key": "de",
+          "Value": "Rückkehr mit Hindernissen"
+        },
+        {
+          "Key": "fr",
+          "Value": "L’étrange retour vers Oméga"
+        }
+      ]
+    },
+    {
+      "Id": 73634,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "18"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "失われた都市"
+        },
+        {
+          "Key": "en",
+          "Value": "Atlantis"
+        },
+        {
+          "Key": "de",
+          "Value": "Die versunkene Stadt"
+        },
+        {
+          "Key": "fr",
+          "Value": "L’Atlantide"
+        }
+      ]
+    },
+    {
+      "Id": 73635,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "17"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ふるさと地球へ"
+        },
+        {
+          "Key": "en",
+          "Value": "Earth!"
+        },
+        {
+          "Key": "de",
+          "Value": "Der blaue Planet"
+        },
+        {
+          "Key": "fr",
+          "Value": "Terre !"
+        }
+      ]
+    },
+    {
+      "Id": 73636,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "16"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ミサイル爆発3時0分"
+        },
+        {
+          "Key": "en",
+          "Value": "The Unstoppable Menace"
+        },
+        {
+          "Key": "de",
+          "Value": "Erde in Gefahr"
+        },
+        {
+          "Key": "fr",
+          "Value": "L’imparable menace"
+        }
+      ]
+    },
+    {
+      "Id": 73637,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "15"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "なぞのヒューマノイド"
+        },
+        {
+          "Key": "en",
+          "Value": "The Rings of Saturn"
+        },
+        {
+          "Key": "de",
+          "Value": "Die Ringe des Saturn"
+        },
+        {
+          "Key": "fr",
+          "Value": "Les anneaux de Saturne"
+        }
+      ]
+    },
+    {
+      "Id": 73638,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "14"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "恐竜惑星F1"
+        },
+        {
+          "Key": "en",
+          "Value": "In the Land of the Dinosaurs"
+        },
+        {
+          "Key": "de",
+          "Value": "Im Land der Dinosaurier"
+        },
+        {
+          "Key": "fr",
+          "Value": "Chez les dinosaures"
+        }
+      ]
+    },
+    {
+      "Id": 73639,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "13"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "インカ星人の伝説"
+        },
+        {
+          "Key": "en",
+          "Value": "The Incas"
+        },
+        {
+          "Key": "de",
+          "Value": "Die Götter kamen vom Himmel"
+        },
+        {
+          "Key": "fr",
+          "Value": "Les Incas"
+        }
+      ]
+    },
+    {
+      "Id": 73640,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "12"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ジャイアントアリの闘い"
+        },
+        {
+          "Key": "en",
+          "Value": "The Giants"
+        },
+        {
+          "Key": "de",
+          "Value": "Auf der Suche nach dem Leben"
+        },
+        {
+          "Key": "fr",
+          "Value": "Les géants"
+        }
+      ]
+    },
+    {
+      "Id": 73641,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "11"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "銀河の果てに"
+        },
+        {
+          "Key": "en",
+          "Value": "Shipwrecked in Space"
+        },
+        {
+          "Key": "de",
+          "Value": "Verschollen im Weltall"
+        },
+        {
+          "Key": "fr",
+          "Value": "Les naufragés de l’espace"
+        }
+      ]
+    },
+    {
+      "Id": 73642,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "10"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "アルサ星人救出作戦"
+        },
+        {
+          "Key": "en",
+          "Value": "A Planet Blown to Pieces!"
+        },
+        {
+          "Key": "de",
+          "Value": "In geheimer Mission"
+        },
+        {
+          "Key": "fr",
+          "Value": "La planète déchiquetée"
+        }
+      ]
+    },
+    {
+      "Id": 73643,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "9"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ペスト将軍の企み"
+        },
+        {
+          "Key": "en",
+          "Value": "In Cassiopea"
+        },
+        {
+          "Key": "de",
+          "Value": "Gefangen auf Kassiopeia"
+        },
+        {
+          "Key": "fr",
+          "Value": "À Cassiopée"
+        }
+      ]
+    },
+    {
+      "Id": 73644,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "8"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "地球からの訪問者"
+        },
+        {
+          "Key": "en",
+          "Value": "The Long Voyage"
+        },
+        {
+          "Key": "de",
+          "Value": "Die lange Reise"
+        },
+        {
+          "Key": "fr",
+          "Value": "Le long voyage"
+        }
+      ]
+    },
+    {
+      "Id": 73645,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "7"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ニューオリンポス発見!"
+        },
+        {
+          "Key": "en",
+          "Value": "The Planet Mytho"
+        },
+        {
+          "Key": "de",
+          "Value": "Ein Planet namens Mytho"
+        },
+        {
+          "Key": "fr",
+          "Value": "La planète Mytho"
+        }
+      ]
+    },
+    {
+      "Id": 73646,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "6"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "SOS!ドラゴンフライ号"
+        },
+        {
+          "Key": "en",
+          "Value": "The Revolt of the Robots"
+        },
+        {
+          "Key": "de",
+          "Value": "Der Aufstand der Roboter"
+        },
+        {
+          "Key": "fr",
+          "Value": "La révolte des robots"
+        }
+      ]
+    },
+    {
+      "Id": 73647,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "5"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "ロボット都市の反乱"
+        },
+        {
+          "Key": "en",
+          "Value": "The Cro-Magnons"
+        },
+        {
+          "Key": "de",
+          "Value": "Reise in die Vergangenheit"
+        },
+        {
+          "Key": "fr",
+          "Value": "Les Cro-magnons"
+        }
+      ]
+    },
+    {
+      "Id": 73648,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "4"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "原始惑星デイアンを守れ!"
+        },
+        {
+          "Key": "en",
+          "Value": "Towards Andromeda"
+        },
+        {
+          "Key": "de",
+          "Value": "Was ist los auf Andromeda?"
+        },
+        {
+          "Key": "fr",
+          "Value": "Du côté d’Andromède"
+        }
+      ]
+    },
+    {
+      "Id": 73649,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "3"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "怒りのグリーンキング"
+        },
+        {
+          "Key": "en",
+          "Value": "The Green Planet"
+        },
+        {
+          "Key": "de",
+          "Value": "Der grüne Planet"
+        },
+        {
+          "Key": "fr",
+          "Value": "La planète verte"
+        }
+      ]
+    },
+    {
+      "Id": 73650,
+      "Update": "2007-05-23T00:00:00",
+      "Length": 25,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 1,
+        "Value": "2"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "ja",
+          "Value": "指令ラゴ星を探査せよ"
+        },
+        {
+          "Key": "en",
+          "Value": "The Saurians"
+        },
+        {
+          "Key": "de",
+          "Value": "Der Saurier"
+        },
+        {
+          "Key": "fr",
+          "Value": "Les Sauriens"
+        }
+      ]
+    },
+    {
+      "Id": 73651,
+      "Update": "2010-04-16T00:00:00",
+      "Length": 95,
+      "Recap": true,
+      "AirDate": null,
+      "Epno": {
+        "Key": 2,
+        "Value": "S1"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Movie"
+        },
+        {
+          "Key": "fr",
+          "Value": "La revanche des Humanoïdes"
+        }
+      ]
+    },
+    {
+      "Id": 124202,
+      "Update": "2010-10-17T00:00:00",
+      "Length": 0,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 3,
+        "Value": "C2"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Outro"
+        }
+      ]
+    },
+    {
+      "Id": 124203,
+      "Update": "2010-10-17T00:00:00",
+      "Length": 2,
+      "Recap": null,
+      "AirDate": null,
+      "Epno": {
+        "Key": 3,
+        "Value": "C1"
+      },
+      "Rating": null,
+      "Titles": [
+        {
+          "Key": "en",
+          "Value": "Intro"
+        }
+      ]
+    }
+  ]
+}

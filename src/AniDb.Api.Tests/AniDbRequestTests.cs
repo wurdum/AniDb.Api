@@ -16,9 +16,14 @@ namespace AniDb.Api.Tests
         private const string ClientErrorBody = "<error>Client Values Missing or Invalid</error>";
         private const string AidErrorBody = "<error>Anime not found</error>";
 
-        [Test, TestCaseSource("RequestBuilderUrlCases")]
-        public string RequstBuilderUrlTest(ClientCredentials client, Requests.RequestTarget requestTarget, object[] pars) {
+        [Test, TestCaseSource("RequestBuilderAnimeUrlCases")]
+        public string RequstBuilderAnimeUrlTest(ClientCredentials client, object[] pars) {
             return Requests.CreateToAnime(client, (int)pars[0]).Uri.ToString();
+        }
+
+        [Test, TestCaseSource("RequestBuilderCategoryUrlCases")]
+        public string RequestBuilderCategoryUrlTest(ClientCredentials client) {
+            return Requests.CreateToCategory(client).Uri.ToString();
         }
 
         [Test, TestCaseSource("ResponseResultsDependingOnResponseBody")]
@@ -33,11 +38,20 @@ namespace AniDb.Api.Tests
             return aniDbResponse.Read(readerMock.Object);
         }
 
-        private static IEnumerable<TestCaseData> RequestBuilderUrlCases {
+        private static IEnumerable<TestCaseData> RequestBuilderCategoryUrlCases {
             get {
-                yield return new TestCaseData(new ClientCredentials("xxx", 1), Requests.RequestTarget.Anime, new object[] {2})
+                yield return new TestCaseData(new ClientCredentials("xxx", 1))
+                    .Returns("http://api.anidb.net:9001/httpapi?client=xxx&clientver=1&protover=1&request=categorylist");
+                yield return new TestCaseData(new ClientCredentials("yyy", 2))
+                    .Returns("http://api.anidb.net:9001/httpapi?client=yyy&clientver=2&protover=1&request=categorylist");
+            }
+        }
+
+        private static IEnumerable<TestCaseData> RequestBuilderAnimeUrlCases {
+            get {
+                yield return new TestCaseData(new ClientCredentials("xxx", 1), new object[] {2})
                     .Returns("http://api.anidb.net:9001/httpapi?request=anime&client=xxx&clientver=1&protover=1&aid=2");
-                yield return new TestCaseData(new ClientCredentials("yyy", 2), Requests.RequestTarget.Anime, new object[] { 33403 })
+                yield return new TestCaseData(new ClientCredentials("yyy", 2), new object[] { 33403 })
                     .Returns("http://api.anidb.net:9001/httpapi?request=anime&client=yyy&clientver=2&protover=1&aid=33403");
             }
         }

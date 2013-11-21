@@ -10,7 +10,7 @@ namespace AniDb.Api
         }
 
         public static AniDbRequest CreateToCategory(ClientCredentials client) {
-            throw new NotImplementedException();
+            return HttpRequestBuilder.For(client, RequestTarget.Category).Build();
         }
 
         public static AniDbRequest CreateToHot(ClientCredentials client) {

@@ -63,12 +63,21 @@ namespace AniDb.Api.Tests
         public void ReadingAnimeResponsesBodiesTest() {
             var animeReader = new AnimeReader();
             var objFromResponse = Helpers.AllValidAnimeResponsesFiles().Select(File.ReadAllText).Select(animeReader.ReadObject).ToList();
-            var objFromFiles = Helpers.AllSerializedObjectFiles().Select(f => JsonConvert.DeserializeObject<Anime>(File.ReadAllText(f))).ToList();
+            var objFromFiles = Helpers.AllSerializedAnimeObjectFiles().Select(f => JsonConvert.DeserializeObject<Anime>(File.ReadAllText(f))).ToList();
 
             foreach (var actual in objFromResponse) {
                 var expected = objFromFiles.First(o => o.Id == actual.Id);
                 Assert.AreEqual(expected, actual, actual.Id.ToString());
             }
+        }
+
+        [Test]
+        public void ReadingCategoryResponseBodyTest() {
+            var reader = new CategoryReader();
+            var objFromResponse = reader.ReadObject(File.ReadAllText(Helpers.ResponseFile("category.xml")));
+            var objFromFile = JsonConvert.DeserializeObject<Category[]>(File.ReadAllText(Helpers.SerializedObjectFile("obj-category.json")));
+
+            CollectionAssert.AreEqual(objFromFile, objFromResponse);
         }
 
         /*[Test]
@@ -81,6 +90,15 @@ namespace AniDb.Api.Tests
             foreach (var obj in objs)
                 File.WriteAllText(Helpers.SerializedObjectFile("obj-" + obj.Id + ".json"), 
                     JsonConvert.SerializeObject(obj, Formatting.Indented));
+        }*/
+
+        /*[Test]
+        public void RecreateJsonCategoryObject() {
+            var reader = new CategoryReader();
+            var obj = reader.ReadObject(File.ReadAllText(Helpers.ResponseFile("category.xml")));
+
+            File.WriteAllText(Helpers.SerializedObjectFile("obj-category.json"), 
+                JsonConvert.SerializeObject(obj, Formatting.Indented));
         }*/
     }
 }

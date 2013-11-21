@@ -90,6 +90,9 @@
     <None Include="Resources\Serialized\obj-9771.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="Resources\Serialized\obj-category.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AniDb.Api\AniDb.Api.csproj">

@@ -3,7 +3,7 @@ using AniDb.Api.ResponseReaders.Mappers;
 
 namespace AniDb.Api.ResponseReaders
 {
-    public class CategoryReader : ResponseReader<Category, categorylist>
+    public class CategoryReader : ResponseReader<Category[], categorylist>
     {
         private const string ResponseSchema = "ValidCategoryResponse.xsd";
 

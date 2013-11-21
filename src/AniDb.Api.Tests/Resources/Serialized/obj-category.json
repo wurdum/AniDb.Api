@@ -1,0 +1,2711 @@
+[
+  {
+    "Id": 80,
+    "Name": "18 Restricted",
+    "Description": "This isn`t really an \"audience\".\n\nWhile some anime might feature sexual content they still might not be considered pornography. This category is meant only for when the content is clearly *not* intended for minors. The distinction is made by whether the content is sold only to adults.",
+    "IsHentai": true,
+    "ParentId": 3
+  },
+  {
+    "Id": 441,
+    "Name": "1920s",
+    "Description": "During the 1920s, we had gangsters, Mafia, alchool and gambling prohibition.\n\nThe Corleones ruled that time.",
+    "IsHentai": false,
+    "ParentId": 25
+  },
+  {
+    "Id": 453,
+    "Name": "4-koma",
+    "Description": "A comic-strip format, which generally consists of gag comic strips within four panels of equal size ordered from top to bottom.",
+    "IsHentai": false,
+    "ParentId": 273
+  },
+  {
+    "Id": 389,
+    "Name": "Acrobatics",
+    "Description": "Acrobatics is the performance of extraordinary feats of balance, agility, and motor coordination. It can be found in many of the performing arts as well as in many sports. Acrobatics is most often associated with activities that make extensive use of gymnastic elements, such as acro dance, circus, and gymnastics, but many other athletic activities — such as ballet and diving — may also employ acrobatics. Although acrobatics is most commonly associated with human body performance, it may also apply to other types of performance, such as aerobatics.\n\nWork that body, babe.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 4,
+    "Name": "Action",
+    "Description": "Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting. ",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 270,
+    "Name": "Action Game",
+    "Description": "Any game where reflexes are the key to the gameplay, violence is optional.",
+    "IsHentai": false,
+    "ParentId": 269
+  },
+  {
+    "Id": 306,
+    "Name": "Adventure",
+    "Description": "Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, \"jungle\" and \"desert\" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 436,
+    "Name": "Africa",
+    "Description": "The world`s second-largest continent and the birthplace of the human species, Africa is a place of a huge diversity. It has been the cradle of empires and has been ruled by foreign powers, and as of the early 21st century sees swift changes and economic boom going side by side with inhuman levels of poverty.",
+    "IsHentai": false,
+    "ParentId": 289
+  },
+  {
+    "Id": 366,
+    "Name": "Ahegao",
+    "Description": "A term for the weird face occasionally seen in adult games/anime/manga. Canonically, ahegao has eyes rolled up, mouth open and tongue sticking out. Sometimes also referred to as \"fucked silly\".",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 259,
+    "Name": "Airforce",
+    "Description": "Anime with this category, like anime with Military as category concerns an organised armed force, but with the difference that they should primarily conduct aerial warfare.\n\nNote: Just because the anime contains a bunch of planes or similar, unless the anime is actually about a fighting airforce, you might not want to add this genre. ",
+    "IsHentai": false,
+    "ParentId": 171
+  },
+  {
+    "Id": 515,
+    "Name": "Akihabara",
+    "Description": "Akihabara is an area of Tokyo, Japan. It is located less than five minutes by rail from Tokyo Station. Its name is frequently shortened to Akiba.Akihabara is a major shopping area for electronic, computer, anime, and otaku goods, including new and used items. And thus is prominently featured in many otaku-centric anime.",
+    "IsHentai": false,
+    "ParentId": 514
+  },
+  {
+    "Id": 184,
+    "Name": "Alien",
+    "Description": "An extraterrestrial life-form, possibly intelligent and/or extremely threatening. Aliens come in all shapes and sizes: They may be ethereal beings as in \"Final Fantasy: The Spirits Within\", quite humanoid as most of the female space-faring cast in \"Tenchi Muyou! GXP\", or totally incomprehensible as in \"Gantz\". Not the sky is the limit, but the anime author`s imagination.",
+    "IsHentai": false,
+    "ParentId": 8
+  },
+  {
+    "Id": 503,
+    "Name": "All-boys School",
+    "Description": "A private school setting that consists of only male students (may or may not include teachers and other school staff, aswell).",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 475,
+    "Name": "All-girls School",
+    "Description": "This school is only for female students. There may be a few male teachers though.",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 126,
+    "Name": "Alternative History",
+    "Description": "An anime that takes place in an alternative past is an anime that clearly does not belong to the future or the present, and isn`t tied particularly closely to our history, or has ties to our history but only as a premise: there are too many things that don`t make sense for the time-period. In some cases there is futuristic technology present, but the overall setting still feels that of the past. However the setting must still take place on Earth, since we can not know if the history of a fantasy world is an alternate one or not. ",
+    "IsHentai": false,
+    "ParentId": 10
+  },
+  {
+    "Id": 127,
+    "Name": "Alternative Present",
+    "Description": "Anime that fit in the alternative present category usually have technology and society that is very similar to ours, but with differences in both, history and culture, which sometimes are blatantly obvious, but sometimes harder to place; this one can at times be very subjective.",
+    "IsHentai": false,
+    "ParentId": 11
+  },
+  {
+    "Id": 280,
+    "Name": "Americas",
+    "Description": "The Americas are the lands of the Western hemisphere or (generally) the New World, consisting of the continents of North America, Central America and South America with their associated islands and regions.",
+    "IsHentai": false,
+    "ParentId": 289
+  },
+  {
+    "Id": 70,
+    "Name": "Anal",
+    "Description": "Sodomy, buggery, buttsex, cornholing, or the poop-chute polka.  Call it whatever you like, but somebody is getting something stuck where the sun does not shine.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 119,
+    "Name": "Android",
+    "Description": "Androids are robots created to look like humans. A very famous example is Data from Star Trek, but they need not be as human-like as him.",
+    "IsHentai": false,
+    "ParentId": 13
+  },
+  {
+    "Id": 170,
+    "Name": "Angel",
+    "Description": "A supernatural being, said to be the messenger of God. They are often depicted as human beings with a pair of white feathered wings and sometimes with a halo.",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 252,
+    "Name": "Angst",
+    "Description": "A feeling of general discomfort and uneasiness is present due to either trivial or more serious reasons, often accompanied by depression.\n\nWarning: may contain copious amounts of brooding and sighing.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 314,
+    "Name": "Anthropomorphism",
+    "Description": "Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism. ",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 464,
+    "Name": "Anti-War",
+    "Description": "The anime portrays the insanity of war.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 423,
+    "Name": "Archery",
+    "Description": "Archery is the art, practice, or skill of shooting arrows with a bow. A person who participates in archery is an archer. Archery has been used for hunting, but through most of human history its main use was for combat. With the invention of firearms, archery quickly became obsolete in war, but in the Far East it is to this day considered an important subject in martial arts, with archery dojos being ran by school archery clubs, and it reemerged as a recreational activity in the West as well.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 256,
+    "Name": "Art",
+    "Description": "Art plays an important part in the story and has central meaning to the characters (e.g. valuable paintings, or sculptures). Alternately the protagonists show a degree of artistic skill, e.g. as painters, sculptors, dress-makers, potters, musicians, composers, designers, etc.\n\nThe anime will then centre on the development of those skills, from the unrecognized dilettante stages, right up to the moment of (commercial) breakthrough.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 501,
+    "Name": "Art School",
+    "Description": "The education in art plays an important part in this anime.Art school is a general term for any educational institution with a primary focus on the visual arts, especially illustration, painting, photography, sculpture, and graphic design. The term applies to institutions with elementary, secondary, post-secondary or undergraduate, or graduate or postgraduate programs in these areas. They are distinguished from larger institutions which also may offer majors or degrees in the visual arts, but only as one part of a broad-based range of programs (such as the liberal arts and sciences). France`s École des Beaux-Arts is, perhaps, the first model for such organized instruction, breaking with a tradition of master and apprentice instruction when it was formed.(Source: Wikipedia)",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 22,
+    "Name": "Asia",
+    "Description": "Asia is the world`s largest and most populous continent.",
+    "IsHentai": false,
+    "ParentId": 289
+  },
+  {
+    "Id": 490,
+    "Name": "Assassin",
+    "Description": "Any variety of highly trained and very stealthy killer with the ability to utilise any object within their surroundings as a deadly weapon. They are often hireable to take out hits (or targets) designated by a client (or temporary employer) for a predetermined fee. Not all assassins work solo and may have a partner or even a team of more than two members.",
+    "IsHentai": false,
+    "ParentId": 295
+  },
+  {
+    "Id": 3,
+    "Name": "Audience",
+    "Description": "Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.\n\nThe audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.",
+    "IsHentai": false,
+    "ParentId": 0
+  },
+  {
+    "Id": 347,
+    "Name": "Australia",
+    "Description": "Australia is both a country and a continent in the southern hemisphere. The land of koalas and kangaroos, it has also a few humans living there, at least according to myths.",
+    "IsHentai": false,
+    "ParentId": 289
+  },
+  {
+    "Id": 380,
+    "Name": "Badminton",
+    "Description": "It`s like tennis, but instead of a ball, you hit back and forth wings.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 413,
+    "Name": "Baking",
+    "Description": "The art of making bread, cakes, pastries, pies, tarts, quiches, cookies and similar food in the oven.\n\nMmmm.... smells nice.",
+    "IsHentai": false,
+    "ParentId": 257
+  },
+  {
+    "Id": 194,
+    "Name": "Bakumatsu - Meiji Period",
+    "Description": "\"Bakumatsu\" (幕末, \"Late Tokugawa Shogunate\") occurred between 1853 and 1867 during which Japan ended its isolationist foreign policy and modernized from a feudal shogunate to the Meiji government. Bakumatsu represents the final years of the Edo period (when the Tokugawa shogunate ended) and preceded the Meiji era. The primary historical significance of Bakumatsu was the conflict between the pro-imperialist \"Ishin Shishi\" (\"nationalist patriots\"), and the shogunate forces, including the elite Shinsengumi (\"New Selected Corps\").\n\nThe Meiji Era (including Meiji Restoration) denotes the 45-year reign of Emperor Meiji, running from 23 October 1868 to 30 July 1912. During this time, Japan started its modernization and rose to world-power status.\n\nBe aware that this category should only be assigned to anime that take place in Japan during the years mentioned above, and not to every anime that has samurai in it.",
+    "IsHentai": false,
+    "ParentId": 25
+  },
+  {
+    "Id": 53,
+    "Name": "Bakunyuu",
+    "Description": "Literally translated as \"explosive breasts\", but in general it means \"huge breasted\". Sometimes also called as dekkapai.Focus on unnaturally large breasts. Usually involves early developed adolescent girls or older women.",
+    "IsHentai": false,
+    "ParentId": 50
+  },
+  {
+    "Id": 226,
+    "Name": "Band",
+    "Description": "The anime revolves around a group of people who work together in a band/orchestra for performances.",
+    "IsHentai": false,
+    "ParentId": 225
+  },
+  {
+    "Id": 527,
+    "Name": "Barcelona",
+    "Description": "Barcelona is the capital of Catalonia and the second largest city in Spain, after Madrid, with a population of 1,620,943 within its administrative limits on a land area of 101.4 km2 (39 sq mi). The urban area of Barcelona extends beyond the administrative city limits with a population of between 4.2 and 4.5 million within an area of 803 km2 (310 sq mi), being the sixth-most populous urban area in the European Union after Paris, London, the Ruhr, Madrid and Milan. About five million people live in the Barcelona metropolitan area. It is also the largest metropolis on the Mediterranean Sea. It is located on the Mediterranean coast between the mouths of the rivers Llobregat and Besòs and is bounded to the west by the Serra de Collserola ridge (512 m/1,680 ft).",
+    "IsHentai": false,
+    "ParentId": 526
+  },
+  {
+    "Id": 137,
+    "Name": "Baseball",
+    "Description": "[b]Baseball[/b] is like a complicated version of Rounders. It involves hitting a ball with a stick, then running around several bases placed in the form of a diamond on a field. Big in the US, and also in Japan.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 138,
+    "Name": "Basketball",
+    "Description": "Basketball is Netball for men, the real game that encourages dribbling and other such uncouth behaviour that was sanitised out of the ladies` version. However, it is itself woozy compared to Ulama, as the losing side are seldom publicly sacrificed.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 512,
+    "Name": "Battle Royale",
+    "Description": "Many characters are removed from their normal lives or lifestyles and thrown into a game where they are forced to battle each other until one survivor remains. Much like the famous film `Battle Royale`.",
+    "IsHentai": false,
+    "ParentId": 4
+  },
+  {
+    "Id": 327,
+    "Name": "BDSM",
+    "Description": "A form of \"kinky sex\". The acronym BDSM derives from BD (bondage and discipline), DS (dominance and submission) and SM (sadism and masochism). BDSM usually characterizes with one side being superior (active) over the other (passive), with each side being one or more participants. Whips, chains, handcuffs, ropes, blindfolds are common elements of BDSM.",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 315,
+    "Name": "Bestiality",
+    "Description": "Is the practice of sex between humans and animals, or a preference or fixation on such practice.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 478,
+    "Name": "Bishoujo",
+    "Description": "Literally, \"beautiful young girl\", also spelled bishōjo, is a Japanese term used to refer to young and pretty girls, usually below university age.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 343,
+    "Name": "Bishounen",
+    "Description": "Young man whose beauty (and sexual appeal) transcends the boundary of gender or sexual orientation.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 524,
+    "Name": "Blackmail",
+    "Description": "In general usage, blackmail is a crime involving unjustified threats against a person or organization in order to make a gain or harm or cause material loss to them unless a demand is met. It may be considered akin to extortion. Most often, blackmail involves the threat of revealing a secret to a given third party or the general public. In anime and related media, blackmail is also used to coerce people into having sex with others; in such cases, it may be considered akin to or a form of rape.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 405,
+    "Name": "Board Games",
+    "Description": "People here play a board game. It can vary from chess and Go, to Monopoly, to Dungeons and Dragons.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 284,
+    "Name": "Boing",
+    "Description": "The sound breasts make when they bounce. Size may vary, but mainly involves larger breasts in tight or otherwise sexy clothing. Partial or complete exposure may occur, usually emphasizing the boing-effect as they come out. Not capable of bouncing means no boing.",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 57,
+    "Name": "Bondage",
+    "Description": "Bondage is the use of restraints for the sexual pleasure of the parties involved. It may be used in its own right, as in the case of rope bondage and breast bondage, or as part of sexual activity or BDSM activity.",
+    "IsHentai": false,
+    "ParentId": 327
+  },
+  {
+    "Id": 378,
+    "Name": "Boobs in Your Face",
+    "Description": "The protagonists face is pressed into a female`s cleavage. This may be accidental, or actually intended by the female character.",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 205,
+    "Name": "Bounty Hunter",
+    "Description": "A bounty hunter captures fugitives for a monetary reward (bounty). For example the crew in Cowboy Bebop are bounty hunters.",
+    "IsHentai": false,
+    "ParentId": 295
+  },
+  {
+    "Id": 139,
+    "Name": "Boxing",
+    "Description": "Boxing involves punching someone until their brains fall out, then challenging them to a rematch. Many boxers survive successfully for years with no central nervous system at all, to the bafflement of medical science. ",
+    "IsHentai": false,
+    "ParentId": 141
+  },
+  {
+    "Id": 349,
+    "Name": "Brazil",
+    "Description": "Brazil is the world`s fifth largest country, known everywhere for its football, carnival, joyful population and the high value Brazilians place in lateral thinking and (usually) harmless rule-bending. Many Brazilians have been annoying on the Internet, leading them all to be labeled trolls, but that is only partly justified. Brazil has been portrayed in anime a few times, usually stereotyped. Playful as they are, Brazilians themselves spread misconceptions about their country for the fun of it.",
+    "IsHentai": false,
+    "ParentId": 280
+  },
+  {
+    "Id": 504,
+    "Name": "Breaking the Fourth Wall",
+    "Description": "Breaking the fourth wall is the action of addressing or otherwise acknowledging the audience of a work of fiction from within that work, as happens when e.g. the characters of a show speak directly to its viewers. The fourth wall in question is a reference to the imaginary \"wall\" at the front of the stage of a proscenium theatre, through which the action of the play is seen by the audience; the fourth wall is thus a metaphor for the boundary between what happens inside a fictional work and outside it. This situation is not to be confused with medium awareness, which is when a character shows their awareness of the fact they are a character of a fictional work by e.g. complaining to the writer that they appear in too few episodes.",
+    "IsHentai": false,
+    "ParentId": 17
+  },
+  {
+    "Id": 369,
+    "Name": "Breast Fondling",
+    "Description": "Part of the slapstick comedy in ecchi anime between female characters. E.g. a girl envious of another girl`s bust size may tease the latter via fondling. Usually playful and mischievous, not sexual.Alas, now the tag can also imply \"boob grabbing\", where a male character will either accidentally or intentionally touch the breasts of a female. The former is a comedy element, as in \"accidental infringement\", the latter can be interpreted as a form of harassment.",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 50,
+    "Name": "Breasts",
+    "Description": "The female bust size matters! Or does it? The three subcategories spell out the sizes that relate to fetishes, be they gigantic, large or small. Normal sized breasts are not a fetish, it seems. The category is not only used for ecchi anime, but also for hentai shows as well.\n\nNote: The Breasts category is just a placeholder-category.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 403,
+    "Name": "Brother-Sister Incest",
+    "Description": "Immoral or illegal sexual relations between two siblings of opposite sex.",
+    "IsHentai": false,
+    "ParentId": 48
+  },
+  {
+    "Id": 358,
+    "Name": "Bukkake",
+    "Description": "Bukkake is a group sex practice wherein a group of men ejaculate onto a woman.",
+    "IsHentai": true,
+    "ParentId": 391
+  },
+  {
+    "Id": 511,
+    "Name": "Bullet Time",
+    "Description": "Bullet time refers to a simulation of variable speed (i.e. slow motion, time-lapse, …) and is characterized both by its extreme transformation of time and space to show normally imperceptible and un-filmable events, such as flying bullets.Most infamous scene using this technique, Neo dodging bullets in The Matrix film.",
+    "IsHentai": false,
+    "ParentId": 4
+  },
+  {
+    "Id": 486,
+    "Name": "Calling Your Attacks",
+    "Description": "If you can do something more impressive than just throw a punch, your attack(s) must have an equally impressive name. More than that, you have to call it out as you launch the attack. It doesn`t matter if it`s a martial arts move, a magical spell or your secret superweapon, if you can`t say its name, it just isn`t nearly as cool or effective.",
+    "IsHentai": false,
+    "ParentId": 4
+  },
+  {
+    "Id": 346,
+    "Name": "Canada",
+    "Description": "The great white north.",
+    "IsHentai": false,
+    "ParentId": 280
+  },
+  {
+    "Id": 526,
+    "Name": "Catalonia",
+    "Description": "Catalonia (Spanish: Cataluña) is an autonomous community of Spain, with the official status of a nationality. Catalonia comprises four provinces: Barcelona, Girona, Lleida, and Tarragona. Its capital and largest city is Barcelona, the second largest city in Spain after Madrid, and the center of one of the largest metropolitan areas in Europe.",
+    "IsHentai": false,
+    "ParentId": 525
+  },
+  {
+    "Id": 202,
+    "Name": "Catgirl",
+    "Description": "Catgirls, or nekomimi (猫耳) literally meaning \"cat ears\", are girls that have various feline features for added moe or sexiness. In anime, cat ears and a tail are fairly common, while other features are less common. Nya~, the Japanese equivalent of meow, is often used by girls acting cute and is not a trait exclusive to catgirls.",
+    "IsHentai": false,
+    "ParentId": 201
+  },
+  {
+    "Id": 469,
+    "Name": "Chess",
+    "Description": "Chess is a game for two players. It is played on a square board, made of 64 smaller squares, with eight squares on each side. Each player starts with sixteen pieces (eight pawns, two each of knights, bishops, and rooks, and one king and queen). One player`s pieces are a light color, he is called \"White\", and the other player`s pieces are a dark color, he is called \"Black\".",
+    "IsHentai": false,
+    "ParentId": 405
+  },
+  {
+    "Id": 229,
+    "Name": "Chikan",
+    "Description": "Chikan (痴漢) is the Japanese term for non-consensual frotteurism which in common speech means groping. The men who commit such acts are also called chikan, the term for women is chijo (痴女). Crowded trains are the most common target of chikan and chijo and majority of anime that feature chikan take place on trains; therefore in AniDB terms, chikan would mean \"groping on a train\".",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 196,
+    "Name": "China",
+    "Description": "Very big, cheap Rolexes, everyone does kung-fu.",
+    "IsHentai": false,
+    "ParentId": 22
+  },
+  {
+    "Id": 471,
+    "Name": "Christmas",
+    "Description": "This anime is about Christmas or has an episode relating to Christmas, often including the decoration of the Christmas tree, the shopping for and the handing out of presents, and an extra special opulent dinner (a Christmas party). No Christmas is complete without the falling of snow — for those romantic moments.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 242,
+    "Name": "Clubs",
+    "Description": "Even though school clubs in Japan are not mandatory, there is some pressure from the social grid (e.g. fellow students, teachers) to participate in some kind of after-school activity, be it in sports or arts. Colleges also have clubs.\n\nAs a comedy element in anime, some students have joined too many clubs, and are thus constantly stressed out. There is also the element of social commentary, making it clear that you have to join a club, if you want to be part of the class. Since self-founded clubs need at least 3 members, the desperate search and advertising for new members can be cause for hilarity in anime.",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 454,
+    "Name": "Collateral Damage",
+    "Description": "The usually action orientated anime does not only show large amounts of combat and weapon use, but also the incidental massive destruction of property, often due to the inability of the protagonists to aim properly.Example: Mecha duking it out in a densely populated urban area.",
+    "IsHentai": false,
+    "ParentId": 4
+  },
+  {
+    "Id": 240,
+    "Name": "College",
+    "Description": "Since college/university students are typically at least eighteen years old, with stories covering mature everyday life topics, you will find the college setting quite often in seinen and josei anime.\n\nTopics that can now be covered - as compared to High School settings - are higher education (i.e. coping with higher intellectual stress), the more adult party life (i.e. alcohol, smoking, sex), the issues of daily life vs. studying - especially when having to work to pay for bills, and finally the possible friction between those in and out of college. ",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 141,
+    "Name": "Combat",
+    "Description": "Combat involves a violent conflict with the goal to establish dominance over an opponent. ",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 17,
+    "Name": "Comedy",
+    "Description": "Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.\n\nJapanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 330,
+    "Name": "Coming of Age",
+    "Description": "In the strict sense the Coming of age describes a young person`s transition from adolescence to adulthood. In anime the term is used in a more general sense where the protagonists have to face a challenge, make an important decision in their life, take on responsibility, or learn a lesson, and by overcoming these obstacles they reach a higher level of maturity.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 473,
+    "Name": "Confession",
+    "Description": "Someone confesses his/her love to someone else.In a school setting it will usually be a boy confessing his love to a girl, though the more modern Japanese girls in anime will do quite a bit of confessing as well.Since this is anime, girl/girl (shoujo ai) or boy/boy (shounen ai) confessions also happen.",
+    "IsHentai": false,
+    "ParentId": 198
+  },
+  {
+    "Id": 160,
+    "Name": "Conspiracy",
+    "Description": "The conspiracy thriller (or paranoid thriller) is a sub-genre of the thriller which flourished in the 1970s in the US (and was echoed in other parts of the world) in the wake of a number of high-profile scandals and controversies (most notably Vietnam, the assassination of President Kennedy, Chappaquiddick and Watergate), and which exposed what many people regarded as the clandestine machinations and conspiracies beneath the orderly fabric of political life.\n\nThe protagonists of conspiracy thrillers are often journalists or amateur investigators who find themselves (often inadvertently) pulling on a small thread which unravels a vast conspiracy that ultimately goes \"all the way to the top\".",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 183,
+    "Name": "Contemporary Fantasy",
+    "Description": "Magic and supernatural beings exist secretly in what is generally regarded as the real world. Such elements may have originated from another world. Stories where a modern-day character travels to an alternate fantasy world are not considered contemporary fantasy.",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 83,
+    "Name": "Content Indicators",
+    "Description": "The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents. ",
+    "IsHentai": false,
+    "ParentId": 0
+  },
+  {
+    "Id": 257,
+    "Name": "Cooking",
+    "Description": "Anime in the cooking genre will centre on the production of different kinds of food, including baking, but also gourmet meals and anything in between. Homemade food is a rather important theme to Japanese society, and it`s an integral part of their understanding of what constitutes a family; for example, girls giving their boyfriends homemade chocolate on Valentine`s Day has become a bit of a tradition. It may also be that, for a sizable portion of one or more episodes, one or more characters take a break from the cooking-unrelated plot to make some food, in the so-called \"cooking episodes\". Hopefully, the food they make is edible, and if the cast is lucky enough, maybe even tasty. However, it may also be that a character makes food so terrible it could as well be poison; for those cases, the Lethal Cooking category may be more appropriate.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 177,
+    "Name": "Cops",
+    "Description": "The police (civil servants) are the good guys in the battle against crime. Though they try hard, they are usually outclassed by super-criminals or criminal organizations in anime, requiring the help of special units or some lone hero. ",
+    "IsHentai": false,
+    "ParentId": 323
+  },
+  {
+    "Id": 470,
+    "Name": "Cosplay",
+    "Description": "The act of dressing or disguising oneself as (but not limited to) a character, occupation, animal, or a combination of such things that are non relative to what would be considered natural characteristics of them.Well known feminine cosplay examples consist of (but not nearly limited to) rare yet honorary or well respected occupations such as nurses, maids or shrine-priestesses. with the most portrayed animal crossover being the infamous cat-girl. Character cosplays consist primarily of characters from anime, manga, or video-games.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 360,
+    "Name": "Cream Pie",
+    "Description": "The act of a man ejaculating inside a girl`s vagina, leaving the semen oozing out of her.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 391,
+    "Name": "Cum Play",
+    "Description": "Fetish of sorts where the focus is of the semen that is ejaculated. This can include snowballing, drinking copious amounts of semen, eating it off food, using it to brush one`s teeth, acting as a urinal for semen, gargling it, rinsing one`s mouth with it, or any other act where semen is involved that does not have to do with fertilization of an egg.This should not be used if one cannot visibly see semen in scenes or if the scene is extremely short.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 393,
+    "Name": "Cum Swapping",
+    "Description": "Sharing is caring!",
+    "IsHentai": true,
+    "ParentId": 391
+  },
+  {
+    "Id": 357,
+    "Name": "Cunnilingus",
+    "Description": "Cunnilingus is an oral sex act performed on a female. It involves the use by a sex partner of the mouth, lips and tongue to stimulate the female`s clitoris and vulva. A female may receive cunnilingus as part of foreplay before sexual intercourse, or the sex partner may proceed until the female reaches orgasm.The term is derived from the Latin words for the vulva (cunnus) and tongue (lingua).",
+    "IsHentai": true,
+    "ParentId": 452
+  },
+  {
+    "Id": 253,
+    "Name": "Cyberpunk",
+    "Description": "Cyberpunk focuses on computers or information technology, usually coupled with some degree of breakdown in social order. The plot often centres on a conflict among hackers, artificial intelligences, and mega corporations, tending to be set within a near-future dystopian Earth.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 120,
+    "Name": "Cyborgs",
+    "Description": "Cyborgs are humans, who have been taken over in part or in whole by cybernetic or electrical/mechanical devices, which either control them or which they retain control of. The term comes from \"CYBernetic ORGganism\", which literally means an organism that contains both mechanical and organic components.",
+    "IsHentai": false,
+    "ParentId": 328
+  },
+  {
+    "Id": 381,
+    "Name": "Cycling",
+    "Description": "There is nothing more relaxing and cheering than riding your own bicycle on a sunny day.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 236,
+    "Name": "Daily Life",
+    "Description": "The antics of the protagonists do not take place in some exotic setting or time, but in everyday life. When not \"at the job\" this means getting up in the morning, making meals, house cleaning, going shopping or out to eat, visiting the bath house or spa, leisure activities in the spare time, etc. The time \"on the job\" for students is School Life, for others working in their profession. Daily Life is basically a synonym for everything normal, repetitive, and trivial happening to your average person.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 463,
+    "Name": "Dark Elf",
+    "Description": "A dark-skinned member of the Elf race. Usually evil.",
+    "IsHentai": false,
+    "ParentId": 221
+  },
+  {
+    "Id": 265,
+    "Name": "Dark Fantasy",
+    "Description": "Focus set on darker themes in a fantasy setting, sometimes leaning towards horror elements. Bleak and pessimistic tones often dominate. Dark supernatural beings like vampires may play a significant role.",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 489,
+    "Name": "Dark-skinned Girl",
+    "Description": "The anime features a girl with dark skin. A fetish of sorts, since the other protagonists are usually as white-skinned as porcelain dolls.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 293,
+    "Name": "Dating Sim - Visual Novel",
+    "Description": "The two terms are similar yet different, however, the fact that they look and `feel` the same outweighs the technical differences. For clarification, visual novels are considered a sub-genre of adventure games and the term does not cover simulations. While the two genres often share a common visual presentation, dating sims are sometimes considered to be more statistically based than the \"choose your own adventure\" style of visual novels; basically, the choices you make might change something else than just the story arc (or your next porn pic). Dating sims can involve several technical elements such as a time limit, several statistics such as looks and charm which can be boosted through exercise, or an \"attraction meter\" which can increase or decrease depending on one`s decisions.",
+    "IsHentai": false,
+    "ParentId": 269
+  },
+  {
+    "Id": 461,
+    "Name": "Debacle",
+    "Description": "The shit is hitting the fan.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 245,
+    "Name": "Delinquents",
+    "Description": "Every school has them, but not all anime with school setting make delinquents a central topic. There are several versions of these delinquents, though some are grounded on a misunderstanding:\n\n    * The student with a really bad image and attitude, based on his real criminal actions outside of the school and is even feared by teachers.\n    * The primitive \"class bully\" that pushes around (\"clobbers\") his classmates for no apparent reason, possibly extorting lunch money.\n    * The student with an sinister complexion or \"evil eye\", but is actually a \"good\" student (unfoundedly feared character).\n    * The rebellious student, who does not care for studying, but is otherwise docile. Called a \"delinquent\" as a joke.",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 167,
+    "Name": "Demons",
+    "Description": "Often described as minions from Hell. Generally known to attack humans and feast on their flesh or possess the bodies of those with weak souls.",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 508,
+    "Name": "Desert",
+    "Description": "Setting with vast amounts of sand, merciless high temperatures, and very little water.",
+    "IsHentai": false,
+    "ParentId": 7
+  },
+  {
+    "Id": 161,
+    "Name": "Detective",
+    "Description": "It focuses on the efforts of the Detective, private investigator or amateur sleuth to solve the mysterious circumstances of a crime by means of clues, investigation, and clever deduction. The successful mystery film often conceals the identity of the perpetrator until late in the story, then adds an element of suspense during the apprehension of the suspect.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 65,
+    "Name": "Dildos - Vibrators",
+    "Description": "These are toys that are used for sexual pleasure.",
+    "IsHentai": true,
+    "ParentId": 326
+  },
+  {
+    "Id": 390,
+    "Name": "Dodgeball",
+    "Description": "Dodgeball is any of a variety of games in which players try to hit other players on the opposing team with their own balls while avoiding being hit themselves. \n\nDon`t try this at home, kids.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 373,
+    "Name": "Doggy Style",
+    "Description": "Bang her from behind and use her boobies as a steering wheel!",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 359,
+    "Name": "Double Penetration",
+    "Description": "One person being simultaneously penetrated by two penises (strap-on counts, too).",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 200,
+    "Name": "Dragon",
+    "Description": "Very intelligent mythical beings - a cross between a very large lizard and a dinosaur - that breath fire, and have a knack for kidnapping damsels, thus distressing them.",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 216,
+    "Name": "Dynamic",
+    "Description": "Some of the central structural elements in anime are: \n\nPlot Continuity \nHow does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?\n\nStereotype Characters\nThen there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.\n\nPlot Twists\nFinally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.",
+    "IsHentai": false,
+    "ParentId": 0
+  },
+  {
+    "Id": 186,
+    "Name": "Dystopia",
+    "Description": "A dystopia is, in literature, an often futuristic society that has degraded into a repressive and controlled state, often under the guise of being utopian.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 289,
+    "Name": "Earth",
+    "Description": "The Earth is the third planet from the Sun. It is a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). To its inhabitants, our planet is their home, so, as a species, we cherish it to the point many cultures even to this day deify it. The Earth is the main setting of most fiction, but many titles are set in other places, such as unrelated fantasy worlds, and in a considerable number of fictional titles the Earth is actually destroyed by invaders.",
+    "IsHentai": false,
+    "ParentId": 7
+  },
+  {
+    "Id": 468,
+    "Name": "Earthquake",
+    "Description": "*rumble rumble rumble rumble*Upheaval of the Earth`s crust, usually resulting in widespread destruction.",
+    "IsHentai": false,
+    "ParentId": 461
+  },
+  {
+    "Id": 282,
+    "Name": "Ecchi",
+    "Description": "Ecchi, or etchi (エッチ), is a common Japanese word meaning \"indecent\", \"lewd\", \"frisky\" or \"sexy\"; its usage can be compared to the English word \"naughty\". Among western anime fans, the term is used when vague sexual content, such as skimpy clothing or nudity, is prominent. In Japanese, however, it is a catch-all term for all things anyhow sexual in nature, mild or otherwise.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 412,
+    "Name": "Edo Period",
+    "Description": "The anime takes place during a period of Japanese history running from 1603 to 1868.",
+    "IsHentai": false,
+    "ParentId": 25
+  },
+  {
+    "Id": 237,
+    "Name": "Elementary School",
+    "Description": "The primary education (compulsory in Japan) covers the first six grades. The students are typically six to twelve years old.\n\nThe small size and energetic / playful antics of the young students make the comedic appeal and cuteness of super deformed \"older\" characters superfluous. Hilarity ensues when seemingly innocent children comment on the worlds troubles in a sarcastic adult way. Huge potential for heart-warming anime!",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 313,
+    "Name": "Elements",
+    "Description": "Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: \"What do characters do to each other or what is done to them?\". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure? ",
+    "IsHentai": false,
+    "ParentId": 0
+  },
+  {
+    "Id": 221,
+    "Name": "Elf",
+    "Description": "Elf, in common description, near-divine beings, with pointed ears and immortal life-spans. They are sage beings that occupy the realms and gates between humanity and the gods.",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 407,
+    "Name": "Enema",
+    "Description": "An enema is the procedure of introducing liquids into the rectum and colon via the anus for the purpose of cleaning the insides or for BDSM play.",
+    "IsHentai": true,
+    "ParentId": 46
+  },
+  {
+    "Id": 416,
+    "Name": "Enjoyable Rape",
+    "Description": "This anime features a rape scene during which the raped character also reaches orgasm or somehow else derives sexual pleasure from the act.",
+    "IsHentai": true,
+    "ParentId": 33
+  },
+  {
+    "Id": 271,
+    "Name": "Erotic Game",
+    "Description": "An erotic game (eroge) is a Japanese video or computer game that features erotic content, usually in the form of anime-style artwork. In English, eroge are often called hentai games in keeping with the English slang definition of hentai. This is sometimes shortened to H games. In Japan, eroge are also referred to as 18+ games. Most erotic games are visual novels or dating sims but are not limited to them.\n\nAny anime adaptation of a game that contains (or had a version that contains) adult content (generally sex scenes), regardless of how some fanboys blabber on how \"the story in that visual novel was too good to be labelled as porn!\", should definitely get this category added under them. This should make it pretty clear as to what is an erotic game and what is not.",
+    "IsHentai": false,
+    "ParentId": 269
+  },
+  {
+    "Id": 279,
+    "Name": "Europe",
+    "Description": "Europe is, by convention, one of the world`s seven traditional continents. It`s also home of medieval castles which are quite often featured in anime.",
+    "IsHentai": false,
+    "ParentId": 289
+  },
+  {
+    "Id": 352,
+    "Name": "Exhibitionism",
+    "Description": "Exhibitionism is behaviour by a person that involves the exposure of private parts of his or her body to another person in a situation when they would not normally be exposed, such as in a public place.",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 367,
+    "Name": "Facesitting",
+    "Description": "Facesitting, also known as queening, or kinging, is a sexual practice in which one partner sits on or over the other`s face, typically to allow or force oral-genital or oral-anal contact. It is common for this position to form part of BDSM, involving dominance and submission, though this need not be the case. Within a BDSM or D/S context, facesitting can be an especially intense form of erotic humiliation.",
+    "IsHentai": false,
+    "ParentId": 327
+  },
+  {
+    "Id": 462,
+    "Name": "Fairies",
+    "Description": "Fairies are small spirits that live in the forest and use their magical dust to do miracles.\n\nThink Tinkerbell, or even Edward from Twilight. :P",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 15,
+    "Name": "Fantasy",
+    "Description": "Imaginative or fanciful work, especially one dealing with supernatural elements and themes.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 291,
+    "Name": "Fantasy World",
+    "Description": "A fantasy world is a type of imaginary world, part of a fictional universe. Typical worlds involve, but are not limited to magic or magical abilities and a medieval theme. Some examples include: a parallel world tenuously connected to Earth via magical portals or items; a fictional Earth-like planet in the remote past or future; or an entirely independent world set in another universe. Many fantasy worlds draw heavily on real world history, geography and sociology, and also on folklore.",
+    "IsHentai": false,
+    "ParentId": 7
+  },
+  {
+    "Id": 402,
+    "Name": "Father-Daughter Incest",
+    "Description": "Immoral or illegal sexual relations between a father and her daughter.",
+    "IsHentai": false,
+    "ParentId": 48
+  },
+  {
+    "Id": 353,
+    "Name": "Fellatio",
+    "Description": "Fellatio is oral sex performed upon the penis. It may be performed to induce male orgasm and ejaculation of semen, or it may be used as foreplay prior to sexual intercourse.",
+    "IsHentai": true,
+    "ParentId": 452
+  },
+  {
+    "Id": 60,
+    "Name": "Female Student",
+    "Description": "Pretty much exclusive to hentai shows only unless an ecchi show has implied sex and/or a strong indicator of nudity. A character is considered a student if she goes to school, doesn`t matter if it`s high school, college or homeschooling, but she should be of appropriate age for a student; a housewife going to college should not get this category.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 336,
+    "Name": "Female Teacher",
+    "Description": "Any kind of female teacher will do, even if she only does home visits. Female teachers imply mature women (even if they sometimes look like schoolgirls) dressed in what women would typically wear when doing official business (like a blouse, pinstripe dress with side front slit), but of course, not limited to that. Furthermore, school nurses also count as female teachers unless they`re actually wearing a nurse outfit, which they almost never are.Almost completely exclusive to hentai animations.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 363,
+    "Name": "Femdom",
+    "Description": "Female dominance (or Femdom) refers to BDSM activities where the dominant partner is female; the submissive partner may be of either sex.(Source: Wikipedia)",
+    "IsHentai": false,
+    "ParentId": 327
+  },
+  {
+    "Id": 318,
+    "Name": "Fetishes",
+    "Description": "Everything under fetishes (except for Bishounen and Juujin) is strictly only meant for hentai (18 Restricted) and ecchi anime. In case of ecchi, it must be the main element of the show and not when there`s only some of it, for example, there`s some ecchi in Shinseiki Evangelion, but the fact you get to see Asuka`s pantsu doesn`t warrant it the schoolgirl fetish category. So be careful to which ecchi show you add fetishes; it`s fairly straightforward with hentai, though. Overall, this category tree is to satisfy the needs of people with different fetishes, so they can search for what tingles their tangle; hence why this is restricted to hentai and full ecchi shows. ",
+    "IsHentai": false,
+    "ParentId": 0
+  },
+  {
+    "Id": 322,
+    "Name": "Feudal Warfare",
+    "Description": "Feudal Warfare is the warfare of the Middle Ages and therefore the setting must take place in a time line similar to that of Middle Ages or its Asian/American counterparts, or in a fantasy world. Generally it can be described the same way as the Military category, just that the weapons used are swords, spears, bows, catapults, cannons and other weapons used in the Middle Ages.\n\nNote: Just because the anime contains a guy or a couple of guys with swords wondering about, doesn`t make it applicable for this category, unless there are larger military organizations/groups involved in armed conflict with each other, you might not want to add this genre. ",
+    "IsHentai": false,
+    "ParentId": 171
+  },
+  {
+    "Id": 456,
+    "Name": "First Kiss",
+    "Description": "The first kiss plays a role in this anime. Especially for the female cast this can be quite an important moment, so that stealing ones first kiss is serious for them.",
+    "IsHentai": false,
+    "ParentId": 198
+  },
+  {
+    "Id": 517,
+    "Name": "Fishing",
+    "Description": "Grab your rods, lures, bait and (optional) boat it`s time to got catch whatever is lurking in the depth of the river, lake, or ocean!",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 368,
+    "Name": "Fisting",
+    "Description": "To insert a fist into a sexual area of the human body.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 448,
+    "Name": "Floating Island",
+    "Description": "Islands floating in the sky, or actually floating in the ocean (mobile), provide one of the central settings in this anime.",
+    "IsHentai": false,
+    "ParentId": 291
+  },
+  {
+    "Id": 182,
+    "Name": "Football",
+    "Description": "Football is a sport that involves kicking a ball in order to score a goal, while the other team tries to stop you by kicking the ball in the other direction to score a goal of their own. In the United States, this sport is known as soccer; the inappropriately titled \"American\" football is some kind of rugby for rugrats.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 356,
+    "Name": "Foot Fetish",
+    "Description": "Anime contains scenes which revolve around foot-fetishism.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 355,
+    "Name": "Footjob",
+    "Description": "A foot is used to invoke sexual pleasure.",
+    "IsHentai": true,
+    "ParentId": 356
+  },
+  {
+    "Id": 382,
+    "Name": "Formula Racing",
+    "Description": "[b]Formula racing[/b] is any of several forms of open-wheeled single-seater motorsport. The origin of the term lies in the nomenclature that was adopted by the FIA for all of its post-World War II single-seater regulations, or formulæ. The best known of these formulæ are [i]Formula One[/i], [i]Formula Two[/i], and [i]Formula Three[/i].",
+    "IsHentai": false,
+    "ParentId": 140
+  },
+  {
+    "Id": 116,
+    "Name": "France",
+    "Description": "Home of the finest wines, the Eiffel Tower, all the smelly cheese that you can eat, the Universal Declaration of Human Rights, and Zinedine Zidanne.",
+    "IsHentai": false,
+    "ParentId": 279
+  },
+  {
+    "Id": 497,
+    "Name": "Friendship",
+    "Description": "The feeling of trust, kindness, and friendship between a group of high school students for example, is a central theme of this anime.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 498,
+    "Name": "Furo Scene",
+    "Description": "Furo (polite: Ofuro) is Japanese for bath, specifically a type of bath which originated as a short, steep-sided wooden bathtub. Baths of this type are found all over Japan in houses, apartments and traditional Japanese inns (Ryokans).Furo are part of the Japanese ritual of bathing, not used for washing but for relaxing and warming oneself. Washing is carried out separately outside the furo, and only when completely clean does the bather enter the water. Generally Japanese bathrooms are small, so the bathroom is set up much like a walk-in shower area but containing the ofuro.The cheapest and shortest way to show naked skin on TV, at least as much as allowed. It usually only takes up few minutes at most and as such it gives the staff the opportunity to draw the characters in the nude and raise the DVD sales while still maintaining a \"non-filler\" episode.Compare to the big brothers sentou episode and onsen episode.",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 55,
+    "Name": "Futanari",
+    "Description": "Futanari (a compound word meaning \"two form\" in Japanese) depicts hermaphrodites, intersex or other individuals with female body-types and sexual organs resembling penises, whether or not those organs are in fact enlarged clitorises, or they possess both male and female reproductive organs. Technically, the term also encompasses male characters with both sets of sexual organs, but these are usually excluded. To those who`re not that good with technical terms, futanari = chicks with dicks.\n\nExclusive to hentai animations only.",
+    "IsHentai": true,
+    "ParentId": 318
+  },
+  {
+    "Id": 419,
+    "Name": "Futa x Female",
+    "Description": "A futa girl having sex with a girl",
+    "IsHentai": true,
+    "ParentId": 55
+  },
+  {
+    "Id": 418,
+    "Name": "Futa x Futa",
+    "Description": "Futanari girls having fun with each other.",
+    "IsHentai": true,
+    "ParentId": 55
+  },
+  {
+    "Id": 522,
+    "Name": "Futa x Male",
+    "Description": "A futa girl having sex with a guy.",
+    "IsHentai": true,
+    "ParentId": 55
+  },
+  {
+    "Id": 12,
+    "Name": "Future",
+    "Description": "Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place \"x years into the future\", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.\n\nThis category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.",
+    "IsHentai": false,
+    "ParentId": 6
+  },
+  {
+    "Id": 269,
+    "Name": "Game",
+    "Description": "Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.",
+    "IsHentai": false,
+    "ParentId": 268
+  },
+  {
+    "Id": 333,
+    "Name": "Gangbang",
+    "Description": "A situation in which one person has sexual intercourse and performs other sex acts with a number of people, either in turn or at the same time.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 472,
+    "Name": "General Lack of Common Sense",
+    "Description": "Often a desired backdrop to many anime-comedy series, where most happenings are fast paced and senseless for the pure comical enjoyment of viewers.The lacking of common sense describes a conflicting existence to which some or many people don`t share the majority`s general knowledge of all things, all possible actions and all the logical results of those actions.In spite of a character`s intelligence (although senselessness may suggest some may be lacking average knowledge), most instances receive illogical results or the events themselves are illogical, therefore the events make just as little sense as the results to follow.",
+    "IsHentai": false,
+    "ParentId": 17
+  },
+  {
+    "Id": 329,
+    "Name": "Genetic Modification",
+    "Description": "Story-wise Genetic Modification is usually centred on humans, probably the most subtle and creepy way of messing with mankind. Playing with the fear of the unknown, genetically altered humans are technically a new species, that may not only surpass but actually replace unaltered humans. The level of modification will vary from subtle changes in \"look\" (e.g. super-human beauty), to mental enhancements (PSI powers), to more or less atrocious adaptations to extreme environments (breath under water, radiation resistance). Note that changes in Aliens would be difficult to pinpoint, after all they are alien.",
+    "IsHentai": false,
+    "ParentId": 328
+  },
+  {
+    "Id": 27,
+    "Name": "Germany",
+    "Description": "Germany is a country in Central Europe.",
+    "IsHentai": false,
+    "ParentId": 279
+  },
+  {
+    "Id": 507,
+    "Name": "Ghost",
+    "Description": "Ethereal being, mostly transparent, usually does not interact with matter (e.g. can pass through walls). Remnant \"essence\" of a human being that cannot pass to the spirit world for some reason, e.g. a traumatic death traps the ghost to a certain place on Earth.",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 408,
+    "Name": "Go",
+    "Description": "Deceptively simple (rule-wise), yet quite complex strategic board game for two players. Called \"igo\" in Japanese.",
+    "IsHentai": false,
+    "ParentId": 405
+  },
+  {
+    "Id": 243,
+    "Name": "Goddess",
+    "Description": "A goddess is a female deity.",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 143,
+    "Name": "Golf",
+    "Description": "Golf is a game played in an open field where the player hits a small ball with a specifically prepared club to sink it into a hole of about the same size. This may appear as a very boring and pointless type of game to on-lookers.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 263,
+    "Name": "Gunfights",
+    "Description": "Fights where two or more parties are firing guns at one another.",
+    "IsHentai": false,
+    "ParentId": 4
+  },
+  {
+    "Id": 144,
+    "Name": "Gymnastics",
+    "Description": "Gymnastics used to just be thought of as an excuse for ogling women in skimpy costumes. However, the march of progress has lead to a great reduction in the mammaries that made this an interesting prospect, leading to a disillusionment with the sport.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 364,
+    "Name": "Handjob",
+    "Description": "Manual stimulation of the genitals.",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 241,
+    "Name": "Harem",
+    "Description": "Three or more characters, generally female, are under the influence of one character, normally male. Their interactions are romantically or sexually loaded. The female characters often draw heavily from stock archetypes. Sexual tones are applied to the lead`s behavior and to the members` depiction. The lead will often be physically abused for his behavior. The harem may be only a support to an existing or predictable relationship, or the lead may end up in relationships with most or all members.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 440,
+    "Name": "Heian Period",
+    "Description": "Last division of classical Japanese history, covering the time period from 794 to 1185.",
+    "IsHentai": false,
+    "ParentId": 25
+  },
+  {
+    "Id": 449,
+    "Name": "Hell",
+    "Description": "\"Abandon hope all ye who enter here\"\n\nYou been a sinner? Welcome to Hell, where you will suffer for all eternity for your sins. The devils with pitchforks will take good care of you there.",
+    "IsHentai": false,
+    "ParentId": 7
+  },
+  {
+    "Id": 485,
+    "Name": "Henshin",
+    "Description": "Japanese for \"transformation\" (metamorphosis or disguise).A \"henshin anime\" is any anime, where the characters or their costumes transform, such as Sailor Moon. The henshin switches on the character`s special powers, and is frequently accompanied by a costume change. Often the change of clothing is the only outward indicator that the character has changed and yet nobody seems to notice the hero`s true self.Most henshin heroes have a special item which they use to change into their heroic form. These items are usually activated by a command phrase (which is often in Engrish, for some reason), triggering a transformation sequence.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 523,
+    "Name": "Hidden Vibrator",
+    "Description": "This anime features scenes where a character uses or is forced/tricked into using a vibrator in secret during every day activities, for example while at work, at school, eating dinner, etc.",
+    "IsHentai": true,
+    "ParentId": 65
+  },
+  {
+    "Id": 266,
+    "Name": "High Fantasy",
+    "Description": "Generally a serious and epic story set in an invented world. The world may be more or less based on real world environments or history. Typical fantastical elements are usually dominating, such as elves, dwarves, magicians, invented languages, quests; just to name a few.",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 239,
+    "Name": "High School",
+    "Description": "The upper-secondary education (not compulsory in Japan) covers the grades ten, eleven, and twelve. The students are typically fifteen to eighteen years old.\n\nAnime centre on High School settings predominately: Plot/story-wise the coming of age is of interest - the students are almost adults (their bodies have matured, see ecchi anime) with more earnest, real-life problems.",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 25,
+    "Name": "Historical",
+    "Description": "Historical anime have clear ties to our history and usually occur in a particular epoch.",
+    "IsHentai": false,
+    "ParentId": 10
+  },
+  {
+    "Id": 439,
+    "Name": "Hokkaido",
+    "Description": "Hokkaido (北海道 Hokkaidō, literally \"Northern Sea Circuit\"), formerly known as Ezo, Yezo, Yeso, or Yesso, is Japan`s second largest island; it is also the largest and northernmost of Japan`s 47 prefectural-level subdivisions. The Tsugaru Strait separates Hokkaido from Honshu, although the two islands are connected by the underwater railway Seikan Tunnel. The largest city on Hokkaido is its capital, Sapporo, which is also its only ordinance-designated city.(Source: Wikipedia)",
+    "IsHentai": false,
+    "ParentId": 23
+  },
+  {
+    "Id": 154,
+    "Name": "Horror",
+    "Description": "The horror cinematic genre is characterized by the attempt to make the viewer experience dread, fear, terror, or horror. Often their plots involve the intrusion of an evil force, event or personage, sometimes of supernatural origin, on the mundane world and the consequences thereof.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 455,
+    "Name": "Horse Riding",
+    "Description": "The characters here know or learn how to ride a horse.\nMostly common with fantasy, medieval, historical anime.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 301,
+    "Name": "Housewives",
+    "Description": "A housewife is a mature woman (should be out of high school age) who doesn`t necessarily have to be married in our context, but typically is. A housewife doesn`t work (depending on context, she would be an Office Lady instead), however, since we`re not as much down to technical details as we are of visuals, that restriction can be discarded if the character in question is shown mostly in home environment wearing leisure time clothing or a kimono and an apron can also be safely added to the bunch.\n\nAlmost completely exclusive to hentai animations.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 328,
+    "Name": "Human Enhancement",
+    "Description": "The enhancement of humans can take various forms: It can be something comparatively non-intrusive as a power-up drug, a form of machine implantation or cyberization (\"SAC Solid State Society\"), or outright - possibly atrocious - genetic manipulation (\"Ao no 6-gou\"). Plot-wise enhanced protagonists in anime usually have to pay a price for their enhancements, be it physical or mental. ",
+    "IsHentai": false,
+    "ParentId": 8
+  },
+  {
+    "Id": 185,
+    "Name": "Humanoid Alien",
+    "Description": "Humanoids are aliens, intelligent beings who do not originate from Earth, but have a striking similarity to humans or at least show the basic body layout, i.e. two arms and legs, head with two eyes and ears, one nose and mouth. Though the latter - head-related features - may vary. As \"DearS\" shows some aliens actually exhibit super-human beauty, or as in the case of \"Onegai Teacher\" they are genetically compatible to humans for some strange reason.",
+    "IsHentai": false,
+    "ParentId": 184
+  },
+  {
+    "Id": 376,
+    "Name": "Hyperspace Mallet",
+    "Description": "It comes from nowhere, it strikes without mercy, and disappears again. It`s a mallet the size of a circus sledgehammer, and it`s evidence that anime characters watch too many Bugs Bunny cartoons or Three Stooges shorts.",
+    "IsHentai": false,
+    "ParentId": 153
+  },
+  {
+    "Id": 395,
+    "Name": "Ice Skating",
+    "Description": "In this anime, some (if not all) skate in the ice with ice skaters. That can be either for sport or for fun.\n\nMostly common in winter settings.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 199,
+    "Name": "Idol",
+    "Description": "Idols are young media personalities who are considered particularly cute and cuddly and who will, for a period ranging from several months to a few years, regularly appear in the mass media, e.g. as singers for J-pop groups, bit-part actors, TV personalities, models in photo spreads published in magazines, advertisements, etc.",
+    "IsHentai": false,
+    "ParentId": 225
+  },
+  {
+    "Id": 48,
+    "Name": "Incest",
+    "Description": "Involves sexual relations between close relatives.\n\nIn other words, the game the whole family can enjoy!!!",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 410,
+    "Name": "Inline Skating",
+    "Description": "`Inline skates` (often called Rollerblades after the popular trade name) are a type of roller skate used for inline skating. Unlike quad skates, which are configured with two front and two rear wheels, inline skates have two, three, four or five wheels arranged in a single line.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 339,
+    "Name": "Italy",
+    "Description": "A country in South-Central Europe, Italy is the home to many historically and culturally significant buildings and works of art. It is also known for its cuisine, which created items such as pizza and lasagna, and many of the finest wines. Its capital city, Rome, was once the center of the Roman Empire. Italy is also known for its crime syndicates, specially the Cosa Nostra, which operates in Sicily and also spun off to the United States and to which the word mafia is closely tied.",
+    "IsHentai": false,
+    "ParentId": 279
+  },
+  {
+    "Id": 23,
+    "Name": "Japan",
+    "Description": "Last stronghold for humanity, if Tokyo falls, it`s all over. Tokyo Tower will undoubtedly fall anyway.",
+    "IsHentai": false,
+    "ParentId": 22
+  },
+  {
+    "Id": 286,
+    "Name": "Josei",
+    "Description": "In the context of manga and associated media, the word josei refers to a female audience roughly between the ages of 15 and 44. In Japanese, the word means simply \"woman\", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.",
+    "IsHentai": false,
+    "ParentId": 3
+  },
+  {
+    "Id": 531,
+    "Name": "Jousting",
+    "Description": "Jousting is a martial game or hastilude between two horsemen and using lances, often as part of a tournament. The primary aim is to strike the opponent with the lance while riding towards him at high speed, if possible breaking the lance on the opponent`s shield or armour, or unhorsing him.Jousting emerged in the High Middle Ages based on the military use of the lance by heavy cavalry. It transformed into a specialised sport during the Late Middle Ages and remained popular with the nobility both in England and Germany throughout the whole of the 16th century.",
+    "IsHentai": false,
+    "ParentId": 455
+  },
+  {
+    "Id": 148,
+    "Name": "Judo",
+    "Description": "Judo is a frightening sport, in that it`s not always the biggest and strongest person who wins. Being thrown flat on your back and forced to submit by girl who`s shorter and younger than you is certainly a humbling experience.",
+    "IsHentai": false,
+    "ParentId": 141
+  },
+  {
+    "Id": 201,
+    "Name": "Juujin",
+    "Description": "Juujin are characters that are otherwise human, but have some animal characteristics, like animal ears and/or a tail. The most well known type is a cat girl, but there are also cat boys, dog girls/boys, fox girls/boys etc. This category should not be confused with furry fandom or with anthropomorphic character types in general, as those are animals with human characteristics.\n\nThis category isn`t restricted to ecchi and hentai shows.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 392,
+    "Name": "Kendo",
+    "Description": "Japanese for “Way of the Sword”. Also Japanese sword-fighting martial arts style.",
+    "IsHentai": false,
+    "ParentId": 141
+  },
+  {
+    "Id": 76,
+    "Name": "Kodomo",
+    "Description": "In the context of manga and associated media, the word kodomo refers to an audience composed of small children, roughly up to the ages of 10 to 12. In Japanese, the word means simply \"child\", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic, and gives a fairly clear indication of themes, so that in most cases, the distinction for what is or isn`t kodomo should be very clear: simple language and animation, vaguely educational themes, often heartwarming elements, and absolutely nothing objectionable.",
+    "IsHentai": false,
+    "ParentId": 3
+  },
+  {
+    "Id": 195,
+    "Name": "Korea",
+    "Description": "Split personality, zerg rushers and Gangnam Style.",
+    "IsHentai": false,
+    "ParentId": 22
+  },
+  {
+    "Id": 443,
+    "Name": "Kyoto",
+    "Description": "A city and prefecture in Japan, formerly the imperial capital of Japan. Renowned for its many very beautiful, so-called \"Japanese Gardens\".Kyoto (and for that matter Nara) are almost mandatory visiting sites on any field trip in an anime with school setting.",
+    "IsHentai": false,
+    "ParentId": 23
+  },
+  {
+    "Id": 341,
+    "Name": "Lactation",
+    "Description": "Some fresh milk is good for your health",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 52,
+    "Name": "Large Breasts",
+    "Description": "Focus on larger than average breasts. Pretty common in anime. Usually involves adolescent girls or fully grown women.",
+    "IsHentai": false,
+    "ParentId": 50
+  },
+  {
+    "Id": 520,
+    "Name": "Las Vegas",
+    "Description": "Las Vegas is the most populous city in the U.S. state of Nevada and the county seat of Clark County. Las Vegas is an internationally renowned major resort city for gambling, shopping, and fine dining. The city bills itself as The Entertainment Capital of the World, and is famous for its consolidated casino–hotels and associated entertainment.",
+    "IsHentai": false,
+    "ParentId": 519
+  },
+  {
+    "Id": 323,
+    "Name": "Law and Order",
+    "Description": "Where there is \"wealth\", there are criminals. It is up to the civil law enforcement, i.e. detectives, Police or Special Squads, to keep the lawless activities in the real world or in cyberspace under control.\n\nNote: Do not confuse this with Military presence. ",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 495,
+    "Name": "Lethal Cooking",
+    "Description": "Some characters, most often than not the otherwise perfect beauty out of the main character`s harem, simply do not have any skills for cooking. Not only does anything they do turn out dangerously bad for anyone who dares to taste it, they also seem to ignite anything they try to cook, even when there is no fire or heat involved.A common element in anime which most often comes together with a cooking episode where other characters try to teach said character much needed skills to cook. Needless to say, it usually fails.",
+    "IsHentai": false,
+    "ParentId": 153
+  },
+  {
+    "Id": 411,
+    "Name": "Lingerie",
+    "Description": "The exposure of frilly (female) underwear plays a part in this anime. This could either be an ecchi element (think \"paper clothes\"), or may well be \"job\" clothing (e.g. a kinky super-heroine outfit).This often also goes along with the shopping for lingerie, i.e. additional ecchi potential.",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 73,
+    "Name": "Lolicon",
+    "Description": "Loli is a short form of the word Lolita, describing sexually precocious young girls. The related fetish for this is called Lolicon (Lolita Complex).",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 444,
+    "Name": "London",
+    "Description": "Capital city of the United Kingdom.",
+    "IsHentai": false,
+    "ParentId": 197
+  },
+  {
+    "Id": 230,
+    "Name": "Love Polygon",
+    "Description": "A love polygon refers to a romantic relationship involving n people. Although a love triangle is not limited to just heterosexual relationships, in anime, it usually deals with two females liking one male and vice versa.",
+    "IsHentai": false,
+    "ParentId": 198
+  },
+  {
+    "Id": 344,
+    "Name": "Mafia",
+    "Description": "The Mafia is a secret crime group working in many parts of the world that was created in Italy more than 200 years ago. The mafia make money from crime. They make billions of dollars a year from such crimes as making and selling illegal drugs, money laundering, from stealing, gambling and prostitution.",
+    "IsHentai": false,
+    "ParentId": 295
+  },
+  {
+    "Id": 175,
+    "Name": "Magic",
+    "Description": "In a traditional Fantasy anime with medieval setting, the lack of technology is \"compensated\" by the introduction of the supernatural, i.e. spell-casting, magic wands, and magic circles. \n\nIn another setting long-lost technology may be so advanced that it is mistaken for magic (Arthur C. Clarke: \"Any sufficiently advanced technology is indistinguishable from magic\"). See also related tag: science and magic coexist.",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 482,
+    "Name": "Magic Circles",
+    "Description": "A circle used to contain magical energy and/or to provide magical protection. It can be drawn (with chalk etc.) or it can just spontaneously appear as part of the spell/ritual.",
+    "IsHentai": false,
+    "ParentId": 175
+  },
+  {
+    "Id": 406,
+    "Name": "Mahjong",
+    "Description": "A Chinese board game for four players.",
+    "IsHentai": false,
+    "ParentId": 405
+  },
+  {
+    "Id": 247,
+    "Name": "Mahou Shoujo",
+    "Description": "Magical girls (known in Japan as majokko, and in the West as mahou shoujo) refers to young girls with superhuman abilities, usually involving magic and transformations.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 108,
+    "Name": "Maid",
+    "Description": "A maid is a female employed in domestic service. They usually wear uniforms. Maids perform typical domestic chores such as cooking, ironing, washing, cleaning the house, grocery shopping, walking the family dog, and taking care of children.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 273,
+    "Name": "Manga",
+    "Description": "Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.\nIt`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.",
+    "IsHentai": false,
+    "ParentId": 268
+  },
+  {
+    "Id": 450,
+    "Name": "Mars",
+    "Description": "The fourth planet from the sun in the solar system.\n\nPopular sci-fi setting for human colonisation and terraforming efforts.",
+    "IsHentai": false,
+    "ParentId": 128
+  },
+  {
+    "Id": 20,
+    "Name": "Martial Arts",
+    "Description": "Characterized by extensive fighting scenes employing various types of martial arts, meaning systems of codified practices and traditions of training for combat.",
+    "IsHentai": false,
+    "ParentId": 4
+  },
+  {
+    "Id": 34,
+    "Name": "Masturbation",
+    "Description": "Manual erotic stimulation of the genitals or other erotic regions, often to orgasm, either by oneself or a partner.",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 13,
+    "Name": "Mecha",
+    "Description": "Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk.",
+    "IsHentai": false,
+    "ParentId": 8
+  },
+  {
+    "Id": 74,
+    "Name": "Mechanical Tentacle",
+    "Description": "Same as tentacles, but instead of being fleshy-slimy, they`re made of metal or perhaps plastic, doesn`t really matter, as long as they look mechanical.",
+    "IsHentai": false,
+    "ParentId": 56
+  },
+  {
+    "Id": 483,
+    "Name": "Mermaid",
+    "Description": "A mermaid (half human, half fish) appears in the show.",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 345,
+    "Name": "Middle East",
+    "Description": "The Middle East is a historical and political region of Afro-Eurasia with no clear boundaries. It has a loose definition traditionally encompassing countries or regions in Western Asia and parts of North Africa such as Iran, Israel, Egypt, Morocco.",
+    "IsHentai": false,
+    "ParentId": 289
+  },
+  {
+    "Id": 238,
+    "Name": "Middle School",
+    "Description": "Also referred to as junior high school (or lower-secondary education; compulsory in Japan) covers the grades seven, eight, and nine. The students are typically twelve to fifteen years old.\n\nAnime with school setting centre on Middle School students when younger, possibly more naive and `innocent` (less worldly wise) characters are required. ",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 171,
+    "Name": "Military",
+    "Description": "The anime concerns an organised armed force, and its members. Said body should have both the equipment and hierarchy found in military groups, and should ideally be actively utilising their power against an opponent. Characters are either employed as professional soldiers or enlisted on a volunteer basis, for ideological reasons.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 78,
+    "Name": "Mina",
+    "Description": "In the context of manga and associated media, the word mina refers to a broad audience, which can be said to be \"the entire family\", from the grumpy grandpa to the newborn baby. In Japanese, the word means simply \"everyone\", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic. Mina works are deliberately targeted at a range of people as wide as possible, and are commonly associated with high-budget releases that require a very large audience to be financially viable. They usually bring mildly philosophical themes so that the adults can be interested, but do so without bringing objectionable content so that the children can be allowed to watch, and indeed also feature content specifically geared to spark their interest.",
+    "IsHentai": false,
+    "ParentId": 3
+  },
+  {
+    "Id": 446,
+    "Name": "Moon",
+    "Description": "Earth`s satellite.",
+    "IsHentai": false,
+    "ParentId": 19
+  },
+  {
+    "Id": 400,
+    "Name": "Mother-Daughter Incest",
+    "Description": "Immoral or illegal sexual relations between a mother and her daughter.",
+    "IsHentai": false,
+    "ParentId": 48
+  },
+  {
+    "Id": 529,
+    "Name": "Mother-Son Incest",
+    "Description": "Immoral or illegal sexual relations between a mother and her son.",
+    "IsHentai": false,
+    "ParentId": 48
+  },
+  {
+    "Id": 140,
+    "Name": "Motorsport",
+    "Description": "Driving involves driving in a competitive manner. Note that just driving to get groceries does not suffice, unless one does it like Takumi Fujiwara in Initial D.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 308,
+    "Name": "Movie",
+    "Description": "Based on a live action film, Japanese or otherwise.",
+    "IsHentai": false,
+    "ParentId": 268
+  },
+  {
+    "Id": 394,
+    "Name": "Muay Thai",
+    "Description": "Muay Thai is a combat sport from Thailand that uses stand-up striking along with various clinching techniques. It is similar to other Indochinese kickboxing systems, namely pradal serey from Cambodia, Tomoi from Malaysia, Lethwei from Burma and muay Lao from Laos.This physical and mental discipline which includes combat on foot is known as \"the art of eight weapons\" because it is characterized by the combined use of fists, elbows, knees, shins and feet, being associated with a good physical preparation that becomes a full-contact fight very efficient.",
+    "IsHentai": false,
+    "ParentId": 141
+  },
+  {
+    "Id": 225,
+    "Name": "Music",
+    "Description": "Music anime generally revolves around people concerned with music in their everyday lives. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competitions, characters desire for self improvement, and pursuit of a specific goal. This is not unlike the Sports category.",
+    "IsHentai": false,
+    "ParentId": 256
+  },
+  {
+    "Id": 404,
+    "Name": "Naked Apron",
+    "Description": "A character wearing nothing but an apron appears in the show.Though this will usually be a female character, in rare cases this can also be a male character.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 424,
+    "Name": "Nano Machines",
+    "Description": "The anime features sub-microscopic (nano = 10E-9 = one billionth) machines, associated with many almost \"magical\" abilities. E.g. machines that float in the bloodstream, repairing human cells in situ.",
+    "IsHentai": false,
+    "ParentId": 328
+  },
+  {
+    "Id": 262,
+    "Name": "Navy",
+    "Description": "As with Airforce and Military, this category is for anime that concerns an organised armed force, but with the difference that they should primarily conduct naval or space warfare.\n\nNote: Just because the anime contains warships, submarines or spaceships, unless it is actually about those armed forces, you might not want to add this genre. ",
+    "IsHentai": false,
+    "ParentId": 171
+  },
+  {
+    "Id": 433,
+    "Name": "Netorare",
+    "Description": "NTR = Netorare = 寝取られ = cuckold = cheatingBasically the wife/girlfriend ends up having sex with someone other than her husband/boyfriend because she either hopes to improve their relationship or is raped and blackmailed into it or deliberately aims to cheat on him. Often the cuckold finds out what is going on.Not to be confused with Netori.",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 434,
+    "Name": "Netori",
+    "Description": "Netori is what happens when the protagonist steals the lover or wife/husband of someone else.Not to be confused with Netorare.",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 519,
+    "Name": "Nevada",
+    "Description": "Nevada is a state in the western, mountain west, and southwestern regions of the United States. Nevada is the 7th most extensive, the 35th most populous, and the 9th least densely populated of the 50 United States. Over two-thirds of Nevada`s people live in one single county, Clark County, which contains the Las Vegas–Paradise metropolitan area, where the state`s three largest incorporated cities are located. Nevada`s capital is Carson City.",
+    "IsHentai": false,
+    "ParentId": 24
+  },
+  {
+    "Id": 275,
+    "Name": "New",
+    "Description": "Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.",
+    "IsHentai": false,
+    "ParentId": 268
+  },
+  {
+    "Id": 491,
+    "Name": "New Year`s Day",
+    "Description": "It is tradition in Japan to celebrate the new year at a Shinto shrine (hatsumode). The protagonists will offer some money, ring a bell at the end of a thick rope, and then pray for good fortune.This usually goes along with gorging yourself at the many temporary food stalls, playing various games, and drawing a fortune.The female characters in the anime will usually dress up in a kimono, to show off their traditional Japanese clothing, while watching the fireworks.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 445,
+    "Name": "New York",
+    "Description": "AKA The Big Apple.\n\nThe city in which many disasters happen in movies: alien invasion, monster attacks, earthquackes, tsunamis, the Doomsday, demon portal openings and they are averted by super-heroes, the army, scientists, ghost busters and many other groups.",
+    "IsHentai": false,
+    "ParentId": 24
+  },
+  {
+    "Id": 29,
+    "Name": "Ninja",
+    "Description": "A ninja is a kind of spy or assassin who lived in Japan beginning in the 14th century. They are usually clad in black to aid their secret mission and to be able to hide in the dark, although some ninja prefer to wear orange jumpsuits and be noisy. Ninja are also attributed many abilities far above those of the average human.",
+    "IsHentai": false,
+    "ParentId": 20
+  },
+  {
+    "Id": 0,
+    "Name": "NONE",
+    "Description": null,
+    "IsHentai": false,
+    "ParentId": 0
+  },
+  {
+    "Id": 414,
+    "Name": "Nopan",
+    "Description": "Not wearing underwear (panties) under one`s outer clothing.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 458,
+    "Name": "Nosebleed",
+    "Description": "A comedy element: It is said that Asians, Japanese in this case, are more prone to nose bleeding when stressed or emotionally excited. As that may be, this physical display of excitement / emotions is used extensively in anime comedy.Typically a male character will over-react to the presence of a bishoujo (beautiful girl), usually embarrassing himself and her. In rare cases there are also female characters who nosebleed, e.g. in the presence of a bishounen (handsome youth). The latter is actually funnier, because the female char suddenly loses her composure and poise.Increasing the visual impact, \"explosive nosebleeds\" have become very popular in slapstick comedy.",
+    "IsHentai": false,
+    "ParentId": 17
+  },
+  {
+    "Id": 274,
+    "Name": "Novel",
+    "Description": "Note that novel means book with words in paper, so no comics and no \"visual novels\", which should go under manga and dating-sim - visual Novel/erotic game respectively.Note that it can be applied to novels as we know them but also the typical light novels for teens and young adults, which are common in Japan and aside from being short include a number of illustrations.",
+    "IsHentai": false,
+    "ParentId": 268
+  },
+  {
+    "Id": 88,
+    "Name": "Nudity",
+    "Description": "Nudity is the state of wearing no clothing and exposing the bare skin or intimate parts.Especially gratuitous fanservice shows tend to show their characters frequently without any clothes, though often hiding genitals through the means of additions like steam.",
+    "IsHentai": false,
+    "ParentId": 83
+  },
+  {
+    "Id": 299,
+    "Name": "Nun",
+    "Description": "A nun is a woman who has taken special vows committing her to a religious life, identified by wearing an ankle-length robe and an apostolnik (or epimandylion) - a cloth veil which completely covers the head (except for the face), neck, and shoulders. Of course, you can`t expect the animators to always follow the strict characteristics of a nun, so anything that comes close enough to the attributes of a nun is good enough.Almost completely exclusive to hentai animations.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 59,
+    "Name": "Nurse",
+    "Description": "For hentai shows, it`s enough if a nurse costume is worn without the female character actually working as a nurse.For ecchi shows, the nurse profession must play a big enough part in the overall setting. Almost completely exclusive to hentai animations.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 398,
+    "Name": "Nyotaimori",
+    "Description": "Nyotaimori (女体盛り, \"female body presentation\"), often referred to as \"body sushi\", is the practice of serving sashimi or sushi from the body of a woman, typically naked.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 312,
+    "Name": "Office Lady",
+    "Description": "An office lady, often abbreviated OL, is a female office worker in Japan who performs generally pink collar tasks such as serving tea and secretarial or clerical work. Office ladies are expected to be dressed professionally, generally in women`s suits. Typically office ladies are depicted in a work environment but not always so.\n\nAlmost completely exclusive to hentai animations.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 442,
+    "Name": "Okinawa",
+    "Description": "Okinawa Prefecture (沖縄県) is one of Japan`s southern prefectures, and consists of hundreds of the Ryukyu Islands in a chain over 1,000 km long, which extends southwest from Kyushu (the southwesternmost of Japan`s main four islands) to Taiwan.",
+    "IsHentai": false,
+    "ParentId": 23
+  },
+  {
+    "Id": 452,
+    "Name": "Oral",
+    "Description": "Oral sex is sexual activity involving the stimulation of the genitalia of a sex partner by the use of the mouth, tongue, teeth or throat.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 268,
+    "Name": "Original Work",
+    "Description": "What the anime is based on! Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.",
+    "IsHentai": false,
+    "ParentId": 0
+  },
+  {
+    "Id": 437,
+    "Name": "Osaka",
+    "Description": "Osaka is a city in Japan (Kansai region, on main island of Honshu).",
+    "IsHentai": false,
+    "ParentId": 23
+  },
+  {
+    "Id": 128,
+    "Name": "Other Planet",
+    "Description": "The anime will fit this category if some or all of the action takes place on another planet which is supposedly in the same universe as Earth, not a complete fantasy world; usually there has to be some concept of space travel. The Latin name for Earth - Terra, would also pass the condition of being in the same universe as Earth. Basically, even mentioning of Earth existing or having existed would be enough. Although Moon is a moon, it also qualifies as Other Planet.",
+    "IsHentai": false,
+    "ParentId": 19
+  },
+  {
+    "Id": 354,
+    "Name": "Paizuri",
+    "Description": "Paizuri is the Japanese term for mammary intercourse, commonly known as titty-fucking or titfuck in the United States, as well as tit wank or French fuck in the United Kingdom.Mammary intercourse describes a sex act, performed as foreplay or as non-penetrative sex, that involves the stimulation of the male penis by the female breasts. Commonly, this sex act involves the man placing his penis in the woman`s cleavage and thrusting between her breasts, while the breasts are squeezed around the penis for additional stimulation. Mammary intercourse can also be combined with fellatio.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 283,
+    "Name": "Pantsu",
+    "Description": "\"Panties\" in Japanese. Upskirt views in various positions are typical, however all forms of partial or fully exposed panties are accepted. Exposure is usually accidental, but may also be deliberate. Pantsu views may be exclusive to the viewer without impacting any characters. Bikinis are not pantsu.",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 377,
+    "Name": "Pantyjob",
+    "Description": "Stimulation done by rubbing through the panties. This involves no penetration.",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 370,
+    "Name": "Paper Clothes",
+    "Description": "Usually a fanservice tag. Worn clothing appears paper-thin and takes little abuse to be shredded or torn from the body. This is common in ecchi anime where the main storyline involves some type of fighting but consists primarily of dialogue and fanservice (Ikkitousen and Platonic Heart). Various girls’ clothing exploding as if made of rice paper is a very enticing prospect.",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 209,
+    "Name": "Parallel Universe",
+    "Description": "Parallel universe/world or alternative reality is a self-contained separate reality coexisting with our own. Because \"alternative reality\" sometimes implies that the reality is a variant of our own, like for example a mirror world, we`ll use the term \"Parallel Universe\" which is more general, without any connotations implying a relationship (or lack thereof) with our own universe (meaning a fantasy world can just as well have an alternative reality, doesn`t need to be our reality). To put it more simply, this category is to show if more than 1 universe/reality/world is present in the anime.",
+    "IsHentai": false,
+    "ParentId": 291
+  },
+  {
+    "Id": 281,
+    "Name": "Parasite",
+    "Description": "Parasites are aliens, usually intelligent life-forms that feed off other beings in some way. For shock value, and to avoid having to draw aliens all the time in anime, the prey of parasites is preferably human in nature: Parasites may see humans as food, as a puppet for mind control, or simply as a temporary body host. In every case the human is the victim of the \"merging\" - not to be confused with the more \"amicable\" symbiosis.",
+    "IsHentai": false,
+    "ParentId": 184
+  },
+  {
+    "Id": 487,
+    "Name": "Parental Abandonment",
+    "Description": "In Japan it is a common custom for parents to leave their children alone at home and embark on a lifelong trip around the world once they hit the tender age of 14, sometimes even earlier.",
+    "IsHentai": false,
+    "ParentId": 330
+  },
+  {
+    "Id": 438,
+    "Name": "Paris",
+    "Description": "The capital city of France, the ‘City of Love’.",
+    "IsHentai": false,
+    "ParentId": 116
+  },
+  {
+    "Id": 151,
+    "Name": "Parody",
+    "Description": "Anime that imitate other stories (can be from TV, film, books, historical events, ...) for comic effect by exaggerating the style and changing the content of the original. Also known as spoofs. It can also refer to when whole elements of one work are lifted out of their context and reused.",
+    "IsHentai": false,
+    "ParentId": 17
+  },
+  {
+    "Id": 10,
+    "Name": "Past",
+    "Description": "Anime that takes place in the past or clearly seems to take place in the past in case of an alternative universe. This category should almost always go together with one of its sub-categories, because the past can either be a depiction of a historical event(s) or not, in which case it would be alternative past.",
+    "IsHentai": false,
+    "ParentId": 6
+  },
+  {
+    "Id": 321,
+    "Name": "Performance",
+    "Description": "The song performance on stage or acting in a theatre is a central part of the character`s life in this anime type. ",
+    "IsHentai": false,
+    "ParentId": 256
+  },
+  {
+    "Id": 326,
+    "Name": "Phallic",
+    "Description": "Resembling or pertaining to the phallus - Shows that prominently incorporate objects that resemble or replicate the action of the penis fall into this category.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 528,
+    "Name": "Photography",
+    "Description": "At least one character (main or secondary) in the story is involved (hobby or career job) in the art, practice, or occupation of taking and printing photographs.",
+    "IsHentai": false,
+    "ParentId": 256
+  },
+  {
+    "Id": 118,
+    "Name": "Piloted Robot",
+    "Description": "Piloted Robots are, as the name suggests, robots that cannot control themselves; they need to be steered from somewhere, this can be from a human sitting inside or a remote controlled option.",
+    "IsHentai": false,
+    "ParentId": 13
+  },
+  {
+    "Id": 396,
+    "Name": "Pirate",
+    "Description": "Pirates are people who attack ships on the high seas to rob others of their treasure... usually. Others calling themselves pirates may be focusing on the freedom and romance in the piracy-related tropes. They may be after the One Piece or a spaceship full of diamonds, too. Real-life pirates were extremely common a few centuries ago, but nowadays very few still exist. The word also refers to people who illegally download copyrighted works. Arr, avast! Thar be pirates in these dark waters, matey!",
+    "IsHentai": false,
+    "ParentId": 295
+  },
+  {
+    "Id": 7,
+    "Name": "Place",
+    "Description": "The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world. ",
+    "IsHentai": false,
+    "ParentId": 2
+  },
+  {
+    "Id": 233,
+    "Name": "Plot Continuity",
+    "Description": "Consistency of the characteristics of persons, plot, objects, places and events seen by the viewer.\n\nA single linear focused plot is highly continuous.\n\nA truly random plot is highly discontinuous.",
+    "IsHentai": false,
+    "ParentId": 216
+  },
+  {
+    "Id": 431,
+    "Name": "Point of View",
+    "Description": "Point of view pornography (POV) is adult entertainment that is filmed as if the watcher had experienced the sex-acts themselves.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 484,
+    "Name": "Politics",
+    "Description": "From commies to fat capitalist pigs, all the stuff done by the \"guys with the power\", mainly evil tactics for gaining more power over the masses.Watching this title may remind you why CNN is boring.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 30,
+    "Name": "Pornography",
+    "Description": "Anime clearly marked as \"Restricted 18\" material centring on all variations of adult sex, some of which can be considered as quite perverted. To certain extent, some of the elements can be seen on late night TV animations.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 26,
+    "Name": "Post-apocalypse",
+    "Description": "After a major cataclysm has occurred. World War III, an alien invasion, plague, global warming or some other general disaster are common themes to build a post-apocalyptic world upon, where the effects were severe enough that mankind barely survived.",
+    "IsHentai": false,
+    "ParentId": 461
+  },
+  {
+    "Id": 466,
+    "Name": "Post-War",
+    "Description": "An armed conflict has ended not too long ago, devastation of the world or society is still evident.",
+    "IsHentai": false,
+    "ParentId": 461
+  },
+  {
+    "Id": 117,
+    "Name": "Power Suit",
+    "Description": "Power Suits are similar to Piloted Robots which are controlled from inside the robot except that Power Suits tend to be more directly tied to how the character moves and they are usually not as big as Piloted Robots can be. They are still mechanical and shouldn`t be confused with plug suits.",
+    "IsHentai": false,
+    "ParentId": 13
+  },
+  {
+    "Id": 11,
+    "Name": "Present",
+    "Description": "Somewhere between past and future",
+    "IsHentai": false,
+    "ParentId": 6
+  },
+  {
+    "Id": 435,
+    "Name": "Prostitution",
+    "Description": "The practice or occupation of engaging in sexual activity with someone for payment.",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 249,
+    "Name": "Proxy Battles",
+    "Description": "In our terms, a proxy battle is a battle where humans use creatures/robots to do the fighting for them, either by commanding those creatures/robots or by simply evolving them/changing them into battle mode. Often the training aspect is also involved, or in some cases the proxies are nothing more than holographic representatives of some other variation of competition (like for example a card game). While many popular shounen anime fit under this category, it`s not limited to shounen anime.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 417,
+    "Name": "Public Sex",
+    "Description": "Public sex refers to sexual acts that take place in public or semi-public places.",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 379,
+    "Name": "Pussy in Your Face",
+    "Description": "Somehow, may be by accident or actually intentional, a character`s face ends up in the sweet spot between a girls legs.",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 372,
+    "Name": "Pussy Sandwich",
+    "Description": "The act of stacking one girl on top of another stomach to stomach and screwing the space in between or just alternating between their pussies.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 427,
+    "Name": "Racism",
+    "Description": "Racism is generally defined as actions, practices, or beliefs that reflect the racial worldview: the ideology that humans are divided into separate and exclusive biological entities called \"races\". This ideology entails the belief that members of a race share a set of characteristic traits, abilities, or qualities, that traits of personality, intellect, morality, and other cultural behavioral characteristics are inherited, and that this inheritance means that races can be ranked as innately superior or inferior to others.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 33,
+    "Name": "Rape",
+    "Description": "The forcing of someone to engage in sexual interaction without their consent.",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 428,
+    "Name": "Religion",
+    "Description": "Religion is a collection of belief systems, cultural systems, and worldviews that relate humanity to spirituality and, sometimes, to moral values. Many religions have narratives, symbols, traditions and sacred histories that are intended to give meaning to life or to explain the origin of life or the universe. They tend to derive morality, ethics, religious laws or a preferred lifestyle from their ideas about the cosmos and human nature.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 421,
+    "Name": "Reverse Harem",
+    "Description": "The gender-reversed version of the usual harem genre. In a reverse harem, instead of several female characters focused on one male character, the viewer sees several male characters surrounding a single female character. The most notable characteristic exclusive to reverse harem is the tendency towards bishounen looks. Homosexual relationships are not covered by reverse harem.",
+    "IsHentai": false,
+    "ParentId": 241
+  },
+  {
+    "Id": 459,
+    "Name": "Reverse Trap",
+    "Description": "A girl who dresses in male clothing.",
+    "IsHentai": false,
+    "ParentId": 340
+  },
+  {
+    "Id": 365,
+    "Name": "Rimming",
+    "Description": "Rimming is the act of using one`s tongue on the anus or perineum of another person in order to gain and/or give sexual pleasure.",
+    "IsHentai": true,
+    "ParentId": 452
+  },
+  {
+    "Id": 121,
+    "Name": "Robot Helper",
+    "Description": "Any protagonist of repute in a SciFi setting requires a side-kick (also for comic relief at times). Whereas other anime will have a cute animal side-kick, in SciFi the corresponding equivalent is the Robot Helper. A mechanized AI (artificial intelligence) that assists the character in tricky situations.",
+    "IsHentai": false,
+    "ParentId": 13
+  },
+  {
+    "Id": 198,
+    "Name": "Romance",
+    "Description": "Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 272,
+    "Name": "RPG",
+    "Description": "Any anime that is based on a role-playing game aka RPG. A role-playing video game is a video game which includes elements of non-electronic role-playing games. The player assumes control of one or several fictional characters (a party) who have joined forces in order to perform quests and overcome a great number of challenges and enemies, usually monsters inspired by fantasy, and, to a lesser extent, science fiction and classic mythology. During the course of the game the characters, or avatars, which are generally defined by quantized characteristics, evolve and improve in that their various attributes increase, as well as by gaining more powerful artefacts.",
+    "IsHentai": false,
+    "ParentId": 269
+  },
+  {
+    "Id": 387,
+    "Name": "Rugby",
+    "Description": "Rugby is a style of football game named after Rugby School in the United Kingdom. It is seen most prominently in two current sports, rugby league and rugby union. (Wikipedia)",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 432,
+    "Name": "Running with Food in Mouth",
+    "Description": "For no apparent reason, other than as a comedy element, one of the female characters in the show runs around with a toast in her mouth. Probably hints at the protagonist`s difficulty to get up on time, thus having to leave the dormitory/house in a haste to get to school.",
+    "IsHentai": false,
+    "ParentId": 153
+  },
+  {
+    "Id": 228,
+    "Name": "Russia",
+    "Description": "Russia is the largest country in the world. This includes the Asian part, with Siberia as its far-east part and the European part before the Ural mountain range, with its capital Moscow.",
+    "IsHentai": false,
+    "ParentId": 22
+  },
+  {
+    "Id": 28,
+    "Name": "Samurai",
+    "Description": "The samurai were the military nobility in pre-industrial Japan. \nBy the end of the 12th century, samurai became almost entirely synonymous with bushi (武士).\nThe samurai followed a set of written rules called the Bushidou.\nSamurai teachings can still be found today in modern day society with the martial art Kendou, meaning the way of the sword.\n\nThis Anime will include one or more sword-carrying/wielding warriors.",
+    "IsHentai": false,
+    "ParentId": 173
+  },
+  {
+    "Id": 420,
+    "Name": "Satire",
+    "Description": "In satire, vices, follies, abuses, and shortcomings are held up to ridicule, ideally with the intent of shaming individuals, and society itself, into improvement. Although satire is usually meant to be funny, its greater purpose is often constructive social criticism, using wit as a weapon. (Wikipedia)",
+    "IsHentai": false,
+    "ParentId": 17
+  },
+  {
+    "Id": 46,
+    "Name": "Scat",
+    "Description": "Coprophilia, also called scatophilia or scat, is a sexual fetish involving feces. It is a fairly common motif in Japanese animated pornography, and has even spawned a fairly successful meme inside the fandom, in which a character appears on screen with the superimposed line: \"how can you say you love her if you can`t even eat her poop?\"",
+    "IsHentai": true,
+    "ParentId": 327
+  },
+  {
+    "Id": 502,
+    "Name": "School Dormitory",
+    "Description": "One or more characters lives and/or works in a dorm or residence hall that is part of an elite academy, boarding school, or military school. The student living quarters often becoming a backdrop for a reoccurring part of the story.",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 518,
+    "Name": "School Excursion",
+    "Description": "True for almost all anime with school setting, there will be a school excursion or field trip. Tokyo and Kyoto seem to be particularly popular as sightseeing destinations. So are hiking excursions into the local mountains. This also is a good excuse to present the prefecture`s / city`s food specialities.Potential for ecchi moments: Obviously the \"boys\" will get all sorts of ideas with the \"girls\" sleeping so close by.",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 457,
+    "Name": "School Festival",
+    "Description": "The obligatory school festival (or cultural fair) with cosplay cafe, haunted house, theatre performance, and food booths cannot be missing in any school setting.For good measure there may also be an athletics or sports festival in this anime.",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 21,
+    "Name": "School Life",
+    "Description": "Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 492,
+    "Name": "School Sports Festival",
+    "Description": "To show off the students in sports clothing — in ecchi anime the female students in particular — a sports festival (or athletic meet) is quite popular in your typical anime with school setting. Here the protagonists can show their skills in diverse athletic competitions.Note: This festival may also, though very rarely, take place at a kindergarten or preschool.",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 8,
+    "Name": "Sci-Fi",
+    "Description": "Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from. ",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 371,
+    "Name": "Scissoring",
+    "Description": "Scissoring is a lesbian sex act where the partners interlock their spread legs (like two pairs of scissors) and grind their vulva together to stimulate each other.",
+    "IsHentai": true,
+    "ParentId": 37
+  },
+  {
+    "Id": 79,
+    "Name": "Seinen",
+    "Description": "In the context of manga and associated media, the word seinen refers to a male audience roughly between the ages of 15 and 44. In Japanese, the word means simply \"young man\", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.",
+    "IsHentai": false,
+    "ParentId": 3
+  },
+  {
+    "Id": 348,
+    "Name": "Sengoku Period",
+    "Description": "The Sengoku period (戦国時代, Sengoku jidai) or Warring States period in Japanese history was a time of social upheaval, political intrigue, and nearly constant military conflict that lasted roughly from the middle of the 15th century to the beginning of the 17th century. The name \"Sengoku\" was adopted by Japanese historians in reference to the Warring States period in Chinese history (Sengoku jidai (戦国時代) in Japanese) which preceded the unification of China. Likewise, the Sengoku period in Japan would eventually lead to the unification of political power under the Tokugawa shogunate.",
+    "IsHentai": false,
+    "ParentId": 25
+  },
+  {
+    "Id": 2,
+    "Name": "Setting",
+    "Description": "The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.",
+    "IsHentai": false,
+    "ParentId": 0
+  },
+  {
+    "Id": 86,
+    "Name": "Sex",
+    "Description": "Known as intercourse, the ultimate bond of love and the \"Origin of the World\" (just think of Gustave Courbet`s painting).",
+    "IsHentai": false,
+    "ParentId": 83
+  },
+  {
+    "Id": 331,
+    "Name": "Sexual Abuse",
+    "Description": "Sexual abuse (also referred to as molestation) is defined as the forcing of undesired sexual acts by one person to another. Different types of sexual abuse involve:\nNon-consensual, forced physical sexual behaviour such as rape or sexual assault;\nPsychological forms of abuse, such as verbal sexual behaviour or stalking;\nThe use of a position of trust for sexual purposes;\nIncest, when it is coerced by force or emotional manipulation.\nThe font size (category weight) for this category is meant to show the \"worst\" scene in given anime, on-screen rape or sexual assault would be the biggest font size (weight of ***), verbal sexual abuse or stalking (non-comedy scenario) would be the smallest font size (weight of +).\n\nThis category is only meant for non-hentai animations, hentai animations have the Rape category.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 409,
+    "Name": "Sexual Fantasies",
+    "Description": "One or more characters in this anime let their imaginations run wild thinking about another character.Yes, they are thinking about sex, and in an ecchi anime these thoughts are often perverted, leading to a nosebleed. But it may also be romanticising simply being husband and wife, and everything that implies.",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 401,
+    "Name": "Sex While on the Phone",
+    "Description": "Girl gets banged while talking to another person on the phone (usually her boyfriend or husband in a NTR scenario).",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 397,
+    "Name": "Shibari",
+    "Description": "Not to be confused with Hojōjutsu (捕縄術) or Nawajutsu (縄術), which is the traditional Japanese martial art of restraining a person using cord or rope.Otherwise known as Kinbaku (緊縛), Shibari is the word for \"erotic bondage\" or Kinbaku-bi which means \"beautiful bondage\". Kinbaku (also Sokubaku) is a Japanese style of sexual bondage or BDSM which involves tying up the bottom using simple yet visually intricate patterns, usually with several pieces of thin rope usually hemp or jute (generally 6 mm or 8 mm in diameter).The word Shibari came into common use in the West at some point in the 1990s to describe the bondage art Kinbaku. Shibari (縛り) is a Japanese word that literally means \"to tie\" or \"to bind\". It is used in Japan to describe the artful use of twine to tie objects or packages.In anime/manga, Shibari or Kinbaku is typically seen as a tool of rape or torture, rather than intended for a concept of bondage aesthetics.",
+    "IsHentai": false,
+    "ParentId": 57
+  },
+  {
+    "Id": 129,
+    "Name": "Shipboard",
+    "Description": "Beam me up, Scotty! Space stations (think Death Star) also count. Basically, this category is to tell if the setting takes place onboard a spaceship in space. This category is not applicable if the spaceship lies on a planet and never actually gets into space.",
+    "IsHentai": false,
+    "ParentId": 19
+  },
+  {
+    "Id": 338,
+    "Name": "Shotacon",
+    "Description": "Shota, describing sexually precocious young boys. The related fetish for this is called Shotacon (Shoutarou Complex).",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 499,
+    "Name": "Shougi",
+    "Description": "Japanese chess.",
+    "IsHentai": false,
+    "ParentId": 405
+  },
+  {
+    "Id": 77,
+    "Name": "Shoujo",
+    "Description": "In the context of manga and associated media, the word shoujo refers to a female audience roughly between the ages of 10 and 18. In Japanese, the word means simply \"young female\", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic. Still, while not mandatory, some easily identifiable traits are generally common to shoujo works, such as: simple and often one-sided romance; the daily life and dreams of an average girl; common girls who suddenly develop or receive magical powers, thus becoming \"magical girls\" (see \"mahou shoujo\"). Additionally, the art style of shoujo tends to be rather flowery, and the plots tend to be less complex than josei, but neither of those is a requirement.",
+    "IsHentai": false,
+    "ParentId": 3
+  },
+  {
+    "Id": 278,
+    "Name": "Shoujo Ai",
+    "Description": "Shoujo Ai means girls love, and as such it explores what happens when two girls (or women) fall in love. This is not to be mistaken for Yuri which is (or, at least, how this term is often used by the western audience) a hentai genre. This is not. Meaning no graphical sex.",
+    "IsHentai": false,
+    "ParentId": 198
+  },
+  {
+    "Id": 5,
+    "Name": "Shounen",
+    "Description": "In the context of manga and associated media, the word shounen refers to a male audience roughly between the ages of 10 and 18. In Japanese, the word means simply \"young male\", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic. Still, while not mandatory, some easily identifiable traits are generally common to shounen works, such as: high-action, often humorous plots featuring male protagonists; camaraderie between male friends; sports teams and fighting squads (usually coupled with the aforementioned camaraderie); unrealistically attractive female characters (see fanservice). Additionally, the art style of shounen tends to be less flowery than that of shoujo and the plots tend to be less complex than seinen, but neither of those is a requirement.",
+    "IsHentai": false,
+    "ParentId": 3
+  },
+  {
+    "Id": 277,
+    "Name": "Shounen Ai",
+    "Description": "Shounen Ai means boys love, and thus explores what happens when two boys (or men) fall in love. This is not to be mistaken for Yaoi which is a hentai genre. This is not. Meaning no graphical sex.",
+    "IsHentai": false,
+    "ParentId": 198
+  },
+  {
+    "Id": 496,
+    "Name": "Shower Scene",
+    "Description": "The anime contains a shower scene, obligatory for ecchi anime. The person under the shower will most likely be female — providing \"fanservice\".",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 415,
+    "Name": "Sixty-nine",
+    "Description": "At least one sex position from a group generically called sixty-nine or 69 is featured, characterised by a mutually inverted alignment of two people of any sex in which both perform oral sex simultaneously. Putting it another way, the top of the head of one person points more or less towards the feet of the other, and the head of each is at the height of the other`s genitals, and both perform cunnilingus or fellatio, whichever is appropriate in each case. The name stems from this mutual inversion, which resembles the numbers 6 and 9.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 374,
+    "Name": "Skimpy Clothing",
+    "Description": "When a job needs to get done you need the appropriate clothing on the appropriate persons. That calls for preferably scantily clad young ladies. Spies will dress in sexy outfits, even when the mission explicitly calls for them to not to be noticed. Female warriors will charge into battle wearing armour that does not protect the vital organs. Bridge officers on a military starship will be issued go-go boots with their uniforms. Examples are the women in VanDread, AIKa or the most famous incarnation of that tag, the Strike Witches and their precursor the Sky Girls.",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 153,
+    "Name": "Slapstick",
+    "Description": "Slapstick humour is generally recognized by lots of physical abuse, horseplay and practical jokes. Also often seen are impossible situations, using sounds to illustrate impossible stunts that aren`t shown on-screen and to create tension for audience anticipation.",
+    "IsHentai": false,
+    "ParentId": 17
+  },
+  {
+    "Id": 429,
+    "Name": "Slavery",
+    "Description": "Someone is owned by somebody else. In anime this usually affects body (slaves in a fantasy setting) or mind (the evil villain brainwashes a sidekick, creates an obedient minion or places a spell on some poor bloke). Slavery is also a common element of hentai.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 505,
+    "Name": "Slow When It Comes to Love",
+    "Description": "The main protagonists in this anime have a very hard time trying to express their feelings to each other. They simply will not finally confess their love.\n\nIn some cases this romance element is based on unrequited love, or an absurd amount of shyness.",
+    "IsHentai": false,
+    "ParentId": 198
+  },
+  {
+    "Id": 51,
+    "Name": "Small Breasts",
+    "Description": "Focus on flat-chested (pettanko) to slightly protruding breasts, often so mockingly or humorously. Usually involves children or adolescent girls.",
+    "IsHentai": false,
+    "ParentId": 50
+  },
+  {
+    "Id": 19,
+    "Name": "Space",
+    "Description": "The final frontier.",
+    "IsHentai": false,
+    "ParentId": 7
+  },
+  {
+    "Id": 447,
+    "Name": "Space Colony",
+    "Description": "The human race (or possibly some alien race) has mastered space travel and founded at least one colony either in space, on a moon or another planet. This usually also includes colony-life episodes that not only show the technical staff of professionals (astronauts, scientists, etc.), but also their families (i.e. children).",
+    "IsHentai": false,
+    "ParentId": 128
+  },
+  {
+    "Id": 174,
+    "Name": "Space Travel",
+    "Description": "Space Travel usually refers going to space or travelling there with or without a spacecraft. There are different forms of space travel like Interplanetary travel, Interstellar travel or Intergalactic travel. Since it isn`t possible to travel faster than light, most anime series involve some sort \"sub-space travel mechanism\" as a way to travel faster than light.",
+    "IsHentai": false,
+    "ParentId": 8
+  },
+  {
+    "Id": 525,
+    "Name": "Spain",
+    "Description": "Spain, officially the Kingdom of Spain (Spanish: Reino de España), is a sovereign state and a state of the European Union located in southwestern Europe on the Iberian Peninsula. Its mainland is bordered to the south and east by the Mediterranean Sea except for a small land boundary with the British Overseas Territory of Gibraltar; to the north and north east by France, Andorra, and the Bay of Biscay; and to the northwest and west by the Atlantic Ocean and Portugal.",
+    "IsHentai": false,
+    "ParentId": 279
+  },
+  {
+    "Id": 203,
+    "Name": "Special Squads",
+    "Description": "The Special Squads are called in when the police is completely outclassed, e.g. fighting criminal syndicates. These special forces are trained to combat specific forms of crime, e.g. the anti-cyber-crime division.\n\nThere are several such squads: Whereas Section 9 of Ghost in the Shell is an official government organisation, there are also \"benevolent\" vigilante groups like the Knight Sabers (Bubblegum Crisis).\n\nCriminal syndicates also have their special forces e.g. \"death squads\".",
+    "IsHentai": false,
+    "ParentId": 323
+  },
+  {
+    "Id": 488,
+    "Name": "Spellcasting",
+    "Description": "The magic version of “call your attacks”. The protagonist will explicitly call out the magical incantation for the spells.",
+    "IsHentai": false,
+    "ParentId": 175
+  },
+  {
+    "Id": 113,
+    "Name": "Sports",
+    "Description": "Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 422,
+    "Name": "Steampunk",
+    "Description": "The world depicted in this anime still widely uses steam power. The large amounts of wood or coal burning smoke pollution, and the affinity to metal constructs like cogs and metal tubing are also noteworthy.\n\nIf not set in Victorian times, can exemplify everything that is bad about unrestrained technological progress (dead matter), when compared to life and nature. The anime usually makes a point to propound the latter.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 220,
+    "Name": "Stereotypes",
+    "Description": "This show presents stereotypes, which are generalizations about a group of people. Examples would be saying that people from a certain country or with a certain hair color are stupid. If the show deals with comedy, the stereotypes are likely to be played on for laughs; if the show is a parody, the stereotypes will be exaggerated to have their flaws exposed and may be used as a form of social commentary.",
+    "IsHentai": false,
+    "ParentId": 216
+  },
+  {
+    "Id": 375,
+    "Name": "Stomach Stretch",
+    "Description": "Visible abdominal distortion from objects or anatomy pressing out from within the vaginal or anal cavity.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 111,
+    "Name": "Strapon",
+    "Description": "Employs the use of an artificial phallus so that the female can engage in the penetrating role during intercourse.",
+    "IsHentai": true,
+    "ParentId": 326
+  },
+  {
+    "Id": 386,
+    "Name": "Street Racing",
+    "Description": "Seen The Fast and The Furious or played Need for Speed Underground series? This is it: people racing in illegal races on the streets with their own modified cars and maybe seeing the police chasing them.",
+    "IsHentai": false,
+    "ParentId": 140
+  },
+  {
+    "Id": 510,
+    "Name": "Student Council",
+    "Description": "One or more of the main characters either occupy seats in their school`s student council or have close friends that take part in the council.In detail:The student council is a group of students, for the students, elected by the students. This group works in partnership with school management, staff and parents for the benefit of the school and its other students.There are typically one or two student representatives per classroom and one presiding set of officers (president, vice president, secretary, treasurer, etc.) However, many secondary schools have atleast one set of officers per grade level.The student council helps share students’ ideas, interests, and concerns with other students, teachers and school principals. They also often organize fund raisers for school-wide activities, including social events, community projects and school reform.",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 460,
+    "Name": "Succubus",
+    "Description": "In folklore that stems from ancient legend, a succubus (plural succubi) is a demon who takes the form of a woman to seduce men in dreams to have sexual intercourse.In modern times, a succubus may or may not appear in dreams and is often depicted as highly attractive, while in the past succubi were depicted as frightening and demonic. The male counterpart is the incubus.Succubi draw energy from men to sustain themselves, often until the victim becomes exhausted or dies. (source: Wikipedia)",
+    "IsHentai": false,
+    "ParentId": 167
+  },
+  {
+    "Id": 255,
+    "Name": "Sudden Girlfriend Appearance",
+    "Description": "Sudden Girlfriend Appearance anime involve a sudden change in the main character`s life where (s)he suddenly gets confronted with an individual (s)he`s sexually attracted to, the two of them inevitably becoming a couple.",
+    "IsHentai": false,
+    "ParentId": 198
+  },
+  {
+    "Id": 430,
+    "Name": "Sudden Naked Girl Appearance",
+    "Description": "A character or group of characters are simply minding their own business, when suddenly, a naked girl appears. It does not matter how or why, but a naked someone is there. Sometimes the naked girl is not happy about this. Usually this is a fanservice element, but not always.",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 481,
+    "Name": "Summer Festival",
+    "Description": "The summer festival is used to show off the female protagonists in traditional Japanese clothing — the yukata — a casual form of kimono.The festivities include food stalls (cotton candy, candy apples, choco bananas, taiyaki), various games (scoop goldfishes), and a fireworks display.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 516,
+    "Name": "Summoning",
+    "Description": "Instances when a character calls-forth things of which they command to perform or assist with certain tasks or take place in battles. Most summons respond to the summoner as their master.Summoning is common in \"proxy battle\" titles, where various creatures or robots/mechs are the most called upon.",
+    "IsHentai": false,
+    "ParentId": 175
+  },
+  {
+    "Id": 342,
+    "Name": "Super Deformed",
+    "Description": "A caricature style often seen in anime when the character shows extreme emotions, like fear, anger, happiness, surprise, or shame. Seen as cute, as part of humorous comedy. The character`s face suddenly turns into a simplified version, the body will usually also deform into that of a small child (oversized head, short limbs, extra-large tears).",
+    "IsHentai": false,
+    "ParentId": 17
+  },
+  {
+    "Id": 18,
+    "Name": "Super Power",
+    "Description": "Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.",
+    "IsHentai": false,
+    "ParentId": 4
+  },
+  {
+    "Id": 384,
+    "Name": "Swimming",
+    "Description": "One or more characters in this anime seem to swim in e.g. a pool or the sea.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 173,
+    "Name": "Swordplay",
+    "Description": "The act or art of using a sword or similar weapon skillfully.",
+    "IsHentai": false,
+    "ParentId": 4
+  },
+  {
+    "Id": 494,
+    "Name": "Talking Animals",
+    "Description": "Despite the fact that they look like regular animals, they speak and understand human language.",
+    "IsHentai": false,
+    "ParentId": 314
+  },
+  {
+    "Id": 425,
+    "Name": "Teacher x Student",
+    "Description": "Suggests a relationship involving a teacher and their student, often times sexual in nature.",
+    "IsHentai": false,
+    "ParentId": 198
+  },
+  {
+    "Id": 146,
+    "Name": "Tennis",
+    "Description": "Tennis is yet another sport involving hitting a ball. Were it not for the copious amounts of grass involved in certain varieties, it seems hard to imagine that people would pay it any attention at all.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 56,
+    "Name": "Tentacle",
+    "Description": "Tentacles are elongated flexible organs. In anime those are usually used for rape or groping. Tentacle rape is a concept, where various tentacled creatures (usually fictional monsters) rape or otherwise penetrate women (or, less commonly, men).",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 493,
+    "Name": "Terrorist",
+    "Description": "Terrorism is the systematic use of terror, imposing fear, especially as a means of coercion. Terrorism comes in many forms and has no clear definition. It is particularly associated with bomb threats, hijacking or suicide attacks.",
+    "IsHentai": false,
+    "ParentId": 295
+  },
+  {
+    "Id": 317,
+    "Name": "Themes",
+    "Description": "Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.",
+    "IsHentai": false,
+    "ParentId": 0
+  },
+  {
+    "Id": 474,
+    "Name": "Thief",
+    "Description": "At least of one of the protagonists in this anime is a (master) thief, prowling the night for valuables.",
+    "IsHentai": false,
+    "ParentId": 295
+  },
+  {
+    "Id": 362,
+    "Name": "Threesome",
+    "Description": "Tag for any scene where sexual acts take place with three people of any gender. Should not be used if more than three.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 530,
+    "Name": "Threesome with Sisters",
+    "Description": "A sexual act involving three people, in which two or all are female siblings. The third person, if not a third sister, can be of either gender, and may be another family member as well, such as their brother, father or even mother. The sisters do not necessarily have to be blood-related (e.g. stepsisters).",
+    "IsHentai": false,
+    "ParentId": 362
+  },
+  {
+    "Id": 172,
+    "Name": "Thriller",
+    "Description": "The thriller is a genre of fiction in which tough, resourceful, but essentially ordinary heroes are pitted against villains determined to destroy them, their country, or the stability of the free world. The hero of a typical thriller faces danger alone or in the company of a small band of companions. The protagonist may be a law enforcement agent, a journalist, or a soldier, but typically he or she is cut off from the resources of \"their\" organization. More often the hero is an ordinary citizen drawn into danger and intrigue by circumstances beyond their control. (Source: Wikipedia)",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 361,
+    "Name": "Throat Fucking",
+    "Description": "The act of actively thrusting one`s penis into a persons mouth and throat.",
+    "IsHentai": true,
+    "ParentId": 452
+  },
+  {
+    "Id": 6,
+    "Name": "Time",
+    "Description": "This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past. ",
+    "IsHentai": false,
+    "ParentId": 2
+  },
+  {
+    "Id": 163,
+    "Name": "Time Travel",
+    "Description": "In time travel anime characters are transported through time either figuratively or literally to find themselves either in the past or the future",
+    "IsHentai": false,
+    "ParentId": 8
+  },
+  {
+    "Id": 477,
+    "Name": "Toilet Humour",
+    "Description": "Everything leads back to poo.",
+    "IsHentai": false,
+    "ParentId": 17
+  },
+  {
+    "Id": 514,
+    "Name": "Tokyo",
+    "Description": "Tokyo, as real-world location is the backdrop of this anime.Tokyo (東京 Tōkyō, \"Eastern Capital\") is one of the 47 prefectures of Japan. Tokyo is the capital of Japan, the centre of the Greater Tokyo Area, and the largest metropolitan area of the world. It is the seat of the Japanese government and the Imperial Palace, and the home of the Japanese Imperial Family. Tokyo is in the Kantou region on the south-eastern side of the main island Honshu and includes the Izu Islands and Ogasawara Islands. Tokyo Metropolis was formed in 1943 from the merger of the former Tokyo Prefecture (東京府 Tōkyō-fu) and the city of Tokyo (東京市 Tōkyō-shi).(Source: Wikipedia)",
+    "IsHentai": false,
+    "ParentId": 23
+  },
+  {
+    "Id": 47,
+    "Name": "Torture",
+    "Description": "Any form of physical or excessive psychological abuse induced for the purpose of sexual pleasure. Think hot wax on skin, nipple clamps, electricity, extreme verbal and derogatory abuse, forced public exhibition, etc.",
+    "IsHentai": false,
+    "ParentId": 327
+  },
+  {
+    "Id": 385,
+    "Name": "Track and Field",
+    "Description": "A collection of sports events that involve running, throwing, and jumping.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 235,
+    "Name": "Tragedy",
+    "Description": "Tragedy is a form of drama characterized by seriousness and dignity, usually involving a conflict between a character and some higher power, such as the law, the gods, fate, or society.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 513,
+    "Name": "Transfer Student",
+    "Description": "If the anime has a school setting, chances are good that a transfer student (male or female) will appear.",
+    "IsHentai": false,
+    "ParentId": 21
+  },
+  {
+    "Id": 149,
+    "Name": "Transforming Robot",
+    "Description": "Transforming Robots includes mecha that change shape from their original either to facilitate better/different functionality or as camouflage.",
+    "IsHentai": false,
+    "ParentId": 13
+  },
+  {
+    "Id": 340,
+    "Name": "Trap",
+    "Description": "A male character often mistaken as a female by other characters and/or the viewer due to his feminine appearance, behaviour, and/or language (regardless of his intention).",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 399,
+    "Name": "Twincest",
+    "Description": "Or “incest between twins”. Often describes a sexual relationship between twins.The twins might be or not be actually related (in the latter case they may have previously been thought to be related, but are later discovered not to be).This is not exclusive to gender or sexual preference, and can be a heterosexual or homosexual relationship.",
+    "IsHentai": false,
+    "ParentId": 48
+  },
+  {
+    "Id": 244,
+    "Name": "Twisted",
+    "Description": "Twisted indicates more than one abrupt change in plot or story. This derivation from strict linear storytelling usually makes these anime hard to follow, and at times even very confusing when several parallel plots intertwine.",
+    "IsHentai": false,
+    "ParentId": 216
+  },
+  {
+    "Id": 480,
+    "Name": "Uncensored Version Available",
+    "Description": "There`s an uncensored version available of the hentai anime this category is added to, which in most cases means, that there was a region 1 DVD (R1 DVD = North America) release. This category should not be added to non-hentai anime.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 500,
+    "Name": "Under One Roof",
+    "Description": "For some reason or another, the main protagonist (e.g. male in harem / female in reverse-harem) is living together with many other (female/male) characters under the same roof, i.e. apartment, house, or mansion.",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 295,
+    "Name": "Underworld",
+    "Description": "The underworld we talk about here is not to be confused with the place where people are believed to go after they die, but the general term for organized crime. It is a shady world, unknown to most people, where illegal things like murder, smuggling, drug dealing and similar are happening daily. Groups known to be acting in this world are for example the mafia or the yakuza.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 197,
+    "Name": "United Kingdom",
+    "Description": "The nation that once ruled half the globe (British Empire). Origin of the English language.",
+    "IsHentai": false,
+    "ParentId": 279
+  },
+  {
+    "Id": 24,
+    "Name": "United States of America",
+    "Description": "The United States of America (commonly referred to as the United States, the U.S., the USA, or America) is a federal constitutional republic comprising fifty states and a federal district.",
+    "IsHentai": false,
+    "ParentId": 280
+  },
+  {
+    "Id": 351,
+    "Name": "Urination",
+    "Description": "Urination, also known as micturition, voiding, peeing, weeing, pissing, and more rarely, emiction, is the ejection of urine from the urinary bladder through the urethra to the outside of the body. In healthy humans the process of urination is under voluntary control. In infants, some elderly individuals, and those with neurological injury, urination may occur as an involuntary reflex. In other animals, in addition to expelling waste material, urination can mark territory or express submissiveness.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 506,
+    "Name": "Valentine`s Day",
+    "Description": "The day Japanese girls/women give their \"loved ones\" chocolate presents.In a school setting there is quite a difference between receiving honmei-chocolate, and giri-chocolate. The former is a sign of \"love\" or affection, the latter is simply a \"mandatory\" sign of compassion towards a friend or colleague.",
+    "IsHentai": false,
+    "ParentId": 317
+  },
+  {
+    "Id": 158,
+    "Name": "Vampire",
+    "Description": "A super-human species, with long fangs used to penetrate the tender neck of young females, to drink blood.",
+    "IsHentai": false,
+    "ParentId": 15
+  },
+  {
+    "Id": 451,
+    "Name": "Victorian Period",
+    "Description": "The Victorian era of British history was the period of Queen Victoria`s reign from 20 June 1837 until her death on 22 January 1901. The Victorian Era style of clothing, however, ended in 1912. It was a long period of peace, prosperity, refined sensibilities and national self-confidence for Britain. Some scholars date the beginning of the period in terms of sensibilities and political concerns to the passage of the Reform Act 1832.\n\nA famous era for old classic literature works.",
+    "IsHentai": false,
+    "ParentId": 25
+  },
+  {
+    "Id": 84,
+    "Name": "Violence",
+    "Description": "Physical force against self or other, compelling action against one`s will on pain of being hurt.",
+    "IsHentai": false,
+    "ParentId": 83
+  },
+  {
+    "Id": 285,
+    "Name": "Violent Retribution for Accidental Infringement",
+    "Description": "A comedy / slapstick element often found in Ecchi anime: The hilarity derives from spontaneous embarrassment, overreaction of the \"victim\" (girl), immediate retribution for a seemingly inappropriate act, and a sense of pity with the supposed \"aggressor\" (boy).\n\nTypically a boy will - through no fault of his own - stumble into a girl, thus invading her personal space. In the process the boy may e.g. pull down her skirt, grab the girl`s breasts, or accidentally kiss her. Any level-headed girl would see the accident just for what it is. Not so the girl with an overly developed sense of modesty, and a thing for violence. She - often a tsundere - will clobber the boy with excessive brutality.",
+    "IsHentai": false,
+    "ParentId": 153
+  },
+  {
+    "Id": 61,
+    "Name": "Virgin",
+    "Description": "A virgin is someone who yet hasn`t had any sex (has not been penetrated, to be exact), but that`s not enough for this category to be added. Add this category if a female loses her virginity and you`ll know this either because she admits of being a virgin or admits of losing her virginity and/or there`s blood coming out of her vagina.Exclusive to hentai only. Obviously only applies to females.",
+    "IsHentai": true,
+    "ParentId": 318
+  },
+  {
+    "Id": 130,
+    "Name": "Virtual Reality",
+    "Description": "A virtual reality is a place where the character interacts with a computer (or some other device)-simulated environment, be it real or imagined. The condition for a virtual reality to exist is the existence of real world for the character. In some cases, a virtual reality where characters can get harmed physically is depicted.",
+    "IsHentai": false,
+    "ParentId": 291
+  },
+  {
+    "Id": 147,
+    "Name": "Volleyball",
+    "Description": "Volleyball is a game best played on sand and half naked. Though it can be played indoors, this loses the magic somehow.",
+    "IsHentai": false,
+    "ParentId": 113
+  },
+  {
+    "Id": 250,
+    "Name": "Waitress",
+    "Description": "As it`s hard to give a good definition to what exactly is a waitress costume, the profession comes into play - waitresses are those who work at a restaurant/bar/cafe attending customers — supplying them with food and drink as requested. For ecchi shows, the waitress profession must play a big enough part in the overall setting.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 521,
+    "Name": "Wakame Sake",
+    "Description": "A sexual act in which sake is poured into the valley that appears in a woman`s lap when her legs are closed. Her partner then drinks the sake from there. Also can be used to refer to the sake which is drunk in this act. It is called wakame sake because the woman`s pubic hair in the sake is supposed to resemble soft seaweed (wakame) floating in the ocean.",
+    "IsHentai": false,
+    "ParentId": 30
+  },
+  {
+    "Id": 467,
+    "Name": "War",
+    "Description": "An armed conflict is the main theme or plays a large role in this anime.",
+    "IsHentai": false,
+    "ParentId": 461
+  },
+  {
+    "Id": 426,
+    "Name": "Wardrobe Malfunction",
+    "Description": "A euphemistic term for an embarrassing display of a body part when clothing droops, falls, or is torn. Wikipedia: \"Super Bowl XXXVIII half-time show\" for more details.",
+    "IsHentai": false,
+    "ParentId": 282
+  },
+  {
+    "Id": 350,
+    "Name": "Western",
+    "Description": "The setting and/or world are pretty much like in western films, with cowboys, Indians, deserts, small towns, bounty hunters and lots of revolvers.\n\nJust think John Wayne, Clint Eastwood and Sergio Leonne`s \"The Good, The Bad and The Ugly\", \"A Fistful of Dollars\".",
+    "IsHentai": false,
+    "ParentId": 313
+  },
+  {
+    "Id": 64,
+    "Name": "Whip",
+    "Description": "A long stick-like device, usually slightly flexible, with a small bit of leather or cord, called a \"popper\", on the end. Depending on length and flexibility, this type is often called a riding whip, riding crop or \"bat\". It is also sometimes called a \"horsewhip\" or \"horse whip\".",
+    "IsHentai": false,
+    "ParentId": 327
+  },
+  {
+    "Id": 388,
+    "Name": "Window Fuck",
+    "Description": "Fucking a girl from behind, while she`s facing a window. Often, her breasts are exposed and pressed against the glass, and she is embarrassed about being seen by neighbours.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 509,
+    "Name": "Witch",
+    "Description": "A person, usually female, who practises or professes to practise magic or sorcery, especially black magic (the latter isn`t always true in the anime).",
+    "IsHentai": false,
+    "ParentId": 175
+  },
+  {
+    "Id": 465,
+    "Name": "World War I",
+    "Description": "Set in the time of World War 1",
+    "IsHentai": false,
+    "ParentId": 25
+  },
+  {
+    "Id": 193,
+    "Name": "World War II",
+    "Description": "This category is for anime that take place during or around World War II, including the prelude to the actual war when Hitler came to power.",
+    "IsHentai": false,
+    "ParentId": 25
+  },
+  {
+    "Id": 383,
+    "Name": "Wrestling",
+    "Description": "Wrestling is a fight between two people without weapons, in which each person tries to beat their opponent. Wrestlers use clinching, holding, locking, and leverage. It resembles ritual fighting as it avoids things that will likely lead to serious injury. It is similar to military hand-to-hand combat or self-defence systems.",
+    "IsHentai": false,
+    "ParentId": 141
+  },
+  {
+    "Id": 334,
+    "Name": "Yakuza",
+    "Description": "Yakuza, also known as the Japanese Mafia, refers to traditional organized crime groups in Japan and members thereof. They have a hierarchical structure, with the \"oyabun\", the family head, standing on top. They also have their own code, the \"jingi\", where loyalty and respect are a way of life.\n\nYakuza members are identifiable for their, often full-body, tattoos and missing fingers, a result of the yubitsume ritual, which is a form of penance or apology.",
+    "IsHentai": false,
+    "ParentId": 344
+  },
+  {
+    "Id": 38,
+    "Name": "Yaoi",
+    "Description": "Yaoi refers to anime that portray gay (male/male) sex. Do not confuse this with the Shounen Ai category under Romance, which only portrays male/male relationships, but generally not anything pornographic. This is real male/male porn.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 37,
+    "Name": "Yuri",
+    "Description": "Yuri refers to anime that portray lesbian (female/female) sex. Do not confuse this with the Shoujo Ai category under Romance, which only portrays girl/girl relationships, but generally not anything pornographic. This is real female/female porn.",
+    "IsHentai": true,
+    "ParentId": 30
+  },
+  {
+    "Id": 479,
+    "Name": "Zettai Ryouiki",
+    "Description": "Japanese for \"absolute area\", and refers to an area of bare skin on the legs between a skirt and knee- or thigh-high stockings.",
+    "IsHentai": false,
+    "ParentId": 318
+  },
+  {
+    "Id": 476,
+    "Name": "Zombie",
+    "Description": "At least one undead zombie graces this anime with an appearance.",
+    "IsHentai": false,
+    "ParentId": 15
+  }
+]

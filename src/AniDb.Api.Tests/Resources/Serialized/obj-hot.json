@@ -1,0 +1,204 @@
+[
+  {
+    "Id": 9875,
+    "EpisodeCount": null,
+    "StartDate": "1982-10-01T00:00:00",
+    "EndDate": "1983-01-01T00:00:00",
+    "Restricted": false,
+    "Picture": "143867.jpg",
+    "Rating": {
+      "Permanent": {
+        "Key": 310,
+        "Value": 7.09
+      },
+      "Temporary": {
+        "Key": 319,
+        "Value": 7.83
+      },
+      "Review": {
+        "Key": 1,
+        "Value": 6.0
+      }
+    }
+  },
+  {
+    "Id": 9518,
+    "EpisodeCount": null,
+    "StartDate": "2013-10-03T00:00:00",
+    "EndDate": null,
+    "Restricted": false,
+    "Picture": "142441.jpg",
+    "Rating": {
+      "Permanent": {
+        "Key": 211,
+        "Value": 5.65
+      },
+      "Temporary": {
+        "Key": 220,
+        "Value": 7.1
+      },
+      "Review": {
+        "Key": 1,
+        "Value": 3.83
+      }
+    }
+  },
+  {
+    "Id": 9772,
+    "EpisodeCount": null,
+    "StartDate": "2013-10-04T00:00:00",
+    "EndDate": null,
+    "Restricted": false,
+    "Picture": "143573.jpg",
+    "Rating": {
+      "Permanent": {
+        "Key": 134,
+        "Value": 5.23
+      },
+      "Temporary": {
+        "Key": 139,
+        "Value": 6.98
+      },
+      "Review": null
+    }
+  },
+  {
+    "Id": 9677,
+    "EpisodeCount": 25,
+    "StartDate": "2013-09-06T00:00:00",
+    "EndDate": null,
+    "Restricted": false,
+    "Picture": "142550.jpg",
+    "Rating": {
+      "Permanent": {
+        "Key": 168,
+        "Value": 6.02
+      },
+      "Temporary": {
+        "Key": 170,
+        "Value": 7.32
+      },
+      "Review": {
+        "Key": 1,
+        "Value": 5.0
+      }
+    }
+  },
+  {
+    "Id": 9771,
+    "EpisodeCount": null,
+    "StartDate": "2013-09-23T00:00:00",
+    "EndDate": null,
+    "Restricted": false,
+    "Picture": "138270.jpg",
+    "Rating": {
+      "Permanent": {
+        "Key": 173,
+        "Value": 5.67
+      },
+      "Temporary": {
+        "Key": 181,
+        "Value": 7.31
+      },
+      "Review": null
+    }
+  },
+  {
+    "Id": 9855,
+    "EpisodeCount": null,
+    "StartDate": "2013-10-04T00:00:00",
+    "EndDate": null,
+    "Restricted": false,
+    "Picture": "142600.jpg",
+    "Rating": {
+      "Permanent": {
+        "Key": 152,
+        "Value": 4.99
+      },
+      "Temporary": {
+        "Key": 156,
+        "Value": 7.01
+      },
+      "Review": null
+    }
+  },
+  {
+    "Id": 9849,
+    "EpisodeCount": null,
+    "StartDate": "2013-10-04T00:00:00",
+    "EndDate": null,
+    "Restricted": false,
+    "Picture": "141261.jpg",
+    "Rating": {
+      "Permanent": {
+        "Key": 95,
+        "Value": 2.83
+      },
+      "Temporary": {
+        "Key": 99,
+        "Value": 5.81
+      },
+      "Review": null
+    }
+  },
+  {
+    "Id": 9665,
+    "EpisodeCount": 12,
+    "StartDate": "2013-09-15T00:00:00",
+    "EndDate": "2013-12-23T00:00:00",
+    "Restricted": false,
+    "Picture": "140516.jpg",
+    "Rating": {
+      "Permanent": {
+        "Key": 114,
+        "Value": 5.36
+      },
+      "Temporary": {
+        "Key": 117,
+        "Value": 7.02
+      },
+      "Review": {
+        "Key": 1,
+        "Value": 3.33
+      }
+    }
+  },
+  {
+    "Id": 9481,
+    "EpisodeCount": null,
+    "StartDate": "2013-10-09T00:00:00",
+    "EndDate": null,
+    "Restricted": false,
+    "Picture": "140228.jpg",
+    "Rating": {
+      "Permanent": {
+        "Key": 103,
+        "Value": 5.35
+      },
+      "Temporary": {
+        "Key": 105,
+        "Value": 7.03
+      },
+      "Review": null
+    }
+  },
+  {
+    "Id": 9387,
+    "EpisodeCount": null,
+    "StartDate": "2013-09-27T00:00:00",
+    "EndDate": null,
+    "Restricted": false,
+    "Picture": "142836.jpg",
+    "Rating": {
+      "Permanent": {
+        "Key": 106,
+        "Value": 4.94
+      },
+      "Temporary": {
+        "Key": 109,
+        "Value": 6.77
+      },
+      "Review": null
+    }
+  }
+]

@@ -7,6 +7,7 @@ namespace AniDb.Api.Http
         private readonly static Dictionary<HttpRequests.RequestTarget, string> _urlTemplates = new Dictionary<HttpRequests.RequestTarget, string> {
             {HttpRequests.RequestTarget.Anime, "http://api.anidb.net:9001/httpapi?request=anime&client={0}&clientver={1}&protover=1&aid={2}"},
             {HttpRequests.RequestTarget.Category, "http://api.anidb.net:9001/httpapi?client={0}&clientver={1}&protover=1&request=categorylist"},
+            {HttpRequests.RequestTarget.Hot, "http://api.anidb.net:9001/httpapi?client={0}&clientver={1}&protover=1&request=hotanime"}
         };
 
         protected readonly ClientCredentials _client;

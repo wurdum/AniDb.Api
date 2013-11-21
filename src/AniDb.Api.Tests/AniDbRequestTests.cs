@@ -26,6 +26,11 @@ namespace AniDb.Api.Tests
             return HttpRequests.CreateToCategory(client).Uri.ToString();
         }
 
+        [Test, TestCaseSource("RequestBuilderHotUrlCases")]
+        public string RequestBuilderHotUrlTest(ClientCredentials client) {
+            return HttpRequests.CreateToHot(client).Uri.ToString();
+        }
+
         [Test, TestCaseSource("ResponseResultsDependingOnResponseBody")]
         public void AnimeResponseBodyTest(Type exceptionType, string responseBody) {
             var readerMock = new Mock<AnimeReader>();
@@ -36,6 +41,15 @@ namespace AniDb.Api.Tests
             var aniDbResponse = new AniDbResponse(webResponse, responseBody);
 
             Assert.Throws(exceptionType, () => aniDbResponse.Read(readerMock.Object));
+        }
+
+        private static IEnumerable<TestCaseData> RequestBuilderHotUrlCases {
+            get {
+                yield return new TestCaseData(new ClientCredentials("xxx", 1))
+                    .Returns("http://api.anidb.net:9001/httpapi?client=xxx&clientver=1&protover=1&request=hotanime");
+                yield return new TestCaseData(new ClientCredentials("yyy", 2))
+                    .Returns("http://api.anidb.net:9001/httpapi?client=yyy&clientver=2&protover=1&request=hotanime");
+            }
         }
 
         private static IEnumerable<TestCaseData> RequestBuilderCategoryUrlCases {

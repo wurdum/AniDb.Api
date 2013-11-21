@@ -26,6 +26,12 @@ namespace AniDb.Api.Tests
                 .ToArray();
         }
 
+        public static string[] AllValidHotResponsesFiles() {
+            return Directory.GetFileSystemEntries(Path.Combine(AppRoot, ResourcesDir, ResponsesDir))
+                .Where(f => f.StartsWith("hot") && !f.Contains("99"))
+                .ToArray();
+        }
+
         public static string[] AllSerializedAnimeObjectFiles() {
             return Directory.GetFileSystemEntries(Path.Combine(AppRoot, ResourcesDir, SerializedDir))
                 .Where(f => f.StartsWith("anime") && !f.Contains("99999"))

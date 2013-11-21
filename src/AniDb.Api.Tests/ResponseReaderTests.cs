@@ -40,6 +40,19 @@ namespace AniDb.Api.Tests
         }
 
         [Test]
+        public void HotReaderThrowsXmlExceptionTest() {
+            var body = File.ReadAllText(Helpers.ResponseFile("hot.xml")).Substring(1);
+            var reader = new HotReader();
+
+            try {
+                reader.ReadObject(body);
+            } catch (ResponseReadXmlException ex) {
+                Assert.AreEqual(body, ex.ResponseBody);
+                Assert.AreEqual(typeof(XmlException), ex.InnerException.GetType());
+            }
+        }
+
+        [Test]
         public void AnimeReaderThrowsValidationExceptionTest() {
             var body = File.ReadAllText(Helpers.ResponseFile("anime-999998.xml"));
             var reader = new AnimeReader();
@@ -53,6 +66,16 @@ namespace AniDb.Api.Tests
         public void CategoryReaderThrowsValidationExceptionTest() {
             var body = File.ReadAllText(Helpers.ResponseFile("category-999999.xml"));
             var reader = new CategoryReader();
+
+            var ex = Assert.Throws<ResponseValidateXmlException>(() => reader.ReadObject(body));
+            Assert.AreEqual(body, ex.ResponseBody);
+            Assert.AreEqual(1, ex.SchemaExceptions.Count());
+        }
+
+        [Test]
+        public void HotReaderThrowsValidationExceptionTest() {
+            var body = File.ReadAllText(Helpers.ResponseFile("hot-999.xml"));
+            var reader = new HotReader();
 
             var ex = Assert.Throws<ResponseValidateXmlException>(() => reader.ReadObject(body));
             Assert.AreEqual(body, ex.ResponseBody);
@@ -80,6 +103,21 @@ namespace AniDb.Api.Tests
             CollectionAssert.AreEqual(objFromFile, objFromResponse);
         }
 
+        [Test]
+        public void ReadingHotResponseBodyTest() {
+            var reader = new HotReader();
+            var objFromResponse = reader.ReadObject(File.ReadAllText(Helpers.ResponseFile("hot.xml")));
+            var objFromFile = JsonConvert.DeserializeObject<HotAnime[]>(File.ReadAllText(Helpers.SerializedObjectFile("obj-hot.json")));
+
+            CollectionAssert.AreEqual(objFromFile, objFromResponse);
+        }
+
+        /*[Test]
+        public void SaveHotResponse() {
+            var result = HttpRequests.CreateToHot(new ClientCredentials("supermango", 1)).GetResponseAsync().Result.ResponseBody;
+            File.WriteAllText(Helpers.ResponseFile("hot-1.xml"), result);
+        }*/
+
         /*[Test]
         public void RecreateJsonAnimeObjects() {
             var animeReader = new AnimeReader();
@@ -98,6 +136,15 @@ namespace AniDb.Api.Tests
             var obj = reader.ReadObject(File.ReadAllText(Helpers.ResponseFile("category.xml")));
 
             File.WriteAllText(Helpers.SerializedObjectFile("obj-category.json"), 
+                JsonConvert.SerializeObject(obj, Formatting.Indented));
+        }*/
+
+        /*[Test]
+        public void RecreateJsonHotObject() {
+            var reader = new HotReader();
+            var obj = reader.ReadObject(File.ReadAllText(Helpers.ResponseFile("hot.xml")));
+
+            File.WriteAllText(Helpers.SerializedObjectFile("obj-hot.json"), 
                 JsonConvert.SerializeObject(obj, Formatting.Indented));
         }*/
     }

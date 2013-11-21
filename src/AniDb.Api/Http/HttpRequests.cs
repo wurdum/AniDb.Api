@@ -14,7 +14,7 @@ namespace AniDb.Api.Http
         }
 
         public static AniDbRequest CreateToHot(ClientCredentials client) {
-            throw new NotImplementedException();
+            return HttpRequestBuilder.For(client, RequestTarget.Hot).Build();
         }
     }
 }

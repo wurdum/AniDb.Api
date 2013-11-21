@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotanime>
+    <anime id="9875" restricted="false">
+        <startdate>1982-10</startdate>
+        <enddate>1983</enddate>
+        <title type="main" xml:lang="x-jat">Kill La Kill</title>
+        <ratings>
+            <permanent count="310">7.09</permanent>
+            <temporary count="319">7.83</temporary>
+            <review count="1">6.00</review>
+        </ratings>
+        <picture>143867.jpg</picture>
+    </anime>
+    <anime id="9518" restricted="false">
+        <startdate>2013-10-03</startdate>
+        <title type="main" xml:lang="x-jat">Kyoukai no Kanata</title>
+        <ratings>
+            <permanent count="211">5.65</permanent>
+            <temporary count="220">7.10</temporary>
+            <review count="1">3.83</review>
+        </ratings>
+        <picture>142441.jpg</picture>
+    </anime>
+    <anime id="9772" restricted="false">
+        <startdate>2013-10-04</startdate>
+        <title type="main" xml:lang="x-jat">Strike the Blood</title>
+        <ratings>
+            <permanent count="134">5.23</permanent>
+            <temporary count="139">6.98</temporary>
+        </ratings>
+        <picture>143573.jpg</picture>
+    </anime>
+    <anime id="9677" restricted="false">
+        <episodecount>25</episodecount>
+        <startdate>2013-09-06</startdate>
+        <title type="main" xml:lang="x-jat">Log Horizon</title>
+        <ratings>
+            <permanent count="168">6.02</permanent>
+            <temporary count="170">7.32</temporary>
+            <review count="1">5.00</review>
+        </ratings>
+        <picture>142550.jpg</picture>
+    </anime>
+    <anime id="9771" restricted="false">
+        <startdate>2013-09-23</startdate>
+        <title type="main" xml:lang="x-jat">Golden Time</title>
+        <ratings>
+            <permanent count="173">5.67</permanent>
+            <temporary count="181">7.31</temporary>
+        </ratings>
+        <picture>138270.jpg</picture>
+    </anime>
+    <anime id="9855" restricted="false">
+        <startdate>2013-10-04</startdate>
+        <title type="main" xml:lang="x-jat">Outbreak Company</title>
+        <ratings>
+            <permanent count="152">4.99</permanent>
+            <temporary count="156">7.01</temporary>
+        </ratings>
+        <picture>142600.jpg</picture>
+    </anime>
+    <anime id="9849" restricted="false">
+        <startdate>2013-10-04</startdate>
+        <title type="main" xml:lang="x-jat">IS: Infinite Stratos 2</title>
+        <ratings>
+            <permanent count="95">2.83</permanent>
+            <temporary count="99">5.81</temporary>
+        </ratings>
+        <picture>141261.jpg</picture>
+    </anime>
+    <anime id="9665" restricted="false">
+        <episodecount>12</episodecount>
+        <startdate>2013-09-15</startdate>
+        <enddate>2013-12-23</enddate>
+        <title type="main" xml:lang="x-jat">Machine-Doll wa Kizutsukanai</title>
+        <ratings>
+            <permanent count="114">5.36</permanent>
+            <temporary count="117">7.02</temporary>
+            <review count="1">3.33</review>
+        </ratings>
+        <picture>140516.jpg</picture>
+    </anime>
+    <anime id="9481" restricted="false">
+        <startdate>2013-10-09</startdate>
+        <title type="main" xml:lang="x-jat">Tokyo Ravens</title>
+        <ratings>
+            <permanent count="103">5.35</permanent>
+            <temporary count="105">7.03</temporary>
+        </ratings>
+        <picture>140228.jpg</picture>
+    </anime>
+    <anime id="9387" restricted="false">
+        <startdate>2013-09-27</startdate>
+        <title type="main" xml:lang="x-jat">Nagi no Asukara</title>
+        <ratings>
+            <permanent count="106">4.94</permanent>
+            <temporary count="109">6.77</temporary>
+        </ratings>
+        <picture>142836.jpg</picture>
+    </anime>
+</hotanime>

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Threading;
 using AniDb.Api.Exceptions;
+using AniDb.Api.Http;
 using AniDb.Api.ResponseReaders;
 using Newtonsoft.Json;
 
@@ -26,7 +27,7 @@ namespace AniDb.Api.Console
                 var aid = index[i].Id;
                 var responseFile = GetResponseFile(aid);
                 if (!AlreadyRequested(aid)) {
-                    File.WriteAllText(responseFile, Requests.CreateToAnime(client, aid).GetResponseAsync().Result.ResponseBody);
+                    File.WriteAllText(responseFile, HttpRequests.CreateToAnime(client, aid).GetResponseAsync().Result.ResponseBody);
                     Thread.Sleep(TimeSpan.FromSeconds(20));
                 }
                 

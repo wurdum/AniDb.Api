@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using AniDb.Api.Exceptions;
+using AniDb.Api.Http;
 using AniDb.Api.Models;
 using AniDb.Api.ResponseReaders;
 using AniDb.Api.Tests.Stubs;
@@ -17,16 +18,16 @@ namespace AniDb.Api.Tests
 
         [Test, TestCaseSource("RequestBuilderAnimeUrlCases")]
         public string RequstBuilderAnimeUrlTest(ClientCredentials client, object[] pars) {
-            return Requests.CreateToAnime(client, (int)pars[0]).Uri.ToString();
+            return HttpRequests.CreateToAnime(client, (int)pars[0]).Uri.ToString();
         }
 
         [Test, TestCaseSource("RequestBuilderCategoryUrlCases")]
         public string RequestBuilderCategoryUrlTest(ClientCredentials client) {
-            return Requests.CreateToCategory(client).Uri.ToString();
+            return HttpRequests.CreateToCategory(client).Uri.ToString();
         }
 
         [Test, TestCaseSource("ResponseResultsDependingOnResponseBody")]
-        public Anime ResponseBodyTest(string responseBody) {
+        public void AnimeResponseBodyTest(Type exceptionType, string responseBody) {
             var readerMock = new Mock<AnimeReader>();
             readerMock.Setup(r => r.ReadObject(It.IsAny<string>())).Returns(new Anime());
             var webRequest = new TestWebRequest();
@@ -34,7 +35,7 @@ namespace AniDb.Api.Tests
             
             var aniDbResponse = new AniDbResponse(webResponse, responseBody);
 
-            return aniDbResponse.Read(readerMock.Object);
+            Assert.Throws(exceptionType, () => aniDbResponse.Read(readerMock.Object));
         }
 
         private static IEnumerable<TestCaseData> RequestBuilderCategoryUrlCases {
@@ -57,9 +58,8 @@ namespace AniDb.Api.Tests
 
         private static IEnumerable<TestCaseData> ResponseResultsDependingOnResponseBody {
             get {
-                yield return new TestCaseData(ClientErrorBody).Throws(typeof(ClientCredentialsException));
-                yield return new TestCaseData(AidErrorBody).Throws(typeof(AnimeIdException));
-                yield return new TestCaseData(new String('.', 100)).Returns(new Anime());
+                yield return new TestCaseData(typeof(ClientCredentialsException), ClientErrorBody);
+                yield return new TestCaseData(typeof(AnimeIdException), AidErrorBody);
             }
         }
     }

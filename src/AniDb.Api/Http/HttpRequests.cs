@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 
-namespace AniDb.Api
+namespace AniDb.Api.Http
 {
-    public class Requests {
+    public class HttpRequests {
         public enum RequestTarget { Anime = 1, Category, Hot }
 
         public static AniDbRequest CreateToAnime(ClientCredentials client, int id) {

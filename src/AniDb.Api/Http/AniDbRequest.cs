@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AniDb.Api
+namespace AniDb.Api.Http
 {
     public class AniDbRequest
     {

@@ -45,20 +45,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AniDbRequest.cs" />
-    <Compile Include="AniDbResponse.cs" />
     <Compile Include="ClientCredentials.cs" />
     <Compile Include="Exceptions\AnimeIdException.cs" />
     <Compile Include="Exceptions\ClientCredentialsException.cs" />
     <Compile Include="Exceptions\ResponseReadXmlException.cs" />
     <Compile Include="Exceptions\ResponseValidateXmlException.cs" />
     <Compile Include="Extentions.cs" />
-    <Compile Include="HttpRequestBuilder.cs" />
+    <Compile Include="Http\AniDbRequest.cs" />
+    <Compile Include="Http\AniDbResponse.cs" />
+    <Compile Include="Http\HttpRequestBuilder.cs" />
+    <Compile Include="Http\HttpRequests.cs" />
     <Compile Include="Index.cs" />
     <Compile Include="Models\Anime.cs" />
     <Compile Include="Models\Category.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Requests.cs" />
     <Compile Include="ResponseReaders\AnimeReader.cs" />
     <Compile Include="ResponseReaders\CategoryReader.cs" />
     <Compile Include="ResponseReaders\Deserialized\Anime.cs" />

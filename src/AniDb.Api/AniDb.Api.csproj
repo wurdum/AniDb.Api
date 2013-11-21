@@ -64,6 +64,7 @@
     <Compile Include="ResponseReaders\Deserialized\Anime.cs" />
     <Compile Include="ResponseReaders\Deserialized\Category.cs" />
     <Compile Include="ResponseReaders\Mappers\AnimeModelMapper.cs" />
+    <Compile Include="ResponseReaders\Mappers\CategoryModelMapper.cs" />
     <Compile Include="ResponseReaders\Mappers\ModelMapper.cs" />
     <Compile Include="ResponseReaders\ResponseReader.cs" />
   </ItemGroup>
@@ -72,6 +73,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Data\ValidAnimeResponse.xsd">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\ValidCategoryResponse.xsd">
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

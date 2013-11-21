@@ -20,9 +20,9 @@ namespace AniDb.Api.Tests
             return Path.Combine(AppRoot, ResourcesDir, SerializedDir, fileName);
         }
 
-        public static string[] AllValidResponsesFiles() {
+        public static string[] AllValidAnimeResponsesFiles() {
             return Directory.GetFileSystemEntries(Path.Combine(AppRoot, ResourcesDir, ResponsesDir))
-                .Where(f => !f.Contains("99999"))
+                .Where(f => f.StartsWith("anime") && !f.Contains("99999"))
                 .ToArray();
         }
 

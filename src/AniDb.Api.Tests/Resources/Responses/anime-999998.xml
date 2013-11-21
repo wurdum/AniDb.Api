@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anime id="1774" restricted="false">
+  <type>TV Series</type>
+  <episodecount>24</episodecount>
+  <episodecount1>24</episodecount1>
+  <startdate>2001-01-06</startdate>
+  <enddate>2001-06-30</enddate>
+  <titles>
+    <title type="main" xml:lang="x-jat">Zoids Shin Seiki/Zero</title>
+    <title type="synonym" xml:lang="ja">ゾイド新世紀スラッシュゼロ</title>
+    <title type="synonym" xml:lang="en">ZOIDS New Century/Zero</title>
+    <title type="official" xml:lang="ja">ゾイド新世紀 / ゼロ</title>
+    <title type="official" xml:lang="en">ZOIDS</title>
+  </titles>
+  <relatedanime>
+    <anime id="1382" type="Same Setting">Zoids</anime>
+    <anime id="1775" type="Same Setting">Zoids Fuzors</anime>
+    <anime id="3070" type="Same Setting">Zoids Genesis</anime>
+  </relatedanime>
+  <url>http://mbs.jp/zero/</url>
+  <creators>
+    <name id="719" type="Animation Production">Xebec</name>
+    <name id="7716" type="Character Design">Sakazaki Tadashi</name>
+    <name id="3748" type="Series Composition">Sumisawa Katsuyuki</name>
+    <name id="682" type="Direction">Kato Takao</name>
+  </creators>
+  <description>Days have past and past from the age of wars. Zoids Battle becomes sports, and players are called warriors. Both Imperial Force and Republice Force try to capture Zoid as a weapon, and three children protect it from unsympathetic adults.Source: AnimeNfoNote: Zoids New Century takes place 4000 years after classic Zoids.</description>
+  <ratings>
+    <permanent count="328">4.85</permanent>
+    <temporary count="344">7.13</temporary>
+    <review count="1">3.33</review>
+  </ratings>
+  <picture>2658.jpg</picture>
+  <categories>
+    <category hentai="false" id="113" parentid="317" weight="400">
+      <name>Sports</name>
+      <description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+    </category>
+    <category hentai="false" id="8" parentid="313" weight="400">
+      <name>Sci-Fi</name>
+      <description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from. </description>
+    </category>
+    <category hentai="false" id="13" parentid="8" weight="400">
+      <name>Mecha</name>
+      <description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk.</description>
+    </category>
+    <category hentai="false" id="118" parentid="13" weight="500">
+      <name>Piloted Robot</name>
+      <description>Piloted Robots are, as the name suggests, robots that cannot control themselves; they need to be steered from somewhere, this can be from a human sitting inside or a remote controlled option.</description>
+    </category>
+    <category hentai="false" id="4" parentid="313" weight="400">
+      <name>Action</name>
+      <description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting. </description>
+    </category>
+    <category hentai="false" id="289" parentid="7" weight="400">
+      <name>Earth</name>
+      <description>The Earth is the third planet from the Sun. It is a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). To its inhabitants, our planet is their home, so, as a species, we cherish it to the point many cultures even to this day deify it. The Earth is the main setting of most fiction, but many titles are set in other places, such as unrelated fantasy worlds, and in a considerable number of fictional titles the Earth is actually destroyed by invaders.</description>
+    </category>
+  </categories>
+  <resources>
+    <resource type="1">
+      <externalentity>
+        <identifier>323</identifier>
+      </externalentity>
+    </resource>
+    <resource type="2">
+      <externalentity>
+        <identifier>764</identifier>
+      </externalentity>
+    </resource>
+    <resource type="3">
+      <externalentity>
+        <identifier>814</identifier>
+        <identifier>zbrqga</identifier>
+      </externalentity>
+    </resource>
+    <resource type="4">
+      <externalentity>
+        <url>http://mbs.jp/zero/</url>
+      </externalentity>
+    </resource>
+    <resource type="7">
+      <externalentity>
+        <identifier>ゾイド新世紀スラッシュゼロ</identifier>
+      </externalentity>
+    </resource>
+    <resource type="9">
+      <externalentity>
+        <identifier>234328</identifier>
+      </externalentity>
+    </resource>
+    <resource type="10">
+      <externalentity>
+        <identifier>4290</identifier>
+      </externalentity>
+    </resource>
+  </resources>
+  <tags>
+    <tag approval="1" globalspoiler="false" id="827" localspoiler="false" spoiler="false" update="2009-05-28">
+      <name>lost technology</name>
+      <count>79</count>
+      <description>Any advanced technology or science-related knowledge that was lost for some reason fits the description. This could be technology from a time before a post-apocalyptic cataclysm, knowledge gained a long time ago but forgotten, or the relics of an old alien civilization only recently discovered.</description>
+    </tag>
+    <tag approval="1" globalspoiler="false" id="153" localspoiler="false" spoiler="false" update="2008-01-16">
+      <name>awesome comedy duo</name>
+      <count>38</count>
+      <description>A pair of strongly contrasting characters with incredibly quick and witty dialogues bring about much hilarity.</description>
+    </tag>
+    <tag approval="1" globalspoiler="false" id="323" localspoiler="false" spoiler="false" update="2010-03-14">
+      <name>tournament</name>
+      <count>56</count>
+      <description>A competition involving a large number or participants. Such competitions may range from friendly, moderated sporting events to anything-goes, all-out fights to the death.All participants take part in the tournament in want or need of the final goal and possible prizes; which depending on genre, may range from a boastful record at school to great riches and/or the granting of a wish. Depending on the type of tournament, contestants will either act alone, be permitted a team, or construct a team of chance throughout the ongoing competition.</description>
+    </tag>
+  </tags>
+  <characters>
+    <character id="9431" type="main character in" update="2009-06-15">
+      <rating votes="1">7.09</rating>
+      <name>Bit Cloud</name>
+      <gender>male</gender>
+      <charactertype id="1">Character</charactertype>
+      <description>Bit cloud is a traveling junk dealer who stumbled onto a battle and ended up becoming the miracle pilot of the blitz team. Bit is arrogant and enjoys a good Zoid battle. When his friends are in danger however, you will find Bit there, ready to help. Bit may seem to be a good for nothing to certain characters (Leena), but his true potential lies with Liger Zero. A mysterious zoid that goes berserk when anyone other than Bit attempts to pilot him.</description>
+      <picture>28978.jpg</picture>
+      <seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+    </character>
+    <character id="9432" type="main character in" update="2009-06-15">
+      <rating votes="1">6.09</rating>
+      <name>Rinon Torosu</name>
+      <gender>female</gender>
+      <charactertype id="1">Character</charactertype>
+      <description>On the battlefield, Leena`s fighting style centers on one simple philosophy: shoot, shoot, shoot. Originally piloting a heavily-armed Dibison, she trades it in for a very customized Gun Sniper. Rather than using it in its traditional long-range role, she fits a Weasel Unit onto it, loading it with a massive number of missile launchers. Good thing. Her usual solution to a problem situation is to order Total Assault: firing everything she`s got.</description>
+      <picture>28979.jpg</picture>
+      <seiyuu id="12" picture="16580.jpg">Kawasumi Ayako</seiyuu>
+    </character>
+    <character id="9433" type="main character in" update="2009-06-15">
+      <name>Ballade Hunter</name>
+      <gender>male</gender>
+      <charactertype id="1">Character</charactertype>
+      <description>Brad originally pilots the reliable Command Wolf, but when it`s damanged beyond repair, he begins to follow a calling in his heart. Leaving the Blitz Team briefly, he seeks out a calling (like Bit) for a Zoid he could personally bond with, one he saw one time. He found that Zoid in Dr. Layon`s laboratory: the experimental Shadow Fox. With sheer bravado, he makes his way into the cockpit, climbs in, and takes off. Quickly figuring out its numerous capabilities, he easily handles the Backdraft`s pursuit, primpting Dr. Layon to make him an offer</description>
+      <picture>28980.jpg</picture>
+      <seiyuu id="263" picture="17087.jpg">Matsukaze Masaya</seiyuu>
+    </character>
+    <character id="9434" type="main character in" update="2009-06-15">
+      <name>Rion Torosu</name>
+      <gender>male</gender>
+      <charactertype id="1">Character</charactertype>
+      <description>Leon was the leader until Bit`s Truck tripped his Shield Liger, breaking Leon`s arm. Bit took over Leon`s position after Leon left the base. Leon traveled around the world, competing in battles, days bad and good. He left carcasses of trashed Zoids behind him every day until he found a Red Blade Liger or vice versa.</description>
+      <picture>28981.jpg</picture>
+      <seiyuu id="375" picture="17221.jpg">Chiba Susumu</seiyuu>
+    </character>
+    <character id="9435" type="main character in" update="2009-06-15">
+      <name>Jiemi Hemerosu</name>
+      <gender>male</gender>
+      <charactertype id="1">Character</charactertype>
+      <description>He only piloted the Pteras (pronounced &quot;terrace&quot;) in the first half of the season, because Doc, our impulse shopper, traded it off on a Raynos after the Pteras was rendered unpilotable by the Backdraft`s Zabat. When he was piloting the Reynos, he entered a subconscious state and actually started being a man, instead of a kid. He`s learning to grow, but he isn`t there yet.</description>
+      <picture>28982.jpg</picture>
+      <seiyuu id="180" picture="66228.jpg">Saiga Mitsuki</seiyuu>
+    </character>
+    <character id="9437" type="main character in" update="2009-06-15">
+      <name>Dr. Torosu</name>
+      <gender>male</gender>
+      <charactertype id="1">Character</charactertype>
+      <description>Dr. Toros is the one that built the Jager, Schneider, and Panzer units for the Liger Zero. Aside from that, he is also the biggest impulse shopper within an 8 mile radius of the Toros Base, and yes, he is the father of Leena and Leon Toros.</description>
+      <picture>28984.jpg</picture>
+      <seiyuu id="478" picture="17453.jpg">Nakamura Daiki</seiyuu>
+    </character>
+    <character id="9438" type="appears in" update="2009-06-15">
+      <name>Blitz Team</name>
+      <gender>unknown</gender>
+      <charactertype id="3">Organization</charactertype>
+      <description>The team lead by Dr. Torosu, consisting of; Rinon, Rion, Bit, Ballade, and Jiemi.</description>
+    </character>
+  </characters>
+  <episodes>
+    <episode id="20454" update="2011-10-20">
+      <epno type="1">1</epno>
+      <length>25</length>
+      <airdate>2001-01-06</airdate>
+      <title xml:lang="ja">戦闘開始! -ライガーゼロ ゴー・ファイト!-</title>
+      <title xml:lang="en">Commence Battle: Attack Liger Zero</title>
+      <title xml:lang="x-jat">Sentou Kaishi! Liger Zero Go Fight!</title>
+    </episode>
+    <episode id="20455" update="2011-10-20">
+      <epno type="1">3</epno>
+      <length>25</length>
+      <airdate>2001-01-20</airdate>
+      <title xml:lang="ja">王者登場 -ハリー・チャンプ-</title>
+      <title xml:lang="en">The Prince Arrives: Harry Champ</title>
+      <title xml:lang="x-jat">Ouja Toujou: Harry Champ</title>
+    </episode>
+    <episode id="20456" update="2011-10-20">
+      <epno type="1">8</epno>
+      <length>25</length>
+      <airdate>2001-02-24</airdate>
+      <title xml:lang="ja">猛虎襲来! -換装!! ゼロシュナイダー-</title>
+      <title xml:lang="en">Invasion of the Fierce Tigers: Transform to Zero Schneider</title>
+      <title xml:lang="x-jat">Mouko Shuurai! Kansou Zero Schneider</title>
+    </episode>
+    <episode id="20457" update="2011-10-20">
+      <epno type="1">23</epno>
+      <length>25</length>
+      <airdate>2001-06-09</airdate>
+      <title xml:lang="ja">目覚める竜 -バーサークフューラー出撃-</title>
+      <title xml:lang="en">The Dragon Awakens: The Berserk Fury Enters the Fray</title>
+      <title xml:lang="x-jat">Mezameru Ryuu: Berserk Fury Shutsugeki</title>
+    </episode>
+    <episode id="20458" update="2011-10-20">
+      <epno type="1">13</epno>
+      <length>25</length>
+      <airdate>2001-03-31</airdate>
+      <title xml:lang="ja">荒鷲の勇者 -レイノスvsザバット-</title>
+      <title xml:lang="en">The Brave Wild Eagle: The Raynos vs. the Zabats</title>
+      <title xml:lang="x-jat">Arasu no Yuusha: Raynos vs Zabats</title>
+    </episode>
+    <episode id="20459" update="2011-10-20">
+      <epno type="1">21</epno>
+      <length>25</length>
+      <airdate>2001-05-26</airdate>
+      <title xml:lang="ja">王者の災難 -ラオン博士の華麗なる罠-</title>
+      <title xml:lang="en">Harry`s Disaster: Dr. Laon Traps Toros!</title>
+      <title xml:lang="x-jat">Ouja no Sainan: Laon Hakase no Karei Naru Wana</title>
+    </episode>
+    <episode id="20460" update="2011-10-20">
+      <epno type="1">9</epno>
+      <length>25</length>
+      <airdate>2001-03-03</airdate>
+      <title xml:lang="ja">女帝登場 -マリー・チャンプ-</title>
+      <title xml:lang="en">The Princess Arrives: Mary Champ</title>
+      <title xml:lang="x-jat">Nyotei Toujou: Mary Champ</title>
+    </episode>
+    <episode id="20461" update="2011-10-20">
+      <epno type="1">24</epno>
+      <length>25</length>
+      <airdate>2001-06-16</airdate>
+      <title xml:lang="ja">勇者の祭典 -開幕! ロイヤルカップ-</title>
+      <title xml:lang="en">Tournament of Heroes: The Royal Cup</title>
+      <title xml:lang="x-jat">Yuusha no Saiten: Kaimaku! Royal Cup</title>
+    </episode>
+    <episode id="20462" update="2011-10-20">
+      <epno type="1">16</epno>
+      <length>25</length>
+      <airdate>2001-04-21</airdate>
+      <title xml:lang="ja">赤き好敵手 -レオン・トロス帰還-</title>
+      <title xml:lang="en">Red Rival: Leon Toros Returns!</title>
+      <title xml:lang="x-jat">Akaki Koutekishu: Leon Toros Kikan</title>
+    </episode>
+    <episode id="20463" update="2011-10-20">
+      <epno type="1">2</epno>
+      <length>25</length>
+      <airdate>2001-01-13</airdate>
+      <title xml:lang="ja">二人の勝利 -紅き閃光ナオミ・フリューゲル-</title>
+      <title xml:lang="en">New Partners vs Naomi; The Red Comet</title>
+      <title xml:lang="x-jat">Futari no Shouri: Akaki Senkou Naomi Furyuugeru</title>
+    </episode>
+    <episode id="20464" update="2011-10-20">
+      <epno type="1">22</epno>
+      <length>25</length>
+      <airdate>2001-06-02</airdate>
+      <title xml:lang="ja">海に潜む竜 -アルティメットXを探せ!-</title>
+      <title xml:lang="en">The Dragon Under the Sea: In Search of the Ultimate X</title>
+      <title xml:lang="x-jat">Umi ni Hisomu Ryuu: Ultimate X o Sagase!</title>
+    </episode>
+    <episode id="20465" update="2011-10-20">
+      <epno type="1">4</epno>
+      <length>25</length>
+      <airdate>2001-01-27</airdate>
+      <title xml:lang="ja">バトル! -謎のバックドラフト団-</title>
+      <title xml:lang="en">Unsanctioned Battle: The Mysterious Backdraft Group</title>
+      <title xml:lang="x-jat">Battle! Nazo no Backdraft Dan</title>
+    </episode>
+    <episode id="20466" update="2011-10-20">
+      <epno type="1">25</epno>
+      <length>25</length>
+      <airdate>2001-06-23</airdate>
+      <title xml:lang="ja">サバイバル -アルティメットXの謎-</title>
+      <title xml:lang="en">Survival: The Mystery of the Ultimate X</title>
+      <title xml:lang="x-jat">Survival: Ultimate X no Nazo</title>
+    </episode>
+    <episode id="20467" update="2011-10-20">
+      <epno type="1">20</epno>
+      <length>25</length>
+      <airdate>2001-05-19</airdate>
+      <title xml:lang="ja">フォックス -裏切りのバラッド-</title>
+      <title xml:lang="en">The Shadow Fox: Brad`s Betrayal</title>
+      <title xml:lang="x-jat">Fox: Uragiri no Brad</title>
+    </episode>
+    <episode id="20468" update="2007-06-29">
+      <epno type="1">26</epno>
+      <length>20</length>
+      <airdate>2001-06-30</airdate>
+      <title xml:lang="ja">ゼロの軌跡 -風と雲と冒険と...-</title>
+      <title xml:lang="en">The Miracle of Zero: The Wind, the Cloud and Adventure</title>
+      <title xml:lang="x-jat">Zero no Kiseki: Kaze to Kumo to Bouken to...</title>
+    </episode>
+    <episode id="20469" update="2011-10-20">
+      <epno type="1">14</epno>
+      <length>25</length>
+      <airdate>2001-04-07</airdate>
+      <title xml:lang="ja">リノン絶叫 -敵は13日のノコギリ魔!?-</title>
+      <title xml:lang="en">Fright Day the 13th</title>
+      <title xml:lang="x-jat">Rinon Zekkyou: Teki wa 13 Nichi no Nokogiri ma!?</title>
+    </episode>
+    <episode id="20470" update="2011-10-20">
+      <epno type="1">15</epno>
+      <length>25</length>
+      <airdate>2001-04-14</airdate>
+      <title xml:lang="ja">ラオン再び -反重力カタストロフィ-</title>
+      <title xml:lang="en">Layon Returns: Anti-Gravity Catastrophe!</title>
+      <title xml:lang="x-jat">Layon Futatabi: Han Juuryoku Catastrophe</title>
+    </episode>
+    <episode id="20471" update="2011-10-20">
+      <epno type="1">12</epno>
+      <length>25</length>
+      <airdate>2001-03-24</airdate>
+      <title xml:lang="ja">ゼロ強奪 -脅威のファイヤーデスバトルが始まる!-</title>
+      <title xml:lang="en">Zero Is Stolen: The Fiery Battle</title>
+      <title xml:lang="x-jat">Zero Goudatsu: Kyoui no Fiery Battle ga Hajimaru!</title>
+    </episode>
+    <episode id="20472" update="2011-10-20">
+      <epno type="1">11</epno>
+      <length>25</length>
+      <airdate>2001-03-17</airdate>
+      <title xml:lang="ja">三つの旋風 -再戦! ライトニングサイクス-</title>
+      <title xml:lang="en">The Sensational Three: Rematch with Jack Cisco</title>
+      <title xml:lang="x-jat">Mittsu no Senpuu: Saisen! Lightning Saikusu</title>
+    </episode>
+    <episode id="20473" update="2011-10-20">
+      <epno type="1">5</epno>
+      <length>25</length>
+      <airdate>2001-02-03</airdate>
+      <title xml:lang="ja">高速対決! 高速対決! -ゼロイエーガー, 換装[インストレーション]!-</title>
+      <title xml:lang="en">High Speed Battle: Transforming Into Zero Jager</title>
+      <title xml:lang="x-jat">Kousoku Taiketsu! Zero Jager, Kansou &quot;Installation&quot;</title>
+    </episode>
+    <episode id="20474" update="2011-10-20">
+      <epno type="1">10</epno>
+      <length>25</length>
+      <airdate>2001-03-10</airdate>
+      <title xml:lang="ja">砂漠の牙 -ウオディック強襲!!-</title>
+      <title xml:lang="en">Desert Tusk: Assault of the War Sharks</title>
+      <title xml:lang="x-jat">Sabaku no Kiba: War Dick Kyoushuu!!</title>
+    </episode>
+    <episode id="20475" update="2011-10-20">
+      <epno type="1">6</epno>
+      <length>25</length>
+      <airdate>2001-02-10</airdate>
+      <title xml:lang="ja">闇の巨象 -強敵エレファンダーを倒せ!-</title>
+      <title xml:lang="en">The Dark Giant: The Invincible Elephander</title>
+      <title xml:lang="x-jat">Yami no Kyozou: Kyouteki Elephander o Taose!</title>
+    </episode>
+    <episode id="20476" update="2011-10-20">
+      <epno type="1">7</epno>
+      <length>25</length>
+      <airdate>2001-02-17</airdate>
+      <title xml:lang="ja">激走の荒野 -ホバーカーゴ危機百発!-</title>
+      <title xml:lang="en">The Desert Gang: The Hover Cargo`s in Danger</title>
+      <title xml:lang="x-jat">Gekisou no Arano: Hover Cargo Kiki Hyappatsu!</title>
+    </episode>
+    <episode id="20477" update="2011-10-20">
+      <epno type="1">18</epno>
+      <length>25</length>
+      <airdate>2001-05-05</airdate>
+      <title xml:lang="ja">恋する戦場 -愛しのジャッジマン-</title>
+      <title xml:lang="en">Love on the Battlefield: My Love, the Judge</title>
+      <title xml:lang="x-jat">Koisuru Senjou: Itoshi no Judgeman</title>
+    </episode>
+    <episode id="20478" update="2011-10-20">
+      <epno type="1">19</epno>
+      <length>25</length>
+      <airdate>2001-05-12</airdate>
+      <title xml:lang="ja">第三の換装 -ゼロパンツァー始動!!-</title>
+      <title xml:lang="en">The Third Conversion: Zero Panzer`s Debut!</title>
+      <title xml:lang="x-jat">Dai San no Kansou: Zero Panzer Shidou!!</title>
+    </episode>
+    <episode id="20479" update="2011-10-20">
+      <epno type="1">17</epno>
+      <length>25</length>
+      <airdate>2001-04-28</airdate>
+      <title xml:lang="ja">戦士の休息 -二つのストームソーダー-</title>
+      <title xml:lang="en">Warriors on Vacation: The Storm Sworders</title>
+      <title xml:lang="x-jat">Senshi no Kyuusoku: Futatsu no Storm Sworders</title>
+    </episode>
+    <episode id="121657" update="2010-09-01">
+      <epno type="3">C2</epno>
+      <length>2</length>
+      <airdate>2001-01-06</airdate>
+      <title xml:lang="en">Ending</title>
+    </episode>
+    <episode id="121658" update="2010-09-01">
+      <epno type="3">C1</epno>
+      <length>2</length>
+      <airdate>2001-01-06</airdate>
+      <title xml:lang="en">Opening</title>
+    </episode>
+  </episodes>
+</anime>

@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.IO;
 using AniDb.Api.Exceptions;
 using AniDb.Api.Models;
 using AniDb.Api.ResponseReaders;

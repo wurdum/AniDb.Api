@@ -15,11 +15,24 @@ namespace AniDb.Api.Tests
     {
         [Test]
         public void AnimeReaderThrowsXmlExceptionTest() {
-            var animeReader = new AnimeReader();
-            var body = File.ReadAllText(Helpers.ResponseFile("anime-1774.xml")).Substring(1);
+            var body = File.ReadAllText(Helpers.ResponseFile("anime-999999.xml")).Substring(1);
+            var reader = new AnimeReader();
 
             try {
-                animeReader.ReadObject(body);
+                reader.ReadObject(body);
+            } catch (ResponseReadXmlException ex) {
+                Assert.AreEqual(body, ex.ResponseBody);
+                Assert.AreEqual(typeof(XmlException), ex.InnerException.GetType());
+            }
+        }
+
+        [Test]
+        public void CategoryReaderThrowsXmlExceptionTest() {
+            var body = File.ReadAllText(Helpers.ResponseFile("category.xml")).Substring(1);
+            var reader = new CategoryReader();
+
+            try {
+                reader.ReadObject(body);
             } catch (ResponseReadXmlException ex) {
                 Assert.AreEqual(body, ex.ResponseBody);
                 Assert.AreEqual(typeof(XmlException), ex.InnerException.GetType());
@@ -28,21 +41,28 @@ namespace AniDb.Api.Tests
 
         [Test]
         public void AnimeReaderThrowsValidationExceptionTest() {
-            var animeReader = new AnimeReader();
-            var body = File.ReadAllText(Helpers.ResponseFile("anime-999999.xml"));
+            var body = File.ReadAllText(Helpers.ResponseFile("anime-999998.xml"));
+            var reader = new AnimeReader();
 
-            try {
-                animeReader.ReadObject(body);
-            } catch (ResponseValidateXmlException ex) {
-                Assert.AreEqual(body, ex.ResponseBody);
-                Assert.AreEqual(1, ex.SchemaExceptions.Count());
-            }
+            var ex = Assert.Throws<ResponseValidateXmlException>(() => reader.ReadObject(body));
+            Assert.AreEqual(body, ex.ResponseBody);
+            Assert.AreEqual(1, ex.SchemaExceptions.Count());
+        }
+
+        [Test]
+        public void CategoryReaderThrowsValidationExceptionTest() {
+            var body = File.ReadAllText(Helpers.ResponseFile("category-999999.xml"));
+            var reader = new CategoryReader();
+
+            var ex = Assert.Throws<ResponseValidateXmlException>(() => reader.ReadObject(body));
+            Assert.AreEqual(body, ex.ResponseBody);
+            Assert.AreEqual(1, ex.SchemaExceptions.Count());
         }
         
         [Test]
-        public void ReadingResponsesBodiesTest() {
+        public void ReadingAnimeResponsesBodiesTest() {
             var animeReader = new AnimeReader();
-            var objFromResponse = Helpers.AllValidResponsesFiles().Select(File.ReadAllText).Select(animeReader.ReadObject).ToList();
+            var objFromResponse = Helpers.AllValidAnimeResponsesFiles().Select(File.ReadAllText).Select(animeReader.ReadObject).ToList();
             var objFromFiles = Helpers.AllSerializedObjectFiles().Select(f => JsonConvert.DeserializeObject<Anime>(File.ReadAllText(f))).ToList();
 
             foreach (var actual in objFromResponse) {
@@ -54,7 +74,7 @@ namespace AniDb.Api.Tests
         /*[Test]
         public void RecreateJsonAnimeObjects() {
             var animeReader = new AnimeReader();
-            var objs = Helpers.AllValidResponsesFiles()
+            var objs = Helpers.AllValidAnimeResponsesFiles()
                 .Select(File.ReadAllText)
                 .Select(animeReader.ReadObject).ToList();
 

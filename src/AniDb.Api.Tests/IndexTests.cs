@@ -10,7 +10,7 @@ namespace AniDb.Api.Tests
             var index = new Index();
 
             Assert.True(index.Count > 0);
-            Assert.AreEqual(index.Find("❄").Value.Id, 4726);
+            Assert.AreEqual(index.FindFirst("❄").Value.Id, 4726);
         }
 
         [Test]

@@ -1,6 +1,6 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -9,7 +9,7 @@ using Kent.Boogaart.KBCsv;
 
 namespace AniDb.Api
 {
-    public class Index
+    public class Index : IEnumerable<IGrouping<string, Index.Entry>>
     {
         public const string DataDir = "Data";
         public const string IndexFileName = "anime-titles.dat";
@@ -68,6 +68,14 @@ namespace AniDb.Api
                 Language = language;
                 Title = title;
             }
+        }
+
+        public IEnumerator<IGrouping<string, Entry>> GetEnumerator() {
+            return _entries.GetEnumerator();
+        }
+
+        IEnumerator IEnumerable.GetEnumerator() {
+            return GetEnumerator();
         }
     }
 }

@@ -1,4 +1,6 @@
-﻿using NUnit.Framework;
+﻿using System.Collections.Generic;
+using System.Linq;
+using NUnit.Framework;
 
 namespace AniDb.Api.Tests
 {
@@ -14,10 +16,12 @@ namespace AniDb.Api.Tests
         }
 
         [Test]
-        public void IndexAllowsAccessByIndex() {
+        public void IndexAllowsAccessByKey() {
             var index = new Index();
 
-            Assert.AreNotEqual(default(Index.Entry), index[0]);
+            var entries = index["clannad"];
+            Assert.AreNotEqual(Enumerable.Empty<Index.Entry>(), entries);
+            Assert.True(entries.Any());
         }
     }
 }

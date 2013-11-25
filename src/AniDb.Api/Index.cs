@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -19,12 +20,13 @@ namespace AniDb.Api
             var indexFile = Path.Combine(programmRoot, DataDir, IndexFileName);   
 
             var entries = new List<Entry>(44000);
-            using (var reader = new CsvReader(File.OpenRead(indexFile), Encoding.UTF8) { ValueSeparator = '|' }) {
+            using (var reader = new CsvReader(File.OpenRead(indexFile), Encoding.UTF8) { ValueSeparator = '|', ValueDelimiter = null }) {
                 
                 reader.SkipRecords(3);
                 DataRecord record;
-                while ((record = reader.ReadDataRecord()) != null)
+                while ((record = reader.ReadDataRecord()) != null) {
                     entries.Add(new Entry(Convert.ToInt32(record[0]), (EntryType)Convert.ToInt32(record[1]), record[2], record[3]));
+                }
             }
 
             _entries = entries.ToLookup(e => e.Title, StringComparer.OrdinalIgnoreCase);
@@ -34,12 +36,12 @@ namespace AniDb.Api
             get { return _entries.Count; }
         }
 
-        public Entry this[int index] {
-            get { return _entries.ElementAt(index).First(); }
+        public IEnumerable<Entry> this[string key] {
+            get { return _entries[key]; }
         }
 
         public Entry? FindFirst(string title, EntryType preferType = EntryType.PrimaryTitle) {
-            var enries = FindAll(title);
+            var enries = FindAll(title).ToArray();
             if (enries.Length == 0)
                 return null;
 
@@ -47,8 +49,8 @@ namespace AniDb.Api
             return !prefered.Equals(default(Entry)) ? prefered : enries[0];
         }
 
-        public Entry[] FindAll(string title) {
-            return _entries[title].ToArray();
+        public IEnumerable<Entry> FindAll(string title) {
+            return this[title];
         }
 
         public enum EntryType { PrimaryTitle = 1, Synonyms, ShortTitles, OfficialTitle }

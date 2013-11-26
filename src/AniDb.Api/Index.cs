@@ -9,11 +9,11 @@ using Kent.Boogaart.KBCsv;
 
 namespace AniDb.Api
 {
-    public class Index : IEnumerable<IGrouping<string, Index.Entry>>
+    public class Index : IEnumerable<Index.Entry>
     {
         public const string DataDir = "Data";
         public const string IndexFileName = "anime-titles.dat";
-        private static ILookup<string, Entry> _entries;
+        private static Entry[] _entries;
 
         static Index() {
             var programmRoot = Path.GetDirectoryName(new Uri(Assembly.GetExecutingAssembly().CodeBase).LocalPath);
@@ -29,14 +29,14 @@ namespace AniDb.Api
                 }
             }
 
-            _entries = entries.ToLookup(e => e.Title, StringComparer.OrdinalIgnoreCase);
+            _entries = entries.ToArray();
         }
 
         public int Count {
-            get { return _entries.Count; }
+            get { return _entries.Length; }
         }
 
-        public IEnumerable<Entry> this[string key] {
+        public Entry this[int key] {
             get { return _entries[key]; }
         }
 
@@ -50,7 +50,7 @@ namespace AniDb.Api
         }
 
         public IEnumerable<Entry> FindAll(string title) {
-            return this[title];
+            return _entries.Where(e => e.Title.Equals(title, StringComparison.OrdinalIgnoreCase));
         }
 
         public enum EntryType { PrimaryTitle = 1, Synonyms, ShortTitles, OfficialTitle }
@@ -70,12 +70,58 @@ namespace AniDb.Api
             }
         }
 
-        public IEnumerator<IGrouping<string, Entry>> GetEnumerator() {
-            return _entries.GetEnumerator();
+        public IEnumerator<Entry> GetEnumerator() {
+            return _entries.Cast<Entry>().GetEnumerator();
         }
 
         IEnumerator IEnumerable.GetEnumerator() {
             return GetEnumerator();
+        }
+    }
+
+    public class IndexByTitle
+    {
+        private readonly ILookup<string, Index.Entry> _entries;
+
+        public IndexByTitle() {
+            var index = new Index();
+            _entries = index.ToLookup(i => i.Title);
+        }
+
+        public Index.Entry? FindFirst(string title, Index.EntryType preferType = Index.EntryType.PrimaryTitle) {
+            var enries = FindAll(title).ToArray();
+            if (enries.Length == 0)
+                return null;
+
+            var prefered = enries.FirstOrDefault(e => e.Type == preferType);
+            return !prefered.Equals(default(Index.Entry)) ? prefered : enries[0];
+        }
+
+        public IEnumerable<Index.Entry> FindAll(string title) {
+            return _entries.Contains(title) ? _entries[title] : Enumerable.Empty<Index.Entry>();
+        }
+    }
+
+    public class IndexById
+    {
+        private readonly ILookup<int, Index.Entry> _entries;
+
+        public IndexById() {
+            var index = new Index();
+            _entries = index.ToLookup(i => i.Id);
+        }
+
+        public Index.Entry? FindFirst(int id, Index.EntryType preferType = Index.EntryType.PrimaryTitle) {
+            var enries = FindAll(id).ToArray();
+            if (enries.Length == 0)
+                return null;
+
+            var prefered = enries.FirstOrDefault(e => e.Type == preferType);
+            return !prefered.Equals(default(Index.Entry)) ? prefered : enries[0];
+        }
+
+        public IEnumerable<Index.Entry> FindAll(int id) {
+            return _entries.Contains(id) ? _entries[id] : Enumerable.Empty<Index.Entry>();
         }
     }
 }

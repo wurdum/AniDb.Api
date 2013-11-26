@@ -24,7 +24,7 @@ namespace AniDb.Api.Console
             var client = new ClientCredentials("supermango", 1);
             var reader = new AnimeReader();
             for (var i = index.Count - 1; i > 0; i--) {
-                var aid = index.ElementAt(i).First().Id;
+                var aid = index[i].Id;
                 var responseFile = GetResponseFile(aid);
                 if (!AlreadyRequested(aid)) {
                     File.WriteAllText(responseFile, HttpRequests.CreateToAnime(client, aid).GetResponseAsync().Result.ResponseBody);

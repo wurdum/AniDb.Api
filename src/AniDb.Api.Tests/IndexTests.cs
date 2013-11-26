@@ -19,7 +19,7 @@ namespace AniDb.Api.Tests
         public void IndexAllowsAccessByKey() {
             var index = new Index();
 
-            var entries = index["clannad"];
+            var entries = index.FindAll("clannad");
             Assert.AreNotEqual(Enumerable.Empty<Index.Entry>(), entries);
             Assert.True(entries.Any());
         }
